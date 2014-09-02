@@ -1,0 +1,153 @@
+%-------------------------------------------------------------------%
+%- VTHESIS12.CLO                                                   -%
+%-------------------------------------------------------------------%
+%-                                                                 -%
+%- 12pt document settings for VTHESIS.CLS                          -%
+%- UVic Thesis style according to Dec. 1994 rules (for LaTeX 2e)   -%
+%- (c) Vassilios V. Dimakopoulos, LA.P.I.S., May & Nov. 1995       -%
+%-                                                                 -%
+%- This file may be freely distributed but not altered.            -%
+%- NOTE: No guarantees are made that this file works! And in no    -%
+%-       way will the author be responsible to any damage done to  -%
+%-       your files. Use it at your own risk.                      -%
+%-                                                                 -%
+%-------------------------------------------------------------------%
+
+\ProvidesFile{vthesis12.clo}[1995/10/30]
+
+%-
+%- Define the font sizes
+%-
+\renewcommand{\normalsize}{\@setfontsize\normalsize\@xiipt{14.5}%
+  \abovedisplayskip 12\p@ plus3\p@ minus7\p@
+  \belowdisplayskip \abovedisplayskip
+  \abovedisplayshortskip  \z@ plus3\p@
+  \belowdisplayshortskip  6.5\p@ plus3.5\p@ minus3\p@
+  \let\@listi\@listI}
+
+%- Removed parsep from @listi, redefined topsep, itemsep (VD)
+\newcommand{\small}{\@setfontsize\small\@xipt{13.6}%
+  \abovedisplayskip 11\p@ plus3\p@ minus6\p@
+  \belowdisplayskip \abovedisplayskip
+  \abovedisplayshortskip \z@ plus3\p@
+  \belowdisplayshortskip  6.5\p@ plus3.5\p@ minus3\p@
+  \def\@listi{\leftmargin\leftmargini
+    \topsep 4\p@ plus1\p@ minus1\p@
+    \itemsep 3\p@ plus1\p@ minus2\p@}}
+
+%- Same changes as in \small
+\def\footnotesize{\@setfontsize\footnotesize\@xpt\@xiipt
+  \abovedisplayskip 10\p@ plus2\p@ minus5\p@
+  \belowdisplayskip \abovedisplayskip
+  \abovedisplayshortskip \z@ plus3\p@
+  \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@
+  \def\@listi{\leftmargin\leftmargini
+    \topsep 4\p@ plus1\p@ minus1\p@
+    \itemsep 3\p@ plus1\p@ minus1\p@}}
+
+\newcommand{\scriptsize}{\@setfontsize\scriptsize\@viiipt{9.5}}
+\newcommand{\tiny}{\@setfontsize\tiny\@vipt\@viipt}
+\newcommand{\large}{\@setfontsize\large\@xivpt{18}}
+\newcommand{\Large}{\@setfontsize\Large\@xviipt{22}}
+\newcommand{\LARGE}{\@setfontsize\LARGE\@xxpt{25}}
+\newcommand{\huge}{\@setfontsize\huge\@xxvpt{30}}
+\newcommand{\Huge}{\@setfontsize\Huge\@xxvpt{30}}
+
+\normalsize
+
+%-
+%- Settings
+%-
+%- Follow the official sizes for UVic. Notice that a few parameters
+%- (e.g. \parindent) may look better with smaller values if we
+%- have two columns. But this is never the case here.
+%- 
+\textwidth 6in         %- Between the left and right margins
+\oddsidemargin .5in    %- Relative to 1in (=2.54cm) offset (left margin)
+\evensidemargin 0in    %- Ditto, equal to right margin in odd-numbered pages
+\topmargin 0in         %- Relative to 1in offset - total 1in to header
+\headheight .5cm       %- =14.2264pt - space reserved for header
+\headsep 1cm           %- Distance between bottom of header to top of body
+\textheight 21.37cm    %- 27.95 - (topmargin+2.54) - headheight
+                       %    - headsep - "bottom margin" (assumed 1in)
+%- \footheight .5cm       %- Like header (included in \footskip, see below)
+%-                        Obsolete in latex2e
+\footskip 1.5cm        %- Distance between bottom of body to BOTTOM of footer
+                       %- We assume no footer exists else top space is larger
+
+\topskip 12pt          %- Distance between top of text and bottom of 1st line
+\parindent 1.5em       %- ...
+\parskip 0pt plus 5pt  %- Additional space for seperating paragraphs
+%-                           See vthesis.cls.
+\marginparwidth 2.4cm  %- Margin paragraph width - about 1in
+\marginparsep .3cm     %- Distance from edge of document body
+\marginparpush 7pt     %- Minimum vertical space between two marginal notes
+
+\footnotesep 8.4pt     %- Distance in addition to normal interline distance
+\columnsep 10pt        %- Space between cols in 2-col document
+\columnseprule 0pt     %- Width of vertical line between the two cols
+
+\floatsep 12pt plus 2pt minus 4pt  %- Vertical spaces between floats
+\textfloatsep 20pt plus 2pt minus 4pt  %- Space between float and text
+                       %- when placed on top or bottom of page
+\intextsep 14pt plus 4pt minus 4pt  %- As above for middle-of-page floats
+\dblfloatsep 14pt plus 2pt minus 4pt  %- As floatsep but for double-col
+                       %- floats in 2-col document
+\dbltextfloatsep 20pt plus 2pt minus 4pt  %- ...
+%- \@maxsep 20pt       %- Obsolete in latex2e
+%- \@dblmaxsep 20pt
+\@fptop 0pt plus 1fil
+\@fpsep 10pt plus 2fil
+\@fpbot 0pt plus 1fil
+\@dblfptop 0pt plus 1fil
+\@dblfpsep 10pt plus 2fil
+\@dblfpbot 0pt plus 1fil
+
+\skip\footins 10.8pt plus 4pt minus 2pt
+\partopsep 3pt plus 2pt minus 2pt
+
+%-
+%- List environments stuff
+%-
+
+%- Reduced topsep and itemsep, removed parsep setting (VD)
+\def\@listI{\leftmargin\leftmargini 
+  \labelwidth\leftmargini\advance\labelwidth-\labelsep
+  %-\parsep 2\p@ plus\p@ minus\p@
+  \topsep 5\p@ plus2\p@ minus3\p@
+  \itemsep 3\p@ plus1\p@ minus.5\p@}
+
+\let\@listi\@listI
+\@listi
+
+%- Almost same changes as @listI (VD)
+\def\@listii{\leftmargin\leftmarginii
+  \labelwidth\leftmarginii\advance\labelwidth-\labelsep
+  \topsep 3\p@ plus\p@ minus\p@
+  %-\parsep 2\p@ plus\p@ minus\p@
+  \itemsep 2\p@ plus.5\p@ minus.5\p@}
+
+%- Almost same changes as @listI (VD)
+\def\@listiii{\leftmargin\leftmarginiii
+  \labelwidth\leftmarginiii\advance\labelwidth-\labelsep
+  \topsep 1.5\p@ plus.5\p@ minus.5\p@
+  \parsep \z@
+  \partopsep\p@ plus\z@ minus\p@
+  \itemsep \topsep}
+
+\def\@listiv{\leftmargin\leftmarginiv
+  \labelwidth\leftmarginiv\advance\labelwidth-\labelsep}
+\def\@listv{\leftmargin\leftmarginv
+  \labelwidth\leftmarginv\advance\labelwidth-\labelsep}
+\def\@listvi{\leftmargin\leftmarginvi
+  \labelwidth\leftmarginvi\advance\labelwidth-\labelsep}
+
+%- We have to define the \big etc mathematical macros to work for 12pt fonts
+%- Latex defines them only for 10pt fonts!!! (VD)
+%- NOTE: \big seems impossible to implement; the others work fine but
+%-       \big yileds normal size.
+\def\big#1{{\hbox{$\left#1\vbox to9.66\p@{}\right.\n@space$}}}
+\def\Big#1{{\hbox{$\left#1\vbox to12.59\p@{}\right.\n@space$}}}
+\def\bigg#1{{\hbox{$\left#1\vbox to15.88\p@{}\right.\n@space$}}}
+\def\Bigg#1{{\hbox{$\left#1\vbox to19.17\p@{}\right.\n@space$}}}
+
