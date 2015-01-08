@@ -1,29 +1,265 @@
 \chapter{A Conceptual Framework for Information Discovery and Curation on the Web}
 \label{chapter:framework}
 
-Although Web-based information discovery and curation tasks are commonly performed today, as we mentioned above, there is a lack of literature on how to support them when building applications. We reduce this gap by presenting a framework of design factors facilitating digital information discovery and curation (see Table 2). 
+Although Web-based information discovery and curation tasks are commonly performed today, as we mentioned above, there is a lack of literature on how to support them when building applications. We reduce this gap by presenting a framework of design factors facilitating digital information discovery and curation (see Figure~\ref{fig:overview}). 
 
-The framework consists of five main categories (navigation, exploration, curation, channeling of information, and integration) that are consequently decomposed into subcategories. Each subcategory contains factors that determine use case enablers and corresponding questions that can help application design and evaluation. This chapter outlines the main components of the framework. 
+The framework consists of two main categories (discovery and curation) that are consequently decomposed into subcategories. Each subcategory contains factors that determine use case enablers and corresponding questions that can help application design and evaluation. This chapter outlines the main components of the framework. 
+
+
+\begin{figure}[ht!]
+	\noindent
+	\centering
+	\includegraphics[width=\linewidth]{overview.png}
+	\caption{Conceptual Framework Overview}
+	\label{fig:overview} 
+\end{figure}
+
+
 
 {\section{Discovery and Navigation}
 In order to discover new information, a user needs to have a way of navigating to it. 
 
 
-\begin{table}[h]
-\begin{tabular}{ll}
-Mechanism                                                         & Support and automation                  \\
-                                                                  &                                         \\
-\textbf{Descriptional: The user describes what is wanted}         &                                         \\
-Search-based navigation                                           & Tailoring results                       \\
-                                                                  & Suggesting search terms (guided search) \\
-                                                                  &                                         \\
-\textbf{Referential: The user selects orrefers to what is wanted} &                                         \\
-Category-guided navigation                                        &                                         \\
-Facet-guided navigation                                           &                                         \\
-                                                                  &                                         \\
-                                                                  &                                        
+\begin{table}[ht!]
+\caption{Mechanisms for Navigation}
+\begin{tabular}{{|p{0.35\linewidth}|p{0.60\linewidth}|}}
+\hline
+Navigation mechanisms      & Questions to be posed during the design or evaluation of Web-based information discovery or curation tools \\
+\hline
+\textbf{Descriptional}     &                                                                                                            \\
+Search-based navigation    & Does the search engine help retrieve diverse resources related to the topic of interest?                   \\
+\textbf{Referential}       &                                                                                                            \\
+Category-guided navigation & Do categories suggest and help with navigating to resources related to the topic of interest?              \\
+Facet-guided navigation    & Do facets suggest and help with navigating to resources related to the topic of interest?                  \\
+Filters-guided navigation  & Do filters suggest and help with navigating to resources related to the topic of interest?                 \\
+Interest-guided navigation & Do interests suggest and help with navigating to resources related to the topic of interest?               \\
+Tag-guided navigation      & Do tags suggest and help with navigating to resources related to the topic of interest?                    \\
+Search by resource         & Can the user search by resource?                                                                           \\
+\textbf{Random}            &                                                                                                            \\
+Random navigation          & Is it possible to randomly skip through resources?                                                         \\
+\textbf{Direct}            &                                                                                                            \\
+Direct display             & Is any information displayed directly without search?      \\
+\hline
+
 \end{tabular}
 \end{table}
+
+\begin{table}[ht!]
+\caption{Automation for Navigation}
+\begin{tabular}{{|p{0.35\linewidth}|p{0.60\linewidth}|}}
+\hline
+Automation                   & Questions                                                     \\
+\hline
+\textbf{Descriptional}       &                                                               \\
+Personalized results         & Does the descriptional mechanism return personalized results? \\
+Guided search                & Is the descriptional mechanism guided?                        \\
+\textbf{Referential}         &                                                               \\
+Aggregating inerests         & Are interests aggregated?                                     \\
+Suggesting similar resources & Does the application suggest similar resources?               \\
+Suggesting tags              & Does the application suggest similar tags?                    \\
+\textbf{Random}              &                                                               \\
+Personalized destination     & Is random navigation personalized to the user?                \\
+\textbf{Direct}              &                                                               \\
+Tailoring display            &     Is direct display personalized to the user?   \\                                                       
+\hline
+
+\end{tabular}
+\end{table}
+} % end section
+
+{\section{Exploration and Discovery}
+\begin{table}[ht!]
+\caption{Support for Exploration}
+\begin{tabular}{{|p{0.35\linewidth}|p{0.60\linewidth}|}}
+\hline
+
+Method of exploration                       &          Questions                                                                             \\
+\hline
+\textbf{Visual exploration}                 &                                                                                       \\
+Visual exploration of a single resource     & Does the system provide means for visual resource exploration?                        \\
+Visual exploration of multiple resources    & Does the system provide means for visual resource exploration for multiple resources? \\
+\textbf{Spatial exploration}                &                                                                                       \\
+Spatial exploration of a single resource    & Does the system provide means for spatial resource exploration?                       \\
+Spatial exploration of a multiple resources & Does the system provide means for spatial exploration for multiple resources?        \\                                                       
+\hline
+
+\end{tabular}
+\end{table}
+
+\begin{table}[ht!]
+\caption{Support for Exploration of Multiple Resources}
+\begin{tabular}{{|p{0.35\linewidth}|p{0.60\linewidth}|}}
+\hline
+Method of exploration of multiple resources & Questions                                    \\
+\hline
+\textbf{Visual exploration}                 &                                              \\
+Visual preview                              & Are there visual previews of resources?      \\
+Textual preview                             & Are there textual previews of resources?     \\
+\textbf{Spatial exploration}                &                                              \\
+List                                        & Are resources presented in a list?           \\
+Grid                                        & Are resources presented in a list?           \\
+Gallery                                     & Are resources presented in a gallery layout? \\
+Consistent representation                   & Are resources presented in a consistent way?  \\                                                       
+\hline
+
+\end{tabular}
+\end{table}
+
+\begin{table}[ht!]
+\caption{Support for Exploration of a Single Resource}
+\begin{tabular}{{|p{0.35\linewidth}|p{0.60\linewidth}|}}
+\hline
+Method of exploration of single resource & Questions                                    \\
+\hline
+\textbf{Visual exploration}              &                                              \\
+Visual cues                              & Are there visual cues?                       \\
+Textual cues                             & Are there textual cues?                      \\
+\textbf{Spatial exploration}             &                                              \\
+Spatial semantic                         &                                              \\
+Consistent representation                & Are resources presented in a consistent way?\\                                                       
+\hline
+
+\end{tabular}
+\end{table}
+} % end section
+{\section{Integration}
+\begin{table}[ht!]
+\caption{Integration}
+\begin{tabular}{{|p{0.35\linewidth}|p{0.60\linewidth}|}}
+\hline
+Integration mechanism  & Questions                                          \\
+\hline
+\textbf{Integration} &                                                    \\
+Linking   & Is application linked to another application?\\                                                       
+\hline
+
+\end{tabular}
+\end{table}
+
+\begin{table}[ht!]
+\caption{Support for Integration}
+\begin{tabular}{{|p{0.35\linewidth}|p{0.60\linewidth}|}}
+\hline
+Integration support  & Questions                                          \\
+\hline
+\textbf{Integration} &                                                    \\
+Visual integration   & Is another application's data visually integrated?\\                                                       
+\hline
+
+\end{tabular}
+\end{table}
+} % end section
+
+{\section{Curation}
+
+\begin{table}[ht!]
+\caption{Curation Mechanisms}
+\begin{tabular}{{|p{0.35\linewidth}|p{0.65\linewidth}|}}
+\hline
+Curation support  & Questions                                          \\
+\hline
+\textbf{Management}                   &                                                                                                           \\
+List-based categorization               & Does the application support sorting information into list-like structures, either privately or publicly?                                                  \\
+Tag-based categorization               & Does the application support tagging, either privately or publicly?                                                \\
+
+\textbf{Preservation}                  &                                                                                                           \\
+Internal preservation of internal resources       & Does the application support bookmarking mechanism(s) for preserving internal information within the application?        \\
+Internal preservation of external resources       & Does the application support bookmarking mechanism(s) for preserving external information within the application?        \\
+External preservation of internal resources      & Does the application support bookmarking mechanism(s) for preserving internal information outside of the application? \\ 
+
+\textbf{Augmentation}            &                                                                                                           \\
+Evaluation                   & Can the resource evaluations be recorded privately or publicly? \\
+Annotation                   & Can resources be annotated privately or publicly?                                                                               \\    
+       
+\textbf{Sharing}           &                                                                                                           \\
+Adding resources             & Can resources be publicly added to the collection of information within the application from other Web pages?     \\
+Internal sharing         & Can internal resources be publicly reshared within the application?         \\ 
+External sharing          & Can internal resources be publicly reshared outside of the application?         \\ 
+\hline        
+\end{tabular}
+\end{table}
+
+\begin{table}[ht!]
+\caption{Curation Support}
+\begin{tabular}{{|p{0.35\linewidth}|p{0.65\linewidth}|}}
+\hline
+Curation support  & Questions                                          \\
+\hline
+\textbf{Management}                   &                                                                                                           \\
+Suggesting collections               & Does the application suggest relevant collections?                                                 \\
+Suggesting tags               & Does the application suggests relevant tags?  \\
+
+\textbf{Preservation}                  &                                                                                                           \\
+History       & Does the application automatically preserve found information?        \\
+
+
+\textbf{Augmentation}            &                                                                                                           \\
+Automatic augmentation                   & Does the application automatically annotates resources? \\
+ \\    
+       
+\textbf{Sharing}           &                                                                                                           \\
+Automatic sharing& Are resources shared automatically? \\
+
+\hline        
+\end{tabular}
+\end{table}
+
+} % end section
+{\section{Integration}
+\begin{table}[ht!]
+\caption{Integration}
+\begin{tabular}{{|p{0.35\linewidth}|p{0.60\linewidth}|}}
+\hline
+Integration mechanism  & Questions                                          \\
+\hline
+\textbf{Integration} &                                                    \\
+Linking   & Is application linked to another application?\\                                                       
+\hline
+
+\end{tabular}
+\end{table}
+} % end section
+
+{\section{Chanelled Curation and Discovery}
+
+\begin{table}[ht!]
+\caption{Chenneling Mechanisms}
+\begin{tabular}{{|p{0.35\linewidth}|p{0.60\linewidth}|}}
+\hline
+Channelling mechanisms     & Questions                                               \\
+\hline
+\textbf{Subscriptions}     &                                                         \\
+User subscription          & Can the user subscribe to activities of other users?    \\
+Site subscription          & Can the user subscribe to site updates?                 \\
+Artifact subscription      & Can the user subscribe to artifact updates?             \\
+\textbf{Notifications}     &                                                         \\
+User activity overview     & Does the application display activities of other users? \\
+Site activity overview     & Does the application display site updates?              \\
+Artifact activity overview & Does the application display activities of other users?\\                                                       
+\hline
+
+\end{tabular}
+\end{table}
+
+\begin{table}[ht!]
+\caption{Chenneling Support}
+\begin{tabular}{{|p{0.35\linewidth}|p{0.60\linewidth}|}}
+\hline
+Channelling support               & Questions                                                          \\
+\hline
+\textbf{Subscriptions}            &                                                                    \\
+Suggesting users                  & Are users suggested to the user?                                   \\
+Automatic subscription            & Can the system subscribe the user automatically?                   \\
+Suggesting artifacts              & Are artifacts suggested to the user?                               \\
+\textbf{Notifications}            &                                                                    \\
+User activity update notification & Does the application display activities of other users?            \\
+Site activity update notification & Does the application notify the user about site updates?           \\
+Artifact update notification      & Does the application notify the user about updates on an artifact?\\                                                       
+\hline
+
+\end{tabular}
+\end{table}
+
 } % end section
 
 {\section{A Conceptual Framework for Information Discovery and Curation on the Web}
