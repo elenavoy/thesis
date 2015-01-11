@@ -1,9 +1,9 @@
 \chapter{A Conceptual Framework for Information Discovery and Curation on the Web}
 \label{chapter:framework}
 
-Although Web-based information discovery and curation tasks are commonly performed today, as we mentioned above, there is a lack of literature on how to support them when building Web applications. We reduce this gap by presenting a framework of design factors facilitating digital information discovery and curation (see Figure~\ref{fig:overview}). 
+Although Web-based information discovery and curation tasks are commonly performed today, as we mentioned above, there is a lack of literature on how to support them when building Web applications. I reduce this gap by presenting a framework of design factors facilitating digital information discovery and curation (see Figure~\ref{fig:overview}). 
 
-The framework consists of two main categories (discovery and curation) that are consequently decomposed into subcategories. Each of the lower subcategories contains mechanisms that enable given aspect of discovery or curation and corresponding questions that can help application design and evaluation. Every component in the framework has corresponding automation and support elements that can improve user experience. This chapter outlines the main components of the framework. 
+In my framework, I built on existing classifications of information seeking tasks and methods and existing Web tools to derive corresponding design factors. The framework consists of two main categories (discovery and curation) that are consequently decomposed into subcategories. Each of the lower subcategories contains mechanisms that enable given aspect of discovery or curation and corresponding questions that can help application design and evaluation. Every component in the framework has corresponding automation and support elements that can improve user experience. This chapter outlines the main components of the framework. 
 
 
 \begin{figure}[ht!]
@@ -17,37 +17,57 @@ The framework consists of two main categories (discovery and curation) that are 
 
 
 {\section{Discovery and Navigation}
-In order to discover information, a user needs to have a way of navigating to it. Common methods of navigation that facilitate information discovery include descriptional navigation, referential, random, and direct (see Table~\ref{table:navigation}). 
+In order to discover information, a user needs to have a way of navigating to it. Common methods of navigation that facilitate information discovery include descriptional, referential, random, and direct (see Table~\ref{table:navigation}). 
 
 \begin{table}[ht!]
 \caption{Mechanisms for Navigation}
 \label{table:navigation} 
 \begin{tabular}{{|p{0.35\linewidth}|p{0.60\linewidth}|}}
 \hline
-Navigation mechanisms     	& Questions to be posed during the design or evaluation of Web-based information discovery or curation tools \\
+Navigation mechanisms     	& Questions to be posed during the design or evaluation of tools \\
 \hline
 \textbf{Descriptional} 			& \\
-Search-based navigation 		& Can users search the site? \\
+Search-based navigation 		& Can users navigate the site using search mechanism? \\
 \textbf{Referential}       		& \\
-Category-guided navigation 	& Do categories suggest and help with navigating to resources related to the topic of interest? \\
-Facet-guided navigation    	& Do facets suggest and help with navigating to resources related to the topic of interest? \\
-Filters-guided navigation  		& Do filters suggest and help with navigating to resources related to the topic of interest? \\
-Interest-guided navigation 	& Do interests suggest and help with navigating to resources related to the topic of interest? \\
-Tag-guided navigation      		& Do tags suggest and help with navigating to resources related to the topic of interest? \\
+Category-guided navigation 		& Can users navigate using categories? \\
+Facet-guided navigation    		& Can users navigate using facets? \\
+Filters-guided navigation  		& Can users navigate using filters? \\
+Interest-guided navigation 		& Can users navigate using interests? \\
+Tag-guided navigation      		& Can users navigate using filters? \\
 Search by resource         		& Can the user search by resource? \\
 \textbf{Random}            		& \\
-Random navigation          		& Is it possible to randomly skip through resources? \\
+Random navigation          		& Is it possible to randomly navigate through resources? \\
 \textbf{Direct}            		& \\
-Direct display             			& Is any information displayed directly without search? \\
+Direct display             		& Is any information displayed directly without active search? \\
 \hline
 \end{tabular}
 \end{table}
 
 {\subsection{Descriptional Navigation}
+A navigation is descriptional when the user describes the information need. Most commonly is implemented as search-based navigation since it allows users to enter the search query and describe their information need.
+
+There are two common ways of aiding information discovery when search-based navigation is used. The first method entails returning personalized results when the user enters a search query. There are a number of ways to accomplish personalization, but this chapter only focuses on which features can can support information discovery and curation have rather than their implementations. The second method is to suggest search terms to make it easier for the user to formulate the information need. 
+
+} % end subsection
+
+{\subsection{Referential Navigation}
+A navigation is referential when the user finds a reference to the term that she is looking for.  The underlying assumption of this method of navigation is that the user can recognize needed information as she sees it.
+
+Referential navigation methods can take many different forms. Some common ones are searching categories, facets, and filters. Often, Web applications implement tag based navigation. 
+
 
 
 } % end subsection
 
+{\subsection{Random Navigation}
+In order to browse diverse information, an information discovery tool needs to provide a way to randomly navigate among resources, thereby supporting serendipitous information discovery ~\cite{foster}. Many applications, such as StumbleUpon, support random navigation to allow for opportunistic jumping from one resource to another. This method is useful when the information need is undefined.
+
+To further enhance random navigation, Web tools sometimes allow users to personalize this type of navigation, which makes it less 'random'. However, this way the user can discover new information within a specific category, for example.
+} % end subsection
+
+{\subsection{Direct Navigation}
+
+} % end subsection
 
 \begin{table}[ht!]
 \caption{Automation for Navigation}
@@ -331,13 +351,11 @@ External sharing          & Can internal resources be publicly reshared outside 
 
 \emph{RQ1: How do existing Web applications support information discovery?}
 
-In our framework, we built on existing classifications of information seeking tasks and methods (see Sec. 2) and existing Web tools (see Table 1) to derive corresponding design factors. The discovery category consists of serendipitous discovery, fact discovery, rediscovery, and channel-based discovery. 
-} % end subsection
 
-{\subsubsection{Serendipitous Discovery}
-Serendipitous discovery refers to information discovery resulting from serendipitous browsing. Such discovery is characterized by under-defined, absent, or hidden information needs, and it usually involves browsing through diverse resources with varying content types ~\cite{kellar2006, kellar2007}. Here, resource is defined as a collection of information about a single unit of inquiry, usually bundled together for presentation purposes. Some examples of resources are places, images, blog posts, and Web pages. The following are key criteria that influence serendipitous information discovery.
 
-\textbf{Arbitrary navigation.} In order to browse diverse information, an information discovery tool needs to provide a way to arbitrarily navigate among resources, thereby supporting serendipitous information discovery ~\cite{foster}. Many applications, such as Tumblr and StumbleUpon, support arbitrary navigation to allow for opportunistic jumping from one resource to another. 
+
+
+
 
 \textbf{Search-based navigation.} Search-based navigation often serves as an entry point for information seeking ~\cite{levene}. In case of serendipitous discovery, since the information need is not well articulated, the search engine should retrieve diverse resources related to a topic. For instance, searching for a location within Pinterest returns numerous images of the location that link to (or integrate with) other resources, blogs, and Web pages, whereas searching for the same place on Google Maps usually returns a small set of possible locations with limited information about those places.
 
