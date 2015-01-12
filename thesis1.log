@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.24)  10 JAN 2015 21:30
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.24)  11 JAN 2015 23:27
 entering extended mode
 **thesis1.tex
 (C:\Users\Elena\git\thesis\thesis1.tex
@@ -193,69 +193,33 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!] [5
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
 Non-PDF special ignored!])
 \tf@toc=\write3
- [6
+ [5
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -269,7 +233,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!] (C:\Users\Elena\git\thesis\thesis1.lof)
 \tf@lof=\write4
- [7
+ [6
 Non-PDF special ignored!
 Non-PDF special ignored!
 
@@ -279,7 +243,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!] (C:\Users\Elena\git\thesis\thesis1.lot)
 \tf@lot=\write5
- [8
+ [7
 Non-PDF special ignored!
 Non-PDF special ignored!
 
@@ -310,14 +274,14 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!] [8
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!] [9
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!] [10
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -650,56 +614,64 @@ Non-PDF special ignored!]
 (C:\Users\Elena\git\thesis\chapters/4/old_framework.tex
 Chapter 4.
 
-Underfull \hbox (badness 1590) in paragraph at lines 20--20
+Underfull \hbox (badness 1590) in paragraph at lines 18--18
 []\OT1/cmr/bx/it/10.95 Serendipitous dis-cov-
  []
 
 
-Underfull \hbox (badness 1286) in paragraph at lines 24--24
+Underfull \hbox (badness 1286) in paragraph at lines 22--22
 []\OT1/cmr/m/n/10.95 Category-guided nav-i-ga-
  []
 
 
-Underfull \hbox (badness 1286) in paragraph at lines 31--31
+Underfull \hbox (badness 1286) in paragraph at lines 29--29
 []\OT1/cmr/m/n/10.95 Category-guided nav-i-ga-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--39
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
 []\OT1/cmr/m/n/10.95 Bookmark-based re-dis-
  []
 
 
-Underfull \hbox (badness 1661) in paragraph at lines 58--58
-[]\OT1/cmr/m/n/10.95 Internal preser-va-tion of
- []
-
-
-Underfull \hbox (badness 1661) in paragraph at lines 59--59
-[]\OT1/cmr/m/n/10.95 Internal preser-va-tion of
- []
-
-
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 11--73
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 9--51
  [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 673.50569pt on input line 73.
+LaTeX Warning: Float too large for page by 78.92062pt on input line 51.
 
 
-LaTeX Warning: Citation `kellar2006' on page 12 undefined on input line 87.
+Underfull \hbox (badness 1661) in paragraph at lines 72--72
+[]\OT1/cmr/m/n/10.95 Internal preser-va-tion of
+ []
 
 
-LaTeX Warning: Citation `kellar2007' on page 12 undefined on input line 87.
+Underfull \hbox (badness 1661) in paragraph at lines 73--73
+[]\OT1/cmr/m/n/10.95 Internal preser-va-tion of
+ []
 
 
-LaTeX Warning: Citation `foster' on page 12 undefined on input line 89.
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 58--87
+ [][] 
+ []
 
 
-LaTeX Warning: Citation `levene' on page 12 undefined on input line 91.
+LaTeX Warning: Citation `kellar2006' on page 12 undefined on input line 89.
 
-[12
+
+LaTeX Warning: Citation `kellar2007' on page 12 undefined on input line 89.
+
+
+LaTeX Warning: Citation `kellar2006' on page 12 undefined on input line 91.
+
+
+LaTeX Warning: Citation `lindley' on page 12 undefined on input line 91.
+
+
+LaTeX Warning: Citation `tauscher' on page 12 undefined on input line 93.
+
+) [12
 Non-PDF special ignored!
 Non-PDF special ignored!
 
@@ -713,128 +685,76 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!]
-
-LaTeX Warning: Citation `levene' on page 14 undefined on input line 93.
-
-
-LaTeX Warning: Citation `abrams' on page 14 undefined on input line 97.
-
-
-LaTeX Warning: Citation `abrams' on page 14 undefined on input line 99.
-
-
-LaTeX Warning: Citation `kellar2006' on page 14 undefined on input line 106.
-
-
-LaTeX Warning: Citation `lindley' on page 14 undefined on input line 106.
-
-[14
+Non-PDF special ignored!] [14
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!]
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!] (C:\Users\Elena\git\thesis\chapters/5/framework.tex
+Chapter 5.
+<images/overview.png, id=85, 416.30531pt x 516.42938pt>
+File: images/overview.png Graphic file (type png)
 
-LaTeX Warning: Citation `kellar2006' on page 15 undefined on input line 108.
+<use images/overview.png>
+Package pdftex.def Info: images/overview.png used on input line 12.
+(pdftex.def)             Requested size: 433.62pt x 537.93282pt.
 
-
-LaTeX Warning: Citation `kellar2007' on page 15 undefined on input line 108.
-
-
-LaTeX Warning: Citation `levene' on page 15 undefined on input line 110.
-
-
-LaTeX Warning: Citation `herrera' on page 15 undefined on input line 112.
+Overfull \hbox (2.32428pt too wide) in paragraph at lines 25--43
+[][] 
+ []
 
 [15
 Non-PDF special ignored!
 Non-PDF special ignored!
+
+
+
+
 Non-PDF special ignored!
 Non-PDF special ignored!]
 
-LaTeX Warning: Citation `abrams' on page 16 undefined on input line 116.
-
-
-LaTeX Warning: Citation `abrams' on page 16 undefined on input line 118.
-
-
-LaTeX Warning: Citation `tauscher' on page 16 undefined on input line 124.
-
-
-LaTeX Warning: Citation `tauscher' on page 16 undefined on input line 126.
-
-
-LaTeX Warning: Citation `abrams' on page 16 undefined on input line 128.
-
-
-LaTeX Warning: Citation `cockburn' on page 16 undefined on input line 130.
+LaTeX Warning: Text page 16 contains only floats.
 
 [16
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!]
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored! <C:/Users/Elena/git/thesis/images/overview.png>]
 
-LaTeX Warning: Citation `morrison' on page 17 undefined on input line 135.
-
-
-LaTeX Warning: Citation `bates2002' on page 17 undefined on input line 135.
-
-
-LaTeX Warning: Citation `bates1986' on page 17 undefined on input line 135.
+LaTeX Warning: Citation `kellar2006' on page 17 undefined on input line 50.
 
 
-LaTeX Warning: Citation `java' on page 17 undefined on input line 138.
+LaTeX Warning: Citation `kellar2007' on page 17 undefined on input line 50.
 
 
-LaTeX Warning: Citation `millen' on page 17 undefined on input line 140.
-
-
-LaTeX Warning: Citation `millen' on page 17 undefined on input line 142.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--149
-
- []
+LaTeX Warning: Citation `levene' on page 17 undefined on input line 52.
 
 [17
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
 Non-PDF special ignored!]
-Underfull \hbox (badness 10000) in paragraph at lines 153--154
 
+LaTeX Warning: Citation `cockburn' on page 18 undefined on input line 54.
+
+
+Overfull \hbox (1.32132pt too wide) in paragraph at lines 62--63
+[]\OT1/cmr/m/n/12 To fur-ther sup-port ref-er-en-tial nav-i-ga-tion, ap-pli-ca-
+tions can ei-ther per-son-al-ize search
  []
 
 
-LaTeX Warning: Citation `beagrie' on page 18 undefined on input line 156.
+LaTeX Warning: Citation `levene' on page 18 undefined on input line 64.
 
 
-LaTeX Warning: Citation `wittaker' on page 18 undefined on input line 156.
-
-
-LaTeX Warning: Citation `beagrie' on page 18 undefined on input line 160.
-
-
-LaTeX Warning: Citation `wittaker' on page 18 undefined on input line 160.
-
-
-LaTeX Warning: Citation `beagrie' on page 18 undefined on input line 162.
-
-
-LaTeX Warning: Citation `wittaker' on page 18 undefined on input line 162.
-
-
-LaTeX Warning: Citation `gruber' on page 18 undefined on input line 164.
-
-
-LaTeX Warning: Citation `abrams' on page 18 undefined on input line 169.
-
-
-LaTeX Warning: Citation `wittaker' on page 18 undefined on input line 169.
-
-
-LaTeX Warning: Citation `lindley' on page 18 undefined on input line 169.
+LaTeX Warning: Citation `levene' on page 18 undefined on input line 66.
 
 [18
 Non-PDF special ignored!
@@ -842,49 +762,68 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
 
-LaTeX Warning: Citation `abrams' on page 19 undefined on input line 175.
+LaTeX Warning: Citation `foster' on page 19 undefined on input line 71.
 
 
-LaTeX Warning: Citation `beagrie' on page 19 undefined on input line 182.
+Overfull \hbox (2.32428pt too wide) in paragraph at lines 86--104
+[][] 
+ []
 
 
-LaTeX Warning: Citation `wittaker' on page 19 undefined on input line 182.
-
-
-LaTeX Warning: Citation `beagrie' on page 19 undefined on input line 190.
+LaTeX Warning: Citation `abrams' on page 19 undefined on input line 110.
 
 [19
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!]) [20
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!] (C:\Users\Elena\git\thesis\chapters/5/framework.tex
-Chapter 5.
-<images/overview.png, id=107, 416.30531pt x 516.42938pt>
-File: images/overview.png Graphic file (type png)
+Non-PDF special ignored!]
 
-<use images/overview.png>
-Package pdftex.def Info: images/overview.png used on input line 12.
-(pdftex.def)             Requested size: 433.62pt x 537.93282pt.
+LaTeX Warning: Citation `abrams' on page 20 undefined on input line 112.
 
-Overfull \hbox (2.32428pt too wide) in paragraph at lines 25--44
+[20
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+
+LaTeX Warning: Citation `herrera' on page 21 undefined on input line 114.
+
+
+LaTeX Warning: Citation `abrams' on page 21 undefined on input line 118.
+
+
+LaTeX Warning: Citation `abrams' on page 21 undefined on input line 120.
+
+
+Overfull \hbox (2.32428pt too wide) in paragraph at lines 125--139
+[][] 
+ []
+
+
+Overfull \hbox (2.32428pt too wide) in paragraph at lines 143--158
+[][] 
+ []
+
+
+Overfull \hbox (2.32428pt too wide) in paragraph at lines 162--175
 [][] 
  []
 
 [21
 Non-PDF special ignored!
 Non-PDF special ignored!
-
-
-
-
 Non-PDF special ignored!
 Non-PDF special ignored!]
+Overfull \hbox (2.32428pt too wide) in paragraph at lines 185--194
+[][] 
+ []
 
-LaTeX Warning: Text page 22 contains only floats.
+
+Overfull \hbox (2.32428pt too wide) in paragraph at lines 198--207
+[][] 
+ []
 
 [22
 Non-PDF special ignored!
@@ -894,26 +833,48 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored! <C:/Users/Elena/git/thesis/images/overview.png>]
+Non-PDF special ignored!]
+
+LaTeX Warning: Citation `beagrie' on page 23 undefined on input line 215.
+
+
+LaTeX Warning: Citation `wittaker' on page 23 undefined on input line 215.
+
+
+Underfull \hbox (badness 7047) in paragraph at lines 226--226
+[]\OT1/cmr/m/n/12 Collection-based cat-e-go-riza-
+ []
+
+
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 221--244
+[][] 
+ []
+
 [23
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
 Non-PDF special ignored!]
+Underfull \hbox (badness 3039) in paragraph at lines 259--260
+[]\OT1/cmr/m/n/12 Does the ap-pli-ca-tion au-to-mat-i-cally an-no-tates re-
+ []
 
-LaTeX Warning: Citation `foster' on page 24 undefined on input line 63.
 
-
-Overfull \hbox (2.32428pt too wide) in paragraph at lines 74--92
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 249--264
 [][] 
  []
 
 
-Overfull \hbox (2.32428pt too wide) in paragraph at lines 98--112
-[][] 
- []
+LaTeX Warning: Citation `beagrie' on page 24 undefined on input line 268.
+
+
+LaTeX Warning: Citation `wittaker' on page 24 undefined on input line 268.
 
 [24
 Non-PDF special ignored!
@@ -922,44 +883,23 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
-Overfull \hbox (2.32428pt too wide) in paragraph at lines 116--131
-[][] 
- []
+
+LaTeX Warning: Citation `beagrie' on page 25 undefined on input line 270.
 
 
-Overfull \hbox (2.32428pt too wide) in paragraph at lines 135--148
-[][] 
- []
+LaTeX Warning: Citation `wittaker' on page 25 undefined on input line 270.
 
 
-Overfull \hbox (2.32428pt too wide) in paragraph at lines 153--162
-[][] 
- []
+LaTeX Warning: Citation `gruber' on page 25 undefined on input line 272.
 
 
-Overfull \hbox (2.32428pt too wide) in paragraph at lines 166--175
-[][] 
- []
+LaTeX Warning: Citation `abrams' on page 25 undefined on input line 277.
 
 
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 182--205
-[][] 
- []
+LaTeX Warning: Citation `wittaker' on page 25 undefined on input line 277.
 
 
-Underfull \hbox (badness 3039) in paragraph at lines 222--223
-[]\OT1/cmr/m/n/12 Does the ap-pli-ca-tion au-to-mat-i-cally an-no-tates re-
- []
-
-
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 209--230
-[][] 
- []
-
-
-Overfull \hbox (2.32428pt too wide) in paragraph at lines 239--254
-[][] 
- []
+LaTeX Warning: Citation `lindley' on page 25 undefined on input line 277.
 
 [25
 Non-PDF special ignored!
@@ -967,239 +907,83 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
 Non-PDF special ignored!]
-Overfull \hbox (2.32428pt too wide) in paragraph at lines 258--273
-[][] 
- []
+
+LaTeX Warning: Citation `abrams' on page 26 undefined on input line 283.
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 291--291
-[]\OT1/cmr/bx/it/10.95 Serendipitous dis-cov-
- []
+LaTeX Warning: Citation `abrams' on page 26 undefined on input line 288.
 
 
-Underfull \hbox (badness 1286) in paragraph at lines 295--295
-[]\OT1/cmr/m/n/10.95 Category-guided nav-i-ga-
- []
+LaTeX Warning: Citation `tauscher' on page 26 undefined on input line 290.
 
 
-Underfull \hbox (badness 1286) in paragraph at lines 302--302
-[]\OT1/cmr/m/n/10.95 Category-guided nav-i-ga-
- []
+LaTeX Warning: Citation `beagrie' on page 26 undefined on input line 294.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 310--310
-[]\OT1/cmr/m/n/10.95 Bookmark-based re-dis-
- []
-
-
-Underfull \hbox (badness 1661) in paragraph at lines 329--329
-[]\OT1/cmr/m/n/10.95 Internal preser-va-tion of
- []
-
-
-Underfull \hbox (badness 1661) in paragraph at lines 330--330
-[]\OT1/cmr/m/n/10.95 Internal preser-va-tion of
- []
-
-
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 282--344
- [][] 
- []
-
-
-LaTeX Warning: Float too large for page by 673.50569pt on input line 344.
-
-
-LaTeX Warning: Citation `levene' on page 26 undefined on input line 360.
+LaTeX Warning: Citation `wittaker' on page 26 undefined on input line 294.
 
 [26
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!] [27
-Non-PDF special ignored!
-Non-PDF special ignored!
+Non-PDF special ignored!]
+
+LaTeX Warning: Citation `beagrie' on page 27 undefined on input line 302.
+
+
+LaTeX Warning: Citation `morrison' on page 27 undefined on input line 319.
+
+
+LaTeX Warning: Citation `bates2002' on page 27 undefined on input line 319.
+
+
+LaTeX Warning: Citation `bates1986' on page 27 undefined on input line 319.
+
+
+LaTeX Warning: Citation `java' on page 27 undefined on input line 322.
+
+[27
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
 
-LaTeX Warning: Citation `levene' on page 28 undefined on input line 362.
-
-[28
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!]
-
-LaTeX Warning: Citation `abrams' on page 29 undefined on input line 366.
-
-[29
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!] [30
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!]
-
-LaTeX Warning: Citation `abrams' on page 31 undefined on input line 368.
+LaTeX Warning: Citation `millen' on page 28 undefined on input line 324.
 
 
-LaTeX Warning: Citation `kellar2006' on page 31 undefined on input line 375.
+LaTeX Warning: Citation `millen' on page 28 undefined on input line 326.
 
 
-LaTeX Warning: Citation `lindley' on page 31 undefined on input line 375.
-
-
-LaTeX Warning: Citation `kellar2006' on page 31 undefined on input line 377.
-
-
-LaTeX Warning: Citation `kellar2007' on page 31 undefined on input line 377.
-
-
-LaTeX Warning: Citation `levene' on page 31 undefined on input line 379.
-
-
-LaTeX Warning: Citation `herrera' on page 31 undefined on input line 381.
-
-[31
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!]
-
-LaTeX Warning: Citation `abrams' on page 32 undefined on input line 385.
-
-
-LaTeX Warning: Citation `abrams' on page 32 undefined on input line 387.
-
-
-LaTeX Warning: Citation `tauscher' on page 32 undefined on input line 393.
-
-
-LaTeX Warning: Citation `tauscher' on page 32 undefined on input line 395.
-
-
-LaTeX Warning: Citation `abrams' on page 32 undefined on input line 397.
-
-[32
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!]
-
-LaTeX Warning: Citation `cockburn' on page 33 undefined on input line 399.
-
-
-LaTeX Warning: Citation `morrison' on page 33 undefined on input line 404.
-
-
-LaTeX Warning: Citation `bates2002' on page 33 undefined on input line 404.
-
-
-LaTeX Warning: Citation `bates1986' on page 33 undefined on input line 404.
-
-
-LaTeX Warning: Citation `java' on page 33 undefined on input line 407.
-
-
-LaTeX Warning: Citation `millen' on page 33 undefined on input line 409.
-
-
-LaTeX Warning: Citation `millen' on page 33 undefined on input line 411.
-
-[33
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!]
-Underfull \hbox (badness 10000) in paragraph at lines 417--418
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 422--423
-
+Overfull \hbox (2.32428pt too wide) in paragraph at lines 338--353
+[][] 
  []
 
 
-LaTeX Warning: Citation `beagrie' on page 34 undefined on input line 425.
+Overfull \hbox (2.32428pt too wide) in paragraph at lines 357--372
+[][] 
+ []
 
-
-LaTeX Warning: Citation `wittaker' on page 34 undefined on input line 425.
-
-
-LaTeX Warning: Citation `beagrie' on page 34 undefined on input line 429.
-
-
-LaTeX Warning: Citation `wittaker' on page 34 undefined on input line 429.
-
-
-LaTeX Warning: Citation `beagrie' on page 34 undefined on input line 431.
-
-
-LaTeX Warning: Citation `wittaker' on page 34 undefined on input line 431.
-
-[34
+) [28
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!]
-
-LaTeX Warning: Citation `gruber' on page 35 undefined on input line 433.
-
-
-LaTeX Warning: Citation `abrams' on page 35 undefined on input line 438.
-
-
-LaTeX Warning: Citation `wittaker' on page 35 undefined on input line 438.
-
-
-LaTeX Warning: Citation `lindley' on page 35 undefined on input line 438.
-
-
-LaTeX Warning: Citation `abrams' on page 35 undefined on input line 444.
-
-
-LaTeX Warning: Citation `beagrie' on page 35 undefined on input line 451.
-
-
-LaTeX Warning: Citation `wittaker' on page 35 undefined on input line 451.
-
-[35
+Non-PDF special ignored!] [29
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!]
-
-LaTeX Warning: Citation `beagrie' on page 36 undefined on input line 459.
-
-) [36
+Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!] (C:\Users\Elena\git\thesis\chapters/6/application.tex
 Chapter 6.
-[37
+[30
 Non-PDF special ignored!
 Non-PDF special ignored!
 
@@ -1207,18 +991,18 @@ Non-PDF special ignored!
 
 
 Non-PDF special ignored!
-Non-PDF special ignored!]) [38
+Non-PDF special ignored!]) [31
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!] [39
+Non-PDF special ignored!] [32
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
 (C:\Users\Elena\git\thesis\chapters/7/implications.tex
 Chapter 7.
-) [40
+) [33
 Non-PDF special ignored!
 Non-PDF special ignored!
 
@@ -1228,7 +1012,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!] (C:\Users\Elena\git\thesis\chapters/8/limitations.tex
 Chapter 8.
-) [41
+) [34
 Non-PDF special ignored!
 Non-PDF special ignored!
 
@@ -1238,7 +1022,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!] (C:\Users\Elena\git\thesis\chapters/9/future_work.tex
 Chapter 9.
-) [42
+) [35
 Non-PDF special ignored!
 Non-PDF special ignored!
 
@@ -1248,7 +1032,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!] (C:\Users\Elena\git\thesis\chapters/10/conclusion.tex
 Chapter 10.
-) [43
+) [36
 Non-PDF special ignored!
 Non-PDF special ignored!
 
@@ -1258,7 +1042,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
 No file thesis1.bbl.
-[44
+[37
 Non-PDF special ignored!
 Non-PDF special ignored!
 
@@ -1271,7 +1055,7 @@ Overfull \hbox (1.50052pt too wide) in paragraph at lines 227--227
 []\OT1/cmr/m/sc/12 TOWARDS UN-DER-STAND-ING DIG-I-TAL IN-FOR-MA-TION
  []
 
-[45
+[38
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -1302,13 +1086,13 @@ LaTeX Warning: There were multiply-defined labels.
 ### simple group (level 1) entered at line 4 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 1658 strings out of 493921
- 25183 string characters out of 3144876
- 112062 words of memory out of 3000000
- 4870 multiletter control sequences out of 15000+200000
+ 1662 strings out of 493921
+ 25268 string characters out of 3144876
+ 92106 words of memory out of 3000000
+ 4874 multiletter control sequences out of 15000+200000
  12096 words of font info for 41 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 24i,11n,23p,1578b,333s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 24i,11n,23p,1578b,311s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
@@ -1320,9 +1104,9 @@ r10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12
 /Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/P
 rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Pro
 gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis1.pdf (55 pages, 376388 bytes).
+Output written on thesis1.pdf (47 pages, 354240 bytes).
 PDF statistics:
- 227 PDF objects out of 1000 (max. 8388607)
+ 201 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
