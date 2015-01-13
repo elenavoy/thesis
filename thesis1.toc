@@ -1,9 +1,9 @@
 \contentsline {chapter}{Abstract}{ii}
 \contentsline {chapter}{Table of Contents}{iv}
-\contentsline {chapter}{List of Figures}{vi}
-\contentsline {chapter}{List of Tables}{vii}
-\contentsline {chapter}{Acknowledgement}{viii}
-\contentsline {chapter}{Dedication}{ix}
+\contentsline {chapter}{List of Figures}{vii}
+\contentsline {chapter}{List of Tables}{viii}
+\contentsline {chapter}{Acknowledgement}{ix}
+\contentsline {chapter}{Dedication}{x}
 \contentsline {chapter}{\numberline {1}Introduction}{1}
 \contentsline {chapter}{\numberline {2}Related Work}{3}
 \contentsline {section}{\numberline {2.1} \tolerance 9999\emergencystretch 3em\hfuzz .5\p@ \vfuzz \hfuzz Web-based Information \\Discovery and Curation}{3}
@@ -30,8 +30,15 @@
 \contentsline {subsection}{\numberline {5.4.4} Sharing}{27}
 \contentsline {section}{\numberline {5.5} Channelled Curation and Discovery}{27}
 \contentsline {subsubsection}{\numberline {5.5.0.1} Channel-based Discovery}{27}
-\contentsline {chapter}{\numberline {6}Framework Application and Evaluation}{30}
-\contentsline {section}{\numberline {6.1} Framework Application and Evaluation}{30}
+\contentsline {chapter}{\numberline {6}Framework Evaluation and Application}{30}
+\contentsline {section}{\numberline {6.1} Preliminary Evaluation}{30}
+\contentsline {section}{\numberline {6.2} Application}{30}
+\contentsline {section}{\numberline {6.3} Final Evaluation}{30}
+\contentsline {subsection}{\numberline {6.3.1} Pinterest}{30}
+\contentsline {subsection}{\numberline {6.3.2} Google Maps}{30}
+\contentsline {subsection}{\numberline {6.3.3} Wikipedia}{32}
+\contentsline {subsection}{\numberline {6.3.4} The deviantArt}{32}
+\contentsline {subsection}{\numberline {6.3.5} Google Search}{32}
 \contentsline {chapter}{\numberline {7}Implications}{33}
 \contentsline {section}{\numberline {7.1} Research and Design \\ Implications}{33}
 \contentsline {chapter}{\numberline {8}Limitations}{34}
