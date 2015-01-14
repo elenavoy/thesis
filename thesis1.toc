@@ -33,16 +33,47 @@
 \contentsline {chapter}{\numberline {6}Framework Evaluation and Application}{30}
 \contentsline {section}{\numberline {6.1} Preliminary Evaluation}{30}
 \contentsline {section}{\numberline {6.2} Application}{30}
+\contentsline {subsection}{\numberline {6.2.1} KeePlaces}{30}
+\contentsline {subsubsection}{\numberline {6.2.1.1} Navigation}{30}
+\contentsline {subsubsection}{\numberline {6.2.1.2} Exploration}{30}
+\contentsline {subsubsection}{\numberline {6.2.1.3} Integration}{30}
+\contentsline {subsubsection}{\numberline {6.2.1.4} Curation}{30}
+\contentsline {subsubsection}{\numberline {6.2.1.5} Channeling}{30}
 \contentsline {section}{\numberline {6.3} Final Evaluation}{30}
-\contentsline {subsection}{\numberline {6.3.1} Pinterest}{30}
-\contentsline {subsection}{\numberline {6.3.2} Google Maps}{30}
-\contentsline {subsection}{\numberline {6.3.3} Wikipedia}{32}
-\contentsline {subsection}{\numberline {6.3.4} The deviantArt}{32}
-\contentsline {subsection}{\numberline {6.3.5} Google Search}{32}
-\contentsline {chapter}{\numberline {7}Implications}{33}
-\contentsline {section}{\numberline {7.1} Research and Design \\ Implications}{33}
-\contentsline {chapter}{\numberline {8}Limitations}{34}
-\contentsline {section}{\numberline {8.1} Limitations}{34}
-\contentsline {chapter}{\numberline {9}Future Work}{35}
-\contentsline {section}{\numberline {9.1} Future Work \\ and Conclusions }{35}
-\contentsline {chapter}{\numberline {10}Conclusion}{36}
+\contentsline {subsection}{\numberline {6.3.1} Pinterest}{31}
+\contentsline {subsubsection}{\numberline {6.3.1.1} Navigation}{31}
+\contentsline {subsubsection}{\numberline {6.3.1.2} Exploration}{31}
+\contentsline {subsubsection}{\numberline {6.3.1.3} Integration}{31}
+\contentsline {subsubsection}{\numberline {6.3.1.4} Curation}{31}
+\contentsline {subsubsection}{\numberline {6.3.1.5} Channeling}{31}
+\contentsline {subsection}{\numberline {6.3.2} Google Maps}{31}
+\contentsline {subsubsection}{\numberline {6.3.2.1} Navigation}{31}
+\contentsline {subsubsection}{\numberline {6.3.2.2} Exploration}{31}
+\contentsline {subsubsection}{\numberline {6.3.2.3} Integration}{31}
+\contentsline {subsubsection}{\numberline {6.3.2.4} Curation}{31}
+\contentsline {subsubsection}{\numberline {6.3.2.5} Channeling}{31}
+\contentsline {subsection}{\numberline {6.3.3} Wikipedia}{34}
+\contentsline {subsubsection}{\numberline {6.3.3.1} Navigation}{34}
+\contentsline {subsubsection}{\numberline {6.3.3.2} Exploration}{34}
+\contentsline {subsubsection}{\numberline {6.3.3.3} Integration}{34}
+\contentsline {subsubsection}{\numberline {6.3.3.4} Curation}{34}
+\contentsline {subsubsection}{\numberline {6.3.3.5} Channeling}{34}
+\contentsline {subsection}{\numberline {6.3.4} The deviantArt}{34}
+\contentsline {subsubsection}{\numberline {6.3.4.1} Navigation}{34}
+\contentsline {subsubsection}{\numberline {6.3.4.2} Exploration}{34}
+\contentsline {subsubsection}{\numberline {6.3.4.3} Integration}{34}
+\contentsline {subsubsection}{\numberline {6.3.4.4} Curation}{34}
+\contentsline {subsubsection}{\numberline {6.3.4.5} Channeling}{34}
+\contentsline {subsection}{\numberline {6.3.5} Google Search}{34}
+\contentsline {subsubsection}{\numberline {6.3.5.1} Navigation}{34}
+\contentsline {subsubsection}{\numberline {6.3.5.2} Exploration}{34}
+\contentsline {subsubsection}{\numberline {6.3.5.3} Integration}{34}
+\contentsline {subsubsection}{\numberline {6.3.5.4} Curation}{34}
+\contentsline {subsubsection}{\numberline {6.3.5.5} Channeling}{34}
+\contentsline {chapter}{\numberline {7}Implications}{35}
+\contentsline {section}{\numberline {7.1} Research and Design \\ Implications}{35}
+\contentsline {chapter}{\numberline {8}Limitations}{36}
+\contentsline {section}{\numberline {8.1} Limitations}{36}
+\contentsline {chapter}{\numberline {9}Future Work}{37}
+\contentsline {section}{\numberline {9.1} Future Work \\ and Conclusions }{37}
+\contentsline {chapter}{\numberline {10}Conclusion}{38}
