@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.9)  16 JAN 2015 14:33
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.9)  19 JAN 2015 18:18
 entering extended mode
 **thesis1.tex
 (C:\Users\elenavoyl\git\thesis\thesis1.tex
@@ -381,61 +381,68 @@ Non-PDF special ignored!]
 (C:\Users\elenavoyl\git\thesis\chapters/1/chapter_intro.tex
 Chapter 1.
 
-LaTeX Warning: Citation `proper' on page 1 undefined on input line 6.
+LaTeX Warning: Citation `bruner1961act' on page 1 undefined on input line 9.
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+LaTeX Warning: Citation `proper' on page 1 undefined on input line 15.
 
 
-LaTeX Warning: Citation `lindley' on page 1 undefined on input line 6.
+LaTeX Warning: Citation `lindley' on page 1 undefined on input line 15.
 
 
-LaTeX Warning: Citation `bates1986' on page 1 undefined on input line 6.
+LaTeX Warning: Citation `bates1986' on page 1 undefined on input line 15.
 
 
-LaTeX Warning: Citation `beagrie' on page 1 undefined on input line 8.
+LaTeX Warning: Citation `beagrie' on page 1 undefined on input line 17.
 
-
-LaTeX Warning: Citation `kellar2006' on page 1 undefined on input line 10.
-
-
-LaTeX Warning: Citation `kellar2007' on page 1 undefined on input line 10.
-
-
-LaTeX Warning: Citation `morrison' on page 1 undefined on input line 10.
-
-
-LaTeX Warning: Citation `sellen' on page 1 undefined on input line 10.
-
-
-LaTeX Warning: Citation `choo' on page 1 undefined on input line 10.
-
-
-LaTeX Warning: Citation `ellis1989' on page 1 undefined on input line 10.
-
-
-LaTeX Warning: Citation `ellis1993' on page 1 undefined on input line 10.
-
-
-LaTeX Warning: Citation `ellis1997' on page 1 undefined on input line 10.
-
-
-LaTeX Warning: Citation `bates1986' on page 1 undefined on input line 10.
-
-
-LaTeX Warning: Citation `bates2002' on page 1 undefined on input line 10.
-
-
-LaTeX Warning: Citation `beagrie' on page 1 undefined on input line 10.
-
-
-LaTeX Warning: Citation `wittaker' on page 1 undefined on input line 10.
-
-) [1
+[1
 Non-PDF special ignored!
 Non-PDF special ignored!
 
 
 
 Non-PDF special ignored!
-Non-PDF special ignored!] [2
+Non-PDF special ignored!]
+
+LaTeX Warning: Citation `kellar2006' on page 2 undefined on input line 19.
+
+
+LaTeX Warning: Citation `kellar2007' on page 2 undefined on input line 19.
+
+
+LaTeX Warning: Citation `morrison' on page 2 undefined on input line 19.
+
+
+LaTeX Warning: Citation `sellen' on page 2 undefined on input line 19.
+
+
+LaTeX Warning: Citation `choo' on page 2 undefined on input line 19.
+
+
+LaTeX Warning: Citation `ellis1989' on page 2 undefined on input line 19.
+
+
+LaTeX Warning: Citation `ellis1993' on page 2 undefined on input line 19.
+
+
+LaTeX Warning: Citation `ellis1997' on page 2 undefined on input line 19.
+
+
+LaTeX Warning: Citation `bates1986' on page 2 undefined on input line 19.
+
+
+LaTeX Warning: Citation `bates2002' on page 2 undefined on input line 19.
+
+
+LaTeX Warning: Citation `beagrie' on page 2 undefined on input line 19.
+
+
+LaTeX Warning: Citation `wittaker' on page 2 undefined on input line 19.
+
+) [2
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -1173,22 +1180,31 @@ Non-PDF special ignored!
 
 
 Non-PDF special ignored!
-Non-PDF special ignored!]
-No file thesis1.bbl.
-[43
+Non-PDF special ignored!] (C:\Users\elenavoyl\git\thesis\thesis1.bbl) [43
 Non-PDF special ignored!
 Non-PDF special ignored!
 
 
+
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!] [44
+Non-PDF special ignored!
+Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
-Overfull \hbox (1.50052pt too wide) in paragraph at lines 227--227
+Overfull \hbox (1.50052pt too wide) in paragraph at lines 228--228
 []\OT1/cmr/m/sc/12 TOWARDS UN-DER-STAND-ING DIG-I-TAL IN-FOR-MA-TION
  []
 
-[44
+[45
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -1212,10 +1228,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 1669 strings out of 493921
- 25742 string characters out of 3144865
- 92086 words of memory out of 3000000
- 4880 multiletter control sequences out of 15000+200000
+ 1675 strings out of 493921
+ 25904 string characters out of 3144865
+ 92095 words of memory out of 3000000
+ 4884 multiletter control sequences out of 15000+200000
  12096 words of font info for 41 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  24i,11n,23p,1578b,311s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1230,9 +1246,9 @@ iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files
  (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (
 x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x8
 6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis1.pdf (55 pages, 577791 bytes).
+Output written on thesis1.pdf (56 pages, 579965 bytes).
 PDF statistics:
- 229 PDF objects out of 1000 (max. 8388607)
+ 232 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
