@@ -12,7 +12,7 @@ A level-1 auxiliary file: chapters/9/future_work.aux
 A level-1 auxiliary file: chapters/10/conclusion.aux
 Illegal, another \bibstyle command---line 19 of file thesis1.aux
  : \bibstyle
- :          {plain}
+ :          {apa}
 I'm skipping whatever remains of this command
 Database file #1: refs.bib
 Warning--I didn't find a database entry for "proper"
