@@ -7,10 +7,8 @@ A level-1 auxiliary file: chapters/4/old_framework.aux
 A level-1 auxiliary file: chapters/5/framework.aux
 A level-1 auxiliary file: chapters/6/application.aux
 A level-1 auxiliary file: chapters/7/implications.aux
-A level-1 auxiliary file: chapters/8/limitations.aux
 A level-1 auxiliary file: chapters/9/future_work.aux
-A level-1 auxiliary file: chapters/10/conclusion.aux
-Illegal, another \bibstyle command---line 19 of file thesis1.aux
+Illegal, another \bibstyle command---line 17 of file thesis1.aux
  : \bibstyle
  :          {apa}
 I'm skipping whatever remains of this command
