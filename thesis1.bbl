@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{waterworth1991model}
 J.~A. Waterworth and M.~H. Chignell, ``A model of information exploration,''
@@ -28,5 +28,71 @@ T.~D. Wilson, ``Human information behavior,'' {\em Informing science}, vol.~3,
 
 \bibitem{giaretta2006dcc}
 D.~Giaretta, ``Dcc approach to digital curation,'' 2006.
+
+\bibitem{lindley2012s}
+S.~E. Lindley, S.~Meek, A.~Sellen, and R.~Harper, ``It's simply integral to
+  what i do: enquiries into how the web is weaved into everyday life,'' in {\em
+  Proceedings of the 21st international conference on World Wide Web},
+  pp.~1067--1076, ACM, 2012.
+
+\bibitem{bates1986exploratory}
+M.~J. Bates, ``An exploratory paradigm for online information retrieval,'' {\em
+  Intelligent Information Systems for the Information Society. Amsterdam:
+  North-Holland}, pp.~91--99, 1986.
+
+\bibitem{conaway2010designing}
+A.~Conaway, C.~Pikas, U.~McLean, S.~Morris, L.~Palmer, L.~Rosman, S.~Sears,
+  E.~Uzelac, and S.~Woodson, ``Designing for information discovery: User needs
+  analysis,'' {\em Johns Hopkins Applied Technical Digest}, vol.~28, no.~3,
+  pp.~290--291, 2010.
+
+\bibitem{marchionini2006exploratory}
+G.~Marchionini, ``Exploratory search: from finding to understanding,'' {\em
+  Communications of the ACM}, vol.~49, no.~4, pp.~41--46, 2006.
+
+\bibitem{kerne2004information}
+A.~Kerne and S.~M. Smith, ``The information discovery framework,'' in {\em
+  Proceedings of the 5th conference on Designing interactive systems:
+  processes, practices, methods, and techniques}, pp.~357--360, ACM, 2004.
+
+\bibitem{bates2002toward}
+M.~J. Bates, ``Toward an integrated model of information seeking and
+  searching,'' {\em The New Review of Information Behaviour Research}, vol.~3,
+  pp.~1--15, 2002.
+
+\bibitem{choo2000information}
+C.~W. Choo, B.~Detlor, and D.~Turnbull, ``Information seeking on the web: An
+  integrated model of browsing and searching,'' {\em first monday}, vol.~5,
+  no.~2, 2000.
+
+\bibitem{ellis1989behavioural}
+D.~Ellis, ``A behavioural model for information retrieval system design,'' {\em
+  Journal of information science}, vol.~15, no.~4-5, pp.~237--247, 1989.
+
+\bibitem{ellis1993comparison}
+D.~Ellis, D.~Cox, and K.~Hall, ``A comparison of the information seeking
+  patterns of researchers in the physical and social sciences,'' {\em Journal
+  of documentation}, vol.~49, no.~4, pp.~356--369, 1993.
+
+\bibitem{kellar2006goal}
+M.~Kellar, C.~Watters, and M.~Shepherd, ``A goal-based classification of web
+  information tasks,'' {\em Proceedings of the American Society for Information
+  Science and Technology}, vol.~43, no.~1, pp.~1--22, 2006.
+
+\bibitem{kellar2007field}
+M.~Kellar, C.~Watters, and M.~Shepherd, ``A field study characterizing
+  web-based information-seeking tasks,'' {\em Journal of the American Society
+  for Information Science and Technology}, vol.~58, no.~7, pp.~999--1018, 2007.
+
+\bibitem{morrison2001taxonomic}
+J.~B. Morrison, P.~Pirolli, and S.~K. Card, ``A taxonomic analysis of what
+  world wide web activities significantly impact people's decisions and
+  actions,'' in {\em CHI'01 extended abstracts on Human factors in computing
+  systems}, pp.~163--164, ACM, 2001.
+
+\bibitem{sellen2002knowledge}
+A.~J. Sellen, R.~Murphy, and K.~L. Shaw, ``How knowledge workers use the web,''
+  in {\em Proceedings of the SIGCHI conference on Human factors in computing
+  systems}, pp.~227--234, ACM, 2002.
 
 \end{thebibliography}

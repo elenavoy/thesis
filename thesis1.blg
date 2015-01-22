@@ -1,8 +1,8 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: thesis1.aux
 The style file: ieeetr.bst
 A level-1 auxiliary file: chapters/1/chapter_intro.aux
-A level-1 auxiliary file: chapters/2/chapter_related_work.aux
 A level-1 auxiliary file: chapters/3/methodology.aux
+A level-1 auxiliary file: chapters/2/chapter_related_work.aux
 A level-1 auxiliary file: chapters/4/old_framework.aux
 A level-1 auxiliary file: chapters/5/framework.aux
 A level-1 auxiliary file: chapters/6/application.aux
@@ -15,31 +15,31 @@ Illegal, another \bibstyle command---line 19 of file thesis1.aux
  :          {apa}
 I'm skipping whatever remains of this command
 Database file #1: refs.bib
-Warning--I didn't find a database entry for "proper"
-Warning--I didn't find a database entry for "lindley"
-Warning--I didn't find a database entry for "bates1986"
-Warning--I didn't find a database entry for "beagrie"
+Warning--I didn't find a database entry for "yin"
 Warning--I didn't find a database entry for "kellar2006"
-Warning--I didn't find a database entry for "kellar2007"
-Warning--I didn't find a database entry for "morrison"
-Warning--I didn't find a database entry for "sellen"
-Warning--I didn't find a database entry for "choo"
-Warning--I didn't find a database entry for "ellis1989"
-Warning--I didn't find a database entry for "ellis1993"
-Warning--I didn't find a database entry for "ellis1997"
-Warning--I didn't find a database entry for "bates2002"
+Warning--I didn't find a database entry for "beagrie"
 Warning--I didn't find a database entry for "wittaker"
+Warning--I didn't find a database entry for "kellar2007"
+Warning--I didn't find a database entry for "sellen"
+Warning--I didn't find a database entry for "proper"
+Warning--I didn't find a database entry for "morrison"
 Warning--I didn't find a database entry for "marchionini"
 Warning--I didn't find a database entry for "wilson1999"
+Warning--I didn't find a database entry for "ellis1989"
 Warning--I didn't find a database entry for "dervin"
 Warning--I didn't find a database entry for "kuhlthau"
 Warning--I didn't find a database entry for "wilson1997"
 Warning--I didn't find a database entry for "wilson1981"
+Warning--I didn't find a database entry for "ellis1997"
+Warning--I didn't find a database entry for "ellis1993"
+Warning--I didn't find a database entry for "choo"
 Warning--I didn't find a database entry for "saracevic"
 Warning--I didn't find a database entry for "ingwersen"
+Warning--I didn't find a database entry for "bates1986"
+Warning--I didn't find a database entry for "bates2002"
 Warning--I didn't find a database entry for "morris"
 Warning--I didn't find a database entry for "golder"
-Warning--I didn't find a database entry for "yin"
+Warning--I didn't find a database entry for "lindley"
 Warning--I didn't find a database entry for "tauscher"
 Warning--I didn't find a database entry for "levene"
 Warning--I didn't find a database entry for "cockburn"

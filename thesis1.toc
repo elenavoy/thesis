@@ -5,15 +5,15 @@
 \contentsline {chapter}{Acknowledgement}{x}
 \contentsline {chapter}{Dedication}{xi}
 \contentsline {chapter}{\numberline {1}Introduction}{1}
-\contentsline {chapter}{\numberline {2}Related Work}{4}
-\contentsline {section}{\numberline {2.1} \tolerance 9999\emergencystretch 3em\hfuzz .5\p@ \vfuzz \hfuzz Web-based Information \\Discovery and Curation}{4}
-\contentsline {subsection}{\numberline {2.1.1} Web Tasks}{4}
-\contentsline {subsection}{\numberline {2.1.2} Information Behavior Models}{5}
-\contentsline {subsection}{\numberline {2.1.3} Digital Curation}{6}
-\contentsline {subsection}{\numberline {2.1.4} Collaboration and Information Seeking}{7}
-\contentsline {subsection}{\numberline {2.1.5} Modes of Web Use}{7}
-\contentsline {chapter}{\numberline {3}Methodology}{9}
-\contentsline {section}{\numberline {3.1} Building and Refining \\the Conceptual Framework}{9}
+\contentsline {chapter}{\numberline {2}Methodology}{4}
+\contentsline {section}{\numberline {2.1} Building and Refining \\the Conceptual Framework}{4}
+\contentsline {chapter}{\numberline {3}Related Work}{8}
+\contentsline {section}{\numberline {3.1} \tolerance 9999\emergencystretch 3em\hfuzz .5\p@ \vfuzz \hfuzz Web-based Information \\Discovery and Curation}{8}
+\contentsline {subsection}{\numberline {3.1.1} Web Tasks}{8}
+\contentsline {subsection}{\numberline {3.1.2} Information Behavior Models}{9}
+\contentsline {subsection}{\numberline {3.1.3} Digital Curation}{10}
+\contentsline {subsection}{\numberline {3.1.4} Collaboration and Information Seeking}{11}
+\contentsline {subsection}{\numberline {3.1.5} Modes of Web Use}{11}
 \contentsline {chapter}{\numberline {4}Preliminary Framework}{13}
 \contentsline {chapter}{\numberline {5}A Conceptual Framework for Information Discovery and Curation on the Web}{16}
 \contentsline {section}{\numberline {5.1} Discovery and Navigation}{16}

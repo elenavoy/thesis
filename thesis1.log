@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.9)  20 JAN 2015 20:23
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.9)  21 JAN 2015 20:04
 entering extended mode
 **thesis1.tex
 (C:\Users\elenavoyl\git\thesis\thesis1.tex
@@ -105,8 +105,8 @@ LaTeX Info: Redefining \cite on input line 694.
 )
 (C:\Users\elenavoyl\git\thesis\thesis1.aux
 (C:\Users\elenavoyl\git\thesis\chapters/1/chapter_intro.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/2/chapter_related_work.aux)
 (C:\Users\elenavoyl\git\thesis\chapters/3/methodology.aux)
+(C:\Users\elenavoyl\git\thesis\chapters/2/chapter_related_work.aux)
 (C:\Users\elenavoyl\git\thesis\chapters/4/old_framework.aux)
 (C:\Users\elenavoyl\git\thesis\chapters/5/framework.aux)
 (C:\Users\elenavoyl\git\thesis\chapters/6/application.aux)
@@ -398,237 +398,23 @@ Non-PDF special ignored!
 
 
 Non-PDF special ignored!
-Non-PDF special ignored!]
-
-Package natbib Warning: Citation `proper' on page 2 undefined on input line 18.
-
-
-
-Package natbib Warning: Citation `lindley' on page 2 undefined on input line 18
-.
-
-
-Package natbib Warning: Citation `bates1986' on page 2 undefined on input line 
-18.
-
-
-Package natbib Warning: Citation `beagrie' on page 2 undefined on input line 20
-.
-
-
-Package natbib Warning: Citation `kellar2006' on page 2 undefined on input line
- 22.
-
-
-Package natbib Warning: Citation `kellar2007' on page 2 undefined on input line
- 22.
-
-
-Package natbib Warning: Citation `morrison' on page 2 undefined on input line 2
-2.
-
-
-Package natbib Warning: Citation `sellen' on page 2 undefined on input line 22.
-
-
-
-Package natbib Warning: Citation `choo' on page 2 undefined on input line 22.
-
-
-Package natbib Warning: Citation `ellis1989' on page 2 undefined on input line 
-22.
-
-
-Package natbib Warning: Citation `ellis1993' on page 2 undefined on input line 
-22.
-
-
-Package natbib Warning: Citation `ellis1997' on page 2 undefined on input line 
-22.
-
-
-Package natbib Warning: Citation `bates1986' on page 2 undefined on input line 
-22.
-
-
-Package natbib Warning: Citation `bates2002' on page 2 undefined on input line 
-22.
-
-
-Package natbib Warning: Citation `beagrie' on page 2 undefined on input line 22
-.
-
-
-Package natbib Warning: Citation `wittaker' on page 2 undefined on input line 2
-2.
-
-[2
+Non-PDF special ignored!] [2
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!]) [3
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!]
-(C:\Users\elenavoyl\git\thesis\chapters/2/chapter_related_work.tex
-Chapter 2.
-
-Package natbib Warning: Citation `kellar2006' on page 4 undefined on input line
- 10.
-
-
-Package natbib Warning: Citation `beagrie' on page 4 undefined on input line 10
-.
-
-
-Package natbib Warning: Citation `wittaker' on page 4 undefined on input line 1
-0.
-
-
-Package natbib Warning: Citation `kellar2007' on page 4 undefined on input line
- 10.
-
-
-Package natbib Warning: Citation `sellen' on page 4 undefined on input line 12.
-
-
-
-Package natbib Warning: Citation `proper' on page 4 undefined on input line 14.
-
-
-
-Package natbib Warning: Citation `morrison' on page 4 undefined on input line 1
-4.
-
-[4
-Non-PDF special ignored!
-Non-PDF special ignored!
-
-
-
-
-Non-PDF special ignored!
-Non-PDF special ignored!]
-
-Package natbib Warning: Citation `marchionini' on page 5 undefined on input lin
-e 16.
-
-
-Package natbib Warning: Citation `wilson1999' on page 5 undefined on input line
- 22.
-
-
-Package natbib Warning: Citation `ellis1989' on page 5 undefined on input line 
-22.
-
-
-Package natbib Warning: Citation `dervin' on page 5 undefined on input line 22.
-
-
-
-Package natbib Warning: Citation `kuhlthau' on page 5 undefined on input line 2
-2.
-
-
-Package natbib Warning: Citation `wilson1997' on page 5 undefined on input line
- 22.
-
-
-Package natbib Warning: Citation `wilson1981' on page 5 undefined on input line
- 22.
-
-
-Package natbib Warning: Citation `wilson1981' on page 5 undefined on input line
- 22.
-
-
-Package natbib Warning: Citation `wilson1997' on page 5 undefined on input line
- 22.
-
-
-Package natbib Warning: Citation `ellis1989' on page 5 undefined on input line 
-24.
-
-
-Package natbib Warning: Citation `ellis1997' on page 5 undefined on input line 
-24.
-
-
-Package natbib Warning: Citation `ellis1993' on page 5 undefined on input line 
-24.
-
-
-Package natbib Warning: Citation `choo' on page 5 undefined on input line 24.
-
-
-Package natbib Warning: Citation `kuhlthau' on page 5 undefined on input line 2
-4.
-
-[5
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
 
-Package natbib Warning: Citation `saracevic' on page 6 undefined on input line 
-26.
+LaTeX Warning: Reference `chapter:goals' on page 3 undefined on input line 24.
 
-
-Package natbib Warning: Citation `ingwersen' on page 6 undefined on input line 
-26.
-
-
-Package natbib Warning: Citation `bates1986' on page 6 undefined on input line 
-28.
-
-
-Package natbib Warning: Citation `bates2002' on page 6 undefined on input line 
-34.
-
-
-Package natbib Warning: Citation `beagrie' on page 6 undefined on input line 34
-.
-
-
-Package natbib Warning: Citation `wittaker' on page 6 undefined on input line 3
-4.
-
-[6
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!]
-
-Package natbib Warning: Citation `morris' on page 7 undefined on input line 37.
-
-
-
-Package natbib Warning: Citation `golder' on page 7 undefined on input line 39.
-
-
-
-Package natbib Warning: Citation `lindley' on page 7 undefined on input line 43
-.
-
-[7
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!]
-
-Package natbib Warning: Citation `lindley' on page 8 undefined on input line 45
-.
-
-) [8
+) [3
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
 (C:\Users\elenavoyl\git\thesis\chapters/3/methodology.tex
-Chapter 3.
+Chapter 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 10.
 
@@ -724,7 +510,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 112--113
 
  []
 
-[9
+[4
 Non-PDF special ignored!
 Non-PDF special ignored!
 
@@ -734,7 +520,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!] [10
+Non-PDF special ignored!] [5
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -746,19 +532,173 @@ Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
 
 
-Package natbib Warning: Citation `yin' on page 11 undefined on input line 115.
+Package natbib Warning: Citation `yin' on page 6 undefined on input line 115.
 
 
-Package natbib Warning: Citation `yin' on page 11 undefined on input line 115.
+Package natbib Warning: Citation `yin' on page 6 undefined on input line 115.
 
 
-Package natbib Warning: Citation `yin' on page 11 undefined on input line 119.
+Package natbib Warning: Citation `yin' on page 6 undefined on input line 119.
+
+[6
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]) [7
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+(C:\Users\elenavoyl\git\thesis\chapters/2/chapter_related_work.tex
+Chapter 3.
+
+Package natbib Warning: Citation `kellar2006' on page 8 undefined on input line
+ 10.
+
+
+Package natbib Warning: Citation `beagrie' on page 8 undefined on input line 10
+.
+
+
+Package natbib Warning: Citation `wittaker' on page 8 undefined on input line 1
+0.
+
+
+Package natbib Warning: Citation `kellar2007' on page 8 undefined on input line
+ 10.
+
+
+Package natbib Warning: Citation `sellen' on page 8 undefined on input line 12.
+
+
+
+Package natbib Warning: Citation `proper' on page 8 undefined on input line 14.
+
+
+
+Package natbib Warning: Citation `morrison' on page 8 undefined on input line 1
+4.
+
+[8
+Non-PDF special ignored!
+Non-PDF special ignored!
+
+
+
+
+Non-PDF special ignored!
+Non-PDF special ignored!]
+
+Package natbib Warning: Citation `marchionini' on page 9 undefined on input lin
+e 16.
+
+
+Package natbib Warning: Citation `wilson1999' on page 9 undefined on input line
+ 22.
+
+
+Package natbib Warning: Citation `ellis1989' on page 9 undefined on input line 
+22.
+
+
+Package natbib Warning: Citation `dervin' on page 9 undefined on input line 22.
+
+
+
+Package natbib Warning: Citation `kuhlthau' on page 9 undefined on input line 2
+2.
+
+
+Package natbib Warning: Citation `wilson1997' on page 9 undefined on input line
+ 22.
+
+
+Package natbib Warning: Citation `wilson1981' on page 9 undefined on input line
+ 22.
+
+
+Package natbib Warning: Citation `wilson1981' on page 9 undefined on input line
+ 22.
+
+
+Package natbib Warning: Citation `wilson1997' on page 9 undefined on input line
+ 22.
+
+
+Package natbib Warning: Citation `ellis1989' on page 9 undefined on input line 
+24.
+
+
+Package natbib Warning: Citation `ellis1997' on page 9 undefined on input line 
+24.
+
+
+Package natbib Warning: Citation `ellis1993' on page 9 undefined on input line 
+24.
+
+
+Package natbib Warning: Citation `choo' on page 9 undefined on input line 24.
+
+
+Package natbib Warning: Citation `kuhlthau' on page 9 undefined on input line 2
+4.
+
+[9
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+
+Package natbib Warning: Citation `saracevic' on page 10 undefined on input line
+ 26.
+
+
+Package natbib Warning: Citation `ingwersen' on page 10 undefined on input line
+ 26.
+
+
+Package natbib Warning: Citation `bates1986' on page 10 undefined on input line
+ 28.
+
+
+Package natbib Warning: Citation `bates2002' on page 10 undefined on input line
+ 34.
+
+
+Package natbib Warning: Citation `beagrie' on page 10 undefined on input line 3
+4.
+
+
+Package natbib Warning: Citation `wittaker' on page 10 undefined on input line 
+34.
+
+[10
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+
+Package natbib Warning: Citation `morris' on page 11 undefined on input line 37
+.
+
+
+Package natbib Warning: Citation `golder' on page 11 undefined on input line 39
+.
+
+
+Package natbib Warning: Citation `lindley' on page 11 undefined on input line 4
+3.
 
 [11
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!]) [12
+Non-PDF special ignored!]
+
+Package natbib Warning: Citation `lindley' on page 12 undefined on input line 4
+5.
+
+) [12
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -1271,7 +1211,7 @@ Non-PDF special ignored!
 
 
 Non-PDF special ignored!
-Non-PDF special ignored!] (C:\Users\elenavoyl\git\thesis\thesis1.bbl) [44
+Non-PDF special ignored!] (C:\Users\elenavoyl\git\thesis\thesis1.bbl [44
 Non-PDF special ignored!
 Non-PDF special ignored!
 
@@ -1292,7 +1232,37 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!] [45
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]) [45
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!] [46
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -1303,7 +1273,7 @@ Overfull \hbox (1.50052pt too wide) in paragraph at lines 230--230
 []\OT1/cmr/m/sc/12 TOWARDS UN-DER-STAND-ING DIG-I-TAL IN-FOR-MA-TION
  []
 
-[46
+[47
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -1317,38 +1287,41 @@ Package natbib Warning: There were undefined citations.
 
 (C:\Users\elenavoyl\git\thesis\thesis1.aux
 (C:\Users\elenavoyl\git\thesis\chapters/1/chapter_intro.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/2/chapter_related_work.aux)
 (C:\Users\elenavoyl\git\thesis\chapters/3/methodology.aux)
+(C:\Users\elenavoyl\git\thesis\chapters/2/chapter_related_work.aux)
 (C:\Users\elenavoyl\git\thesis\chapters/4/old_framework.aux)
 (C:\Users\elenavoyl\git\thesis\chapters/5/framework.aux)
 (C:\Users\elenavoyl\git\thesis\chapters/6/application.aux)
 (C:\Users\elenavoyl\git\thesis\chapters/7/implications.aux)
 (C:\Users\elenavoyl\git\thesis\chapters/8/limitations.aux)
 (C:\Users\elenavoyl\git\thesis\chapters/9/future_work.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/10/conclusion.aux)) ) 
+(C:\Users\elenavoyl\git\thesis\chapters/10/conclusion.aux))
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 2024 strings out of 493921
- 30302 string characters out of 3144865
- 97963 words of memory out of 3000000
- 5229 multiletter control sequences out of 15000+200000
+ 2064 strings out of 493921
+ 31349 string characters out of 3144865
+ 98169 words of memory out of 3000000
+ 5269 multiletter control sequences out of 15000+200000
  12096 words of font info for 41 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  24i,11n,28p,1578b,311s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files 
-(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x
-86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86
-)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files (x86
-)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files (x86)
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis1.pdf (57 pages, 582603 bytes).
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:
+/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Pr
+ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Progr
+am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x8
+6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on thesis1.pdf (58 pages, 588340 bytes).
 PDF statistics:
- 235 PDF objects out of 1000 (max. 8388607)
+ 238 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
