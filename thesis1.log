@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.9)  23 JAN 2015 10:08
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.9)  26 JAN 2015 11:27
 entering extended mode
 **thesis1.tex
 (C:\Users\elenavoyl\git\thesis\thesis1.tex
@@ -175,8 +175,6 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 
 
-Non-PDF special ignored!
-Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -575,6 +573,10 @@ Package natbib Warning: Citation `choo' on page 11 undefined on input line 24.
 Package natbib Warning: Citation `kuhlthau' on page 11 undefined on input line 
 24.
 
+
+Overfull \vbox (10.85384pt too high) has occurred while \output is active []
+
+
 [11
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -604,6 +606,10 @@ Package natbib Warning: Citation `beagrie' on page 12 undefined on input line 3
 Package natbib Warning: Citation `wittaker' on page 12 undefined on input line 
 34.
 
+
+Overfull \vbox (10.85384pt too high) has occurred while \output is active []
+
+
 [12
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -621,6 +627,10 @@ Package natbib Warning: Citation `golder' on page 13 undefined on input line 39
 Package natbib Warning: Citation `lindley' on page 13 undefined on input line 4
 3.
 
+
+Overfull \vbox (10.85384pt too high) has occurred while \output is active []
+
+
 [13
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -630,7 +640,11 @@ Non-PDF special ignored!]
 Package natbib Warning: Citation `lindley' on page 14 undefined on input line 4
 5.
 
-) [14
+)
+Overfull \vbox (10.85384pt too high) has occurred while \output is active []
+
+
+[14
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -1217,7 +1231,7 @@ Here is how much of TeX's memory you used:
  5273 multiletter control sequences out of 15000+200000
  12096 words of font info for 41 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 24i,11n,28p,1578b,310s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 24i,11n,28p,1578b,320s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C
@@ -1229,7 +1243,7 @@ iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files
  (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (
 x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x8
 6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis1.pdf (58 pages, 638227 bytes).
+Output written on thesis1.pdf (58 pages, 638406 bytes).
 PDF statistics:
  240 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
