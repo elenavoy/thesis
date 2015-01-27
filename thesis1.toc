@@ -18,6 +18,8 @@
 \contentsline {section}{\numberline {3.3} Digital Curation}{12}
 \contentsline {section}{\numberline {3.4} Collaboration and Information Seeking}{13}
 \contentsline {section}{\numberline {3.5} Modes of Web Use}{13}
+\contentsline {section}{\numberline {3.6} Information Exploration Frameworks}{14}
+\contentsline {section}{\numberline {3.7} Information Discovery Frameworks}{14}
 \contentsline {chapter}{\numberline {4}Preliminary Framework}{15}
 \contentsline {chapter}{\numberline {5}A Conceptual Framework for Information Discovery and Curation on the Web}{18}
 \contentsline {section}{\numberline {5.1} Discovery and Navigation}{18}
