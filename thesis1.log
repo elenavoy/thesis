@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.9)  27 JAN 2015 09:31
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.9)  29 JAN 2015 16:58
 entering extended mode
 **thesis1.tex
 (C:\Users\elenavoyl\git\thesis\thesis1.tex
@@ -175,6 +175,8 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 
 
+Non-PDF special ignored!
+Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -482,32 +484,24 @@ Non-PDF special ignored!]
 (C:\Users\elenavoyl\git\thesis\chapters/2/chapter_related_work.tex
 Chapter 3.
 
-Package natbib Warning: Citation `kellar2006' on page 10 undefined on input lin
-e 8.
-
-
-Package natbib Warning: Citation `beagrie' on page 10 undefined on input line 8
+Package natbib Warning: Citation `beagrie' on page 10 undefined on input line 7
 .
 
 
 Package natbib Warning: Citation `wittaker' on page 10 undefined on input line 
-8.
+7.
 
 
-Package natbib Warning: Citation `kellar2007' on page 10 undefined on input lin
-e 8.
+Package natbib Warning: Citation `sellen' on page 10 undefined on input line 9.
 
 
-Package natbib Warning: Citation `sellen' on page 10 undefined on input line 10
-.
 
-
-Package natbib Warning: Citation `proper' on page 10 undefined on input line 12
+Package natbib Warning: Citation `proper' on page 10 undefined on input line 11
 .
 
 
 Package natbib Warning: Citation `morrison' on page 10 undefined on input line 
-12.
+11.
 
 [10
 Non-PDF special ignored!
@@ -520,58 +514,11 @@ Non-PDF special ignored!
 Non-PDF special ignored!]
 
 Package natbib Warning: Citation `marchionini' on page 11 undefined on input li
-ne 14.
+ne 13.
 
 
-Package natbib Warning: Citation `wilson1999' on page 11 undefined on input lin
-e 20.
-
-
-Package natbib Warning: Citation `ellis1989' on page 11 undefined on input line
- 20.
-
-
-Package natbib Warning: Citation `dervin' on page 11 undefined on input line 20
-.
-
-
-Package natbib Warning: Citation `kuhlthau' on page 11 undefined on input line 
-20.
-
-
-Package natbib Warning: Citation `wilson1997' on page 11 undefined on input lin
-e 20.
-
-
-Package natbib Warning: Citation `wilson1981' on page 11 undefined on input lin
-e 20.
-
-
-Package natbib Warning: Citation `wilson1981' on page 11 undefined on input lin
-e 20.
-
-
-Package natbib Warning: Citation `wilson1997' on page 11 undefined on input lin
-e 20.
-
-
-Package natbib Warning: Citation `ellis1989' on page 11 undefined on input line
- 22.
-
-
-Package natbib Warning: Citation `ellis1997' on page 11 undefined on input line
- 22.
-
-
-Package natbib Warning: Citation `ellis1993' on page 11 undefined on input line
- 22.
-
-
-Package natbib Warning: Citation `choo' on page 11 undefined on input line 22.
-
-
-Package natbib Warning: Citation `kuhlthau' on page 11 undefined on input line 
-22.
+Package natbib Warning: Citation `lindley' on page 11 undefined on input line 1
+5.
 
 
 Overfull \vbox (10.85384pt too high) has occurred while \output is active []
@@ -583,28 +530,40 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
 
-Package natbib Warning: Citation `saracevic' on page 12 undefined on input line
- 24.
+Package natbib Warning: Citation `lindley' on page 12 undefined on input line 1
+7.
 
 
-Package natbib Warning: Citation `ingwersen' on page 12 undefined on input line
- 24.
+Package natbib Warning: Citation `wilson1999' on page 12 undefined on input lin
+e 22.
 
 
-Package natbib Warning: Citation `bates1986' on page 12 undefined on input line
- 26.
+Package natbib Warning: Citation `ellis1989' on page 12 undefined on input line
+ 22.
 
 
-Package natbib Warning: Citation `bates2002' on page 12 undefined on input line
- 32.
+Package natbib Warning: Citation `dervin' on page 12 undefined on input line 22
+.
 
 
-Package natbib Warning: Citation `beagrie' on page 12 undefined on input line 3
-2.
+Package natbib Warning: Citation `kuhlthau' on page 12 undefined on input line 
+22.
 
 
-Package natbib Warning: Citation `wittaker' on page 12 undefined on input line 
-32.
+Package natbib Warning: Citation `wilson1997' on page 12 undefined on input lin
+e 22.
+
+
+Package natbib Warning: Citation `wilson1981' on page 12 undefined on input lin
+e 22.
+
+
+Package natbib Warning: Citation `wilson1981' on page 12 undefined on input lin
+e 22.
+
+
+Package natbib Warning: Citation `wilson1997' on page 12 undefined on input lin
+e 22.
 
 
 Overfull \vbox (10.85384pt too high) has occurred while \output is active []
@@ -616,16 +575,47 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
 
-Package natbib Warning: Citation `morris' on page 13 undefined on input line 35
-.
+Package natbib Warning: Citation `ellis1989' on page 13 undefined on input line
+ 24.
 
 
-Package natbib Warning: Citation `golder' on page 13 undefined on input line 37
-.
+Package natbib Warning: Citation `ellis1997' on page 13 undefined on input line
+ 24.
 
 
-Package natbib Warning: Citation `lindley' on page 13 undefined on input line 4
-1.
+Package natbib Warning: Citation `ellis1993' on page 13 undefined on input line
+ 24.
+
+
+Package natbib Warning: Citation `choo' on page 13 undefined on input line 24.
+
+
+Package natbib Warning: Citation `kuhlthau' on page 13 undefined on input line 
+24.
+
+
+Package natbib Warning: Citation `saracevic' on page 13 undefined on input line
+ 26.
+
+
+Package natbib Warning: Citation `ingwersen' on page 13 undefined on input line
+ 26.
+
+
+Package natbib Warning: Citation `bates1986' on page 13 undefined on input line
+ 28.
+
+
+Package natbib Warning: Citation `bates2002' on page 13 undefined on input line
+ 34.
+
+
+Package natbib Warning: Citation `beagrie' on page 13 undefined on input line 3
+4.
+
+
+Package natbib Warning: Citation `wittaker' on page 13 undefined on input line 
+34.
 
 
 Overfull \vbox (10.85384pt too high) has occurred while \output is active []
@@ -637,8 +627,12 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
 
-Package natbib Warning: Citation `lindley' on page 14 undefined on input line 4
-3.
+Package natbib Warning: Citation `morris' on page 14 undefined on input line 37
+.
+
+
+Package natbib Warning: Citation `golder' on page 14 undefined on input line 39
+.
 
 )
 Overfull \vbox (10.85384pt too high) has occurred while \output is active []
@@ -1243,7 +1237,7 @@ iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files
  (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (
 x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x8
 6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis1.pdf (58 pages, 638460 bytes).
+Output written on thesis1.pdf (58 pages, 638631 bytes).
 PDF statistics:
  240 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
