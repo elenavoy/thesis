@@ -13,16 +13,6 @@ Illegal, another \bibstyle command---line 17 of file thesis1.aux
  :          {apa}
 I'm skipping whatever remains of this command
 Database file #1: refs.bib
-Warning--I didn't find a database entry for "wilson1997"
-Warning--I didn't find a database entry for "ellis1989"
-Warning--I didn't find a database entry for "ellis1997"
-Warning--I didn't find a database entry for "ellis1993"
-Warning--I didn't find a database entry for "choo"
-Warning--I didn't find a database entry for "kuhlthau"
-Warning--I didn't find a database entry for "saracevic"
-Warning--I didn't find a database entry for "ingwersen"
-Warning--I didn't find a database entry for "bates1986"
-Warning--I didn't find a database entry for "bates2002"
 Warning--I didn't find a database entry for "beagrie"
 Warning--I didn't find a database entry for "wittaker"
 Warning--I didn't find a database entry for "sellen"
@@ -41,6 +31,8 @@ Warning--I didn't find a database entry for "foster"
 Warning--I didn't find a database entry for "abrams"
 Warning--I didn't find a database entry for "herrera"
 Warning--I didn't find a database entry for "gruber"
+Warning--I didn't find a database entry for "bates2002"
+Warning--I didn't find a database entry for "bates1986"
 Warning--I didn't find a database entry for "java"
 Warning--I didn't find a database entry for "millen"
 (There was 1 error message)
