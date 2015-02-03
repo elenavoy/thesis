@@ -145,8 +145,38 @@ C.~Janiszewski, ``The influence of display characteristics on visual
   exploratory search behavior,'' {\em Journal of Consumer Research}, vol.~25,
   no.~3, pp.~290--301, 1998.
 
-\bibitem{norman2002design}
-D.~A. Norman, {\em The design of everyday things}.
-\newblock Basic books, 2002.
+\bibitem{pirolli1999information}
+P.~Pirolli and S.~Card, ``Information foraging.,'' {\em Psychological review},
+  vol.~106, no.~4, p.~643, 1999.
+
+\bibitem{fu2007snif}
+W.-T. Fu and P.~Pirolli, ``Snif-act: A cognitive model of user navigation on
+  the world wide web,'' {\em Human--Computer Interaction}, vol.~22, no.~4,
+  pp.~355--412, 2007.
+
+\bibitem{kitajima2000comprehension}
+M.~Kitajima, M.~H. Blackmon, and P.~G. Polson, ``A comprehension-based model of
+  web navigation and its application to web usability analysis,'' in {\em
+  People and Computers XIV—Usability or Else!}, pp.~357--373, Springer, 2000.
+
+\bibitem{pirolli2009elementary}
+P.~Pirolli, ``An elementary social information foraging model,'' in {\em
+  Proceedings of the SIGCHI Conference on Human Factors in Computing Systems},
+  pp.~605--614, ACM, 2009.
+
+\bibitem{fu2008microstructures}
+W.-T. Fu, ``The microstructures of social tagging: a rational model,'' in {\em
+  Proceedings of the 2008 ACM conference on Computer supported cooperative
+  work}, pp.~229--238, ACM, 2008.
+
+\bibitem{morris2008survey}
+M.~R. Morris, ``A survey of collaborative web search practices,'' in {\em
+  Proceedings of the SIGCHI Conference on Human Factors in Computing Systems},
+  pp.~1657--1660, ACM, 2008.
+
+\bibitem{golder2006usage}
+S.~A. Golder and B.~A. Huberman, ``Usage patterns of collaborative tagging
+  systems,'' {\em Journal of information science}, vol.~32, no.~2,
+  pp.~198--208, 2006.
 
 \end{thebibliography}
