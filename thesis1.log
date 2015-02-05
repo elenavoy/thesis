@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.9)  4 FEB 2015 10:33
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.9)  4 FEB 2015 16:14
 entering extended mode
 **thesis1.tex
 (C:\Users\elenavoyl\git\thesis\thesis1.tex
@@ -338,6 +338,10 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
 Non-PDF special ignored!] (C:\Users\elenavoyl\git\thesis\thesis1.lof)
 \tf@lof=\write4
  [8
@@ -525,67 +529,67 @@ Non-PDF special ignored!]
 (C:\Users\elenavoyl\git\thesis\chapters/4/old_framework.tex
 Chapter 4.
 
-Underfull \hbox (badness 1590) in paragraph at lines 18--18
-[]\OT1/cmr/bx/it/10.95 Serendipitous dis-cov-
- []
-
-
-Underfull \hbox (badness 1286) in paragraph at lines 22--22
-[]\OT1/cmr/m/n/10.95 Category-guided nav-i-ga-
- []
-
-
-Underfull \hbox (badness 1286) in paragraph at lines 29--29
-[]\OT1/cmr/m/n/10.95 Category-guided nav-i-ga-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--37
-[]\OT1/cmr/m/n/10.95 Bookmark-based re-dis-
- []
-
-
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 9--51
- [][] 
- []
-
-
-LaTeX Warning: Float too large for page by 78.92062pt on input line 51.
-
-
-Underfull \hbox (badness 1661) in paragraph at lines 72--72
-[]\OT1/cmr/m/n/10.95 Internal preser-va-tion of
- []
-
-
-Underfull \hbox (badness 1661) in paragraph at lines 73--73
-[]\OT1/cmr/m/n/10.95 Internal preser-va-tion of
- []
-
-
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 58--87
- [][] 
- []
-
-
 Package natbib Warning: Citation `kellar2006' on page 17 undefined on input lin
-e 89.
+e 9.
 
 
 Package natbib Warning: Citation `kellar2007' on page 17 undefined on input lin
-e 89.
+e 9.
 
 
 Package natbib Warning: Citation `kellar2006' on page 17 undefined on input lin
-e 91.
+e 11.
 
 
-Package natbib Warning: Citation `lindley' on page 17 undefined on input line 9
+Package natbib Warning: Citation `lindley' on page 17 undefined on input line 1
 1.
 
 
 Package natbib Warning: Citation `tauscher' on page 17 undefined on input line 
-93.
+13.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+[]\OT1/cmr/m/n/10.95 Category-guided nav-i-ga-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+[]\OT1/cmr/m/n/10.95 Category-guided nav-i-ga-
+ []
+
+
+Underfull \hbox (badness 1430) in paragraph at lines 53--53
+[]\OT1/cmr/m/n/10.95 Bookmark-based re-dis-cov-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+[]\OT1/cmr/bx/it/10.95 Channel-based dis-cov-
+ []
+
+
+Overfull \hbox (2.31766pt too wide) in paragraph at lines 25--67
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 183.77689pt on input line 67.
+
+
+Underfull \hbox (badness 1661) in paragraph at lines 88--88
+[]\OT1/cmr/m/n/10.95 Internal preser-va-tion of
+ []
+
+
+Underfull \hbox (badness 1661) in paragraph at lines 89--89
+[]\OT1/cmr/m/n/10.95 Internal preser-va-tion of
+ []
+
+
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 74--103
+ [][] 
+ []
 
 ) [17
 Non-PDF special ignored!
@@ -1107,6 +1111,8 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
 Non-PDF special ignored!] [50
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -1148,10 +1154,10 @@ LaTeX Warning: There were undefined references.
 ### simple group (level 1) entered at line 6 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 2086 strings out of 493921
- 31880 string characters out of 3144865
- 96867 words of memory out of 3000000
- 5308 multiletter control sequences out of 15000+200000
+ 2089 strings out of 493921
+ 31955 string characters out of 3144865
+ 97883 words of memory out of 3000000
+ 5311 multiletter control sequences out of 15000+200000
  12096 words of font info for 41 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  24i,11n,28p,1590b,436s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1166,7 +1172,7 @@ r10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12
 /Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/P
 rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Pro
 gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis1.pdf (62 pages, 648290 bytes).
+Output written on thesis1.pdf (62 pages, 649199 bytes).
 PDF statistics:
  253 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
