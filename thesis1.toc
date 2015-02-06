@@ -24,67 +24,67 @@
 \contentsline {section}{\numberline {3.3} Collaborative Information \\Discovery and Curation}{16}
 \contentsline {chapter}{\numberline {4}Preliminary Framework}{17}
 \contentsline {section}{\numberline {4.1} Framework composition}{17}
-\contentsline {section}{\numberline {4.2} Discussion}{17}
-\contentsline {chapter}{\numberline {5}A Conceptual Framework for Information Discovery and Curation on the Web}{20}
-\contentsline {section}{\numberline {5.1} Discovery and Navigation}{20}
-\contentsline {subsection}{\numberline {5.1.1} Descriptional Navigation}{20}
-\contentsline {subsection}{\numberline {5.1.2} Referential Navigation}{23}
-\contentsline {subsection}{\numberline {5.1.3} Random Navigation}{24}
-\contentsline {subsection}{\numberline {5.1.4} Direct Navigation}{24}
-\contentsline {section}{\numberline {5.2} Exploration and Discovery}{24}
-\contentsline {section}{\numberline {5.3} Integration}{26}
-\contentsline {section}{\numberline {5.4} Curation}{28}
-\contentsline {subsection}{\numberline {5.4.1} Management}{29}
-\contentsline {subsection}{\numberline {5.4.2} Information Preservation}{30}
-\contentsline {subsection}{\numberline {5.4.3} Augmentation}{31}
-\contentsline {subsection}{\numberline {5.4.4} Sharing}{32}
-\contentsline {section}{\numberline {5.5} Channelled Curation and Discovery}{32}
-\contentsline {subsubsection}{\numberline {5.5.0.1} Channel-based Discovery}{32}
-\contentsline {chapter}{\numberline {6}Framework Evaluation and Application}{35}
-\contentsline {section}{\numberline {6.1} Application}{35}
-\contentsline {subsection}{\numberline {6.1.1} KeePlaces}{35}
-\contentsline {subsubsection}{\numberline {6.1.1.1} Navigation}{36}
-\contentsline {subsubsection}{\numberline {6.1.1.2} Exploration}{36}
-\contentsline {subsubsection}{\numberline {6.1.1.3} Integration}{36}
-\contentsline {subsubsection}{\numberline {6.1.1.4} Curation}{36}
-\contentsline {subsubsection}{\numberline {6.1.1.5} Channeling}{36}
-\contentsline {subsubsection}{\numberline {6.1.1.6} Directions for Future Development}{36}
-\contentsline {section}{\numberline {6.2} Final Evaluation}{36}
-\contentsline {subsection}{\numberline {6.2.1} Pinterest}{37}
-\contentsline {subsubsection}{\numberline {6.2.1.1} Navigation}{37}
-\contentsline {subsubsection}{\numberline {6.2.1.2} Exploration}{37}
-\contentsline {subsubsection}{\numberline {6.2.1.3} Integration}{38}
-\contentsline {subsubsection}{\numberline {6.2.1.4} Curation}{38}
-\contentsline {subsubsection}{\numberline {6.2.1.5} Channeling}{38}
-\contentsline {subsubsection}{\numberline {6.2.1.6} Identified Gaps and Future Prospects}{38}
-\contentsline {subsection}{\numberline {6.2.2} Google Maps}{38}
-\contentsline {subsubsection}{\numberline {6.2.2.1} Navigation}{38}
-\contentsline {subsubsection}{\numberline {6.2.2.2} Exploration}{39}
-\contentsline {subsubsection}{\numberline {6.2.2.3} Integration}{39}
-\contentsline {subsubsection}{\numberline {6.2.2.4} Curation}{39}
-\contentsline {subsubsection}{\numberline {6.2.2.5} Channeling}{40}
-\contentsline {subsubsection}{\numberline {6.2.2.6} Identified Gaps and Future Prospects}{40}
-\contentsline {subsection}{\numberline {6.2.3} Wikipedia}{40}
-\contentsline {subsubsection}{\numberline {6.2.3.1} Navigation}{40}
-\contentsline {subsubsection}{\numberline {6.2.3.2} Exploration}{41}
-\contentsline {subsubsection}{\numberline {6.2.3.3} Integration}{41}
-\contentsline {subsubsection}{\numberline {6.2.3.4} Curation}{41}
-\contentsline {subsubsection}{\numberline {6.2.3.5} Channeling}{41}
-\contentsline {subsubsection}{\numberline {6.2.3.6} Identified Gaps and Future Prospects}{41}
-\contentsline {subsection}{\numberline {6.2.4} Delicious}{41}
-\contentsline {subsubsection}{\numberline {6.2.4.1} Navigation}{42}
-\contentsline {subsubsection}{\numberline {6.2.4.2} Exploration}{42}
-\contentsline {subsubsection}{\numberline {6.2.4.3} Integration}{42}
-\contentsline {subsubsection}{\numberline {6.2.4.4} Curation}{42}
-\contentsline {subsubsection}{\numberline {6.2.4.5} Channeling}{42}
-\contentsline {subsubsection}{\numberline {6.2.4.6} Identified Gaps and Future Prospects}{42}
-\contentsline {subsection}{\numberline {6.2.5} Yelp}{43}
-\contentsline {subsubsection}{\numberline {6.2.5.1} Navigation}{43}
-\contentsline {subsubsection}{\numberline {6.2.5.2} Exploration}{43}
-\contentsline {subsubsection}{\numberline {6.2.5.3} Integration}{43}
-\contentsline {subsubsection}{\numberline {6.2.5.4} Curation}{43}
-\contentsline {subsubsection}{\numberline {6.2.5.5} Channeling}{43}
-\contentsline {subsubsection}{\numberline {6.2.5.6} Identified Gaps and Future Prospects}{43}
-\contentsline {chapter}{\numberline {7}Implications}{44}
-\contentsline {section}{\numberline {7.1} Research and Design \\ Implications}{44}
-\contentsline {chapter}{\numberline {8}Future Work and Conclusions }{45}
+\contentsline {section}{\numberline {4.2} Discussion}{18}
+\contentsline {chapter}{\numberline {5}A Conceptual Framework for Information Discovery and Curation on the Web}{21}
+\contentsline {section}{\numberline {5.1} Discovery and Navigation}{21}
+\contentsline {subsection}{\numberline {5.1.1} Descriptional Navigation}{21}
+\contentsline {subsection}{\numberline {5.1.2} Referential Navigation}{24}
+\contentsline {subsection}{\numberline {5.1.3} Random Navigation}{25}
+\contentsline {subsection}{\numberline {5.1.4} Direct Navigation}{25}
+\contentsline {section}{\numberline {5.2} Exploration and Discovery}{25}
+\contentsline {section}{\numberline {5.3} Integration}{27}
+\contentsline {section}{\numberline {5.4} Curation}{29}
+\contentsline {subsection}{\numberline {5.4.1} Management}{30}
+\contentsline {subsection}{\numberline {5.4.2} Information Preservation}{31}
+\contentsline {subsection}{\numberline {5.4.3} Augmentation}{32}
+\contentsline {subsection}{\numberline {5.4.4} Sharing}{33}
+\contentsline {section}{\numberline {5.5} Channelled Curation and Discovery}{33}
+\contentsline {subsubsection}{\numberline {5.5.0.1} Channel-based Discovery}{33}
+\contentsline {chapter}{\numberline {6}Framework Evaluation and Application}{36}
+\contentsline {section}{\numberline {6.1} Application}{36}
+\contentsline {subsection}{\numberline {6.1.1} KeePlaces}{36}
+\contentsline {subsubsection}{\numberline {6.1.1.1} Navigation}{37}
+\contentsline {subsubsection}{\numberline {6.1.1.2} Exploration}{37}
+\contentsline {subsubsection}{\numberline {6.1.1.3} Integration}{37}
+\contentsline {subsubsection}{\numberline {6.1.1.4} Curation}{37}
+\contentsline {subsubsection}{\numberline {6.1.1.5} Channeling}{37}
+\contentsline {subsubsection}{\numberline {6.1.1.6} Directions for Future Development}{37}
+\contentsline {section}{\numberline {6.2} Final Evaluation}{37}
+\contentsline {subsection}{\numberline {6.2.1} Pinterest}{38}
+\contentsline {subsubsection}{\numberline {6.2.1.1} Navigation}{38}
+\contentsline {subsubsection}{\numberline {6.2.1.2} Exploration}{38}
+\contentsline {subsubsection}{\numberline {6.2.1.3} Integration}{39}
+\contentsline {subsubsection}{\numberline {6.2.1.4} Curation}{39}
+\contentsline {subsubsection}{\numberline {6.2.1.5} Channeling}{39}
+\contentsline {subsubsection}{\numberline {6.2.1.6} Identified Gaps and Future Prospects}{39}
+\contentsline {subsection}{\numberline {6.2.2} Google Maps}{39}
+\contentsline {subsubsection}{\numberline {6.2.2.1} Navigation}{39}
+\contentsline {subsubsection}{\numberline {6.2.2.2} Exploration}{40}
+\contentsline {subsubsection}{\numberline {6.2.2.3} Integration}{40}
+\contentsline {subsubsection}{\numberline {6.2.2.4} Curation}{40}
+\contentsline {subsubsection}{\numberline {6.2.2.5} Channeling}{41}
+\contentsline {subsubsection}{\numberline {6.2.2.6} Identified Gaps and Future Prospects}{41}
+\contentsline {subsection}{\numberline {6.2.3} Wikipedia}{41}
+\contentsline {subsubsection}{\numberline {6.2.3.1} Navigation}{41}
+\contentsline {subsubsection}{\numberline {6.2.3.2} Exploration}{42}
+\contentsline {subsubsection}{\numberline {6.2.3.3} Integration}{42}
+\contentsline {subsubsection}{\numberline {6.2.3.4} Curation}{42}
+\contentsline {subsubsection}{\numberline {6.2.3.5} Channeling}{42}
+\contentsline {subsubsection}{\numberline {6.2.3.6} Identified Gaps and Future Prospects}{42}
+\contentsline {subsection}{\numberline {6.2.4} Delicious}{42}
+\contentsline {subsubsection}{\numberline {6.2.4.1} Navigation}{43}
+\contentsline {subsubsection}{\numberline {6.2.4.2} Exploration}{43}
+\contentsline {subsubsection}{\numberline {6.2.4.3} Integration}{43}
+\contentsline {subsubsection}{\numberline {6.2.4.4} Curation}{43}
+\contentsline {subsubsection}{\numberline {6.2.4.5} Channeling}{43}
+\contentsline {subsubsection}{\numberline {6.2.4.6} Identified Gaps and Future Prospects}{43}
+\contentsline {subsection}{\numberline {6.2.5} Yelp}{44}
+\contentsline {subsubsection}{\numberline {6.2.5.1} Navigation}{44}
+\contentsline {subsubsection}{\numberline {6.2.5.2} Exploration}{44}
+\contentsline {subsubsection}{\numberline {6.2.5.3} Integration}{44}
+\contentsline {subsubsection}{\numberline {6.2.5.4} Curation}{44}
+\contentsline {subsubsection}{\numberline {6.2.5.5} Channeling}{44}
+\contentsline {subsubsection}{\numberline {6.2.5.6} Identified Gaps and Future Prospects}{44}
+\contentsline {chapter}{\numberline {7}Implications}{45}
+\contentsline {section}{\numberline {7.1} Research and Design \\ Implications}{45}
+\contentsline {chapter}{\numberline {8}Future Work and Conclusions }{46}
