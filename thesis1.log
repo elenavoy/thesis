@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.9)  5 FEB 2015 12:57
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.9)  6 FEB 2015 13:24
 entering extended mode
 **thesis1.tex
 (C:\Users\elenavoyl\git\thesis\thesis1.tex
@@ -530,38 +530,38 @@ Non-PDF special ignored!]
 Chapter 4.
 
 Package natbib Warning: Citation `kellar2006' on page 17 undefined on input lin
-e 9.
+e 8.
 
 
 Package natbib Warning: Citation `kellar2007' on page 17 undefined on input lin
-e 9.
+e 8.
 
 
 Package natbib Warning: Citation `kellar2006' on page 17 undefined on input lin
-e 11.
+e 10.
 
 
 Package natbib Warning: Citation `lindley' on page 17 undefined on input line 1
-1.
+0.
 
 
 Package natbib Warning: Citation `tauscher' on page 17 undefined on input line 
-13.
+12.
 
 
 Package natbib Warning: Citation `morrison' on page 17 undefined on input line 
-15.
+14.
 
 
 Package natbib Warning: Citation `bates2002' on page 17 undefined on input line
- 15.
+ 14.
 
 
 Package natbib Warning: Citation `bates1986' on page 17 undefined on input line
- 15.
+ 14.
 
 
-Overfull \hbox (2.31766pt too wide) in paragraph at lines 28--66
+Overfull \hbox (2.31766pt too wide) in paragraph at lines 27--65
  [][] 
  []
 
@@ -1138,7 +1138,7 @@ r10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12
 /Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/P
 rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Pro
 gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis1.pdf (63 pages, 654418 bytes).
+Output written on thesis1.pdf (63 pages, 654459 bytes).
 PDF statistics:
  256 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

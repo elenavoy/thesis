@@ -23,7 +23,7 @@
 \contentsline {section}{\numberline {3.2} Web Tasks and Modes of Web Use}{13}
 \contentsline {section}{\numberline {3.3} Collaborative Information \\Discovery and Curation}{16}
 \contentsline {chapter}{\numberline {4}Preliminary Framework}{17}
-\contentsline {section}{\numberline {4.1} Framework composition}{17}
+\contentsline {section}{\numberline {4.1} Framework Composition}{17}
 \contentsline {section}{\numberline {4.2} Discussion}{18}
 \contentsline {chapter}{\numberline {5}A Conceptual Framework for Information Discovery and Curation on the Web}{21}
 \contentsline {section}{\numberline {5.1} Discovery and Navigation}{21}
