@@ -26,20 +26,20 @@
 \contentsline {section}{\numberline {4.1} Preliminary Framework Composition}{17}
 \contentsline {section}{\numberline {4.2} Limitations of the Preliminary Framework}{19}
 \contentsline {chapter}{\numberline {5}A Conceptual Framework for Information Discovery and Curation on the Web}{22}
-\contentsline {section}{\numberline {5.1} Discovery and Navigation}{22}
-\contentsline {subsection}{\numberline {5.1.1} Descriptional Navigation}{22}
+\contentsline {section}{\numberline {5.1} Discovery and Navigation}{24}
+\contentsline {subsection}{\numberline {5.1.1} Descriptional Navigation}{24}
 \contentsline {subsection}{\numberline {5.1.2} Referential Navigation}{25}
 \contentsline {subsection}{\numberline {5.1.3} Random Navigation}{26}
 \contentsline {subsection}{\numberline {5.1.4} Direct Navigation}{26}
-\contentsline {section}{\numberline {5.2} Exploration and Discovery}{26}
-\contentsline {section}{\numberline {5.3} Integration}{28}
-\contentsline {section}{\numberline {5.4} Curation}{30}
+\contentsline {section}{\numberline {5.2} Exploration and Discovery}{27}
+\contentsline {section}{\numberline {5.3} Integration}{29}
+\contentsline {section}{\numberline {5.4} Curation}{31}
 \contentsline {subsection}{\numberline {5.4.1} Management}{31}
-\contentsline {subsection}{\numberline {5.4.2} Information Preservation}{32}
-\contentsline {subsection}{\numberline {5.4.3} Augmentation}{33}
+\contentsline {subsection}{\numberline {5.4.2} Information Preservation}{31}
+\contentsline {subsection}{\numberline {5.4.3} Augmentation}{34}
 \contentsline {subsection}{\numberline {5.4.4} Sharing}{34}
-\contentsline {section}{\numberline {5.5} Channelled Curation and Discovery}{34}
-\contentsline {subsubsection}{\numberline {5.5.0.1} Channel-based Discovery}{34}
+\contentsline {section}{\numberline {5.5} Channelled Curation and Discovery}{35}
+\contentsline {subsubsection}{\numberline {5.5.0.1} Channel-based Discovery}{35}
 \contentsline {chapter}{\numberline {6}Framework Evaluation and Application}{37}
 \contentsline {section}{\numberline {6.1} Application}{37}
 \contentsline {subsection}{\numberline {6.1.1} KeePlaces}{37}
