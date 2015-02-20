@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.9)  19 FEB 2015 19:35
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.24)  19 FEB 2015 23:13
 entering extended mode
 **thesis1.tex
-(C:\Users\elenavoyl\git\thesis\thesis1.tex
+(C:\Users\Elena\git\thesis\thesis1.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -13,10 +13,10 @@ german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-(C:\Users\elenavoyl\git\thesis\vthesis.cls
+(C:\Users\Elena\git\thesis\vthesis.cls
 Document Class: vthesis 1995/10/30 R.2.0, V.V. Dimakopoulos
 \pure@baselineskip=\dimen102
-(C:\Users\elenavoyl\git\thesis\vthesis12.clo
+(C:\Users\Elena\git\thesis\vthesis12.clo
 File: vthesis12.clo 1995/10/30
 )
 \c@part=\count79
@@ -103,16 +103,16 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count91
 )
-(C:\Users\elenavoyl\git\thesis\thesis1.aux
-(C:\Users\elenavoyl\git\thesis\chapters/1/chapter_intro.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/3/methodology.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/2/chapter_related_work.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/4/old_framework.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/5/framework.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/11/improving.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/6/application.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/7/implications.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/9/future_work.aux))
+(C:\Users\Elena\git\thesis\thesis1.aux
+(C:\Users\Elena\git\thesis\chapters/1/chapter_intro.aux)
+(C:\Users\Elena\git\thesis\chapters/3/methodology.aux)
+(C:\Users\Elena\git\thesis\chapters/2/chapter_related_work.aux)
+(C:\Users\Elena\git\thesis\chapters/4/old_framework.aux)
+(C:\Users\Elena\git\thesis\chapters/5/framework.aux)
+(C:\Users\Elena\git\thesis\chapters/11/improving.aux)
+(C:\Users\Elena\git\thesis\chapters/6/application.aux)
+(C:\Users\Elena\git\thesis\chapters/7/implications.aux)
+(C:\Users\Elena\git\thesis\chapters/9/future_work.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
 LaTeX Font Info:    ... okay on input line 42.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
@@ -126,7 +126,7 @@ LaTeX Font Info:    ... okay on input line 42.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
 LaTeX Font Info:    ... okay on input line 42.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+(C:\Users\Elena\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count92
 \scratchdimen=\dimen108
@@ -152,7 +152,8 @@ Non-PDF special ignored!
 
 
 Non-PDF special ignored!
-Non-PDF special ignored!{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+Non-PDF special ignored!{C:/Users/Elena/AppData/Local/MiKTeX/2.9/pdftex/config/
+pdftex.map}
 Non-PDF special ignored!
 Non-PDF special ignored!] [2
 Non-PDF special ignored!
@@ -164,7 +165,7 @@ Non-PDF special ignored!] [3
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!] (C:\Users\elenavoyl\git\thesis\thesis1.toc
+Non-PDF special ignored!] (C:\Users\Elena\git\thesis\thesis1.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -357,7 +358,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!] (C:\Users\elenavoyl\git\thesis\thesis1.lof)
+Non-PDF special ignored!] (C:\Users\Elena\git\thesis\thesis1.lof)
 \tf@lof=\write4
  [8
 Non-PDF special ignored!
@@ -373,7 +374,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!] (C:\Users\elenavoyl\git\thesis\thesis1.lot)
+Non-PDF special ignored!] (C:\Users\Elena\git\thesis\thesis1.lot)
 \tf@lot=\write5
  [9
 Non-PDF special ignored!
@@ -418,7 +419,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
-(C:\Users\elenavoyl\git\thesis\chapters/1/chapter_intro.tex
+(C:\Users\Elena\git\thesis\chapters/1/chapter_intro.tex
 Chapter 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 16.
@@ -445,8 +446,7 @@ LaTeX Warning: Reference `chapter:goals' on page 3 undefined on input line 24.
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!]
-(C:\Users\elenavoyl\git\thesis\chapters/3/methodology.tex
+Non-PDF special ignored!] (C:\Users\Elena\git\thesis\chapters/3/methodology.tex
 Chapter 2.
 
 Underfull \hbox (badness 10000) in paragraph at lines 4--6
@@ -471,8 +471,8 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored! <C:/Users/elenavoyl/git/thesis/images/Methodology.png>
-] [5
+Non-PDF special ignored! <C:/Users/Elena/git/thesis/images/Methodology.png>]
+[5
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -508,7 +508,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
-(C:\Users\elenavoyl\git\thesis\chapters/2/chapter_related_work.tex
+(C:\Users\Elena\git\thesis\chapters/2/chapter_related_work.tex
 Chapter 3.
 [10
 Non-PDF special ignored!
@@ -543,7 +543,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
-(C:\Users\elenavoyl\git\thesis\chapters/4/old_framework.tex
+(C:\Users\Elena\git\thesis\chapters/4/old_framework.tex
 Chapter 4.
 [17
 Non-PDF special ignored!
@@ -578,8 +578,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!]
-(C:\Users\elenavoyl\git\thesis\chapters/5/framework.tex
+Non-PDF special ignored!] (C:\Users\Elena\git\thesis\chapters/5/framework.tex
 Chapter 5.
 <images/framework_part1.png, id=117, 436.63126pt x 109.1578pt>
 File: images/framework_part1.png Graphic file (type png)
@@ -599,20 +598,21 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored! <C:/Users/elenavoyl/git/thesis/images/framework_part1.
-png>] <images/overview.png, id=122, 416.30531pt x 516.42938pt>
+Non-PDF special ignored! <C:/Users/Elena/git/thesis/images/framework_part1.png>
+] <images/overview.png, id=122, 416.30531pt x 516.42938pt>
 File: images/overview.png Graphic file (type png)
 
 <use images/overview.png>
-Package pdftex.def Info: images/overview.png used on input line 54.
+Package pdftex.def Info: images/overview.png used on input line 56.
 (pdftex.def)             Requested size: 433.62pt x 537.93282pt.
  [23
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
-
-LaTeX Warning: Text page 24 contains only floats.
+Overfull \hbox (2.32428pt too wide) in paragraph at lines 69--87
+[][] 
+ []
 
 [24
 Non-PDF special ignored!
@@ -620,12 +620,9 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored! <C:/Users/elenavoyl/git/thesis/images/overview.png>]
-Overfull \hbox (2.32428pt too wide) in paragraph at lines 67--85
-[][] 
- []
+Non-PDF special ignored!]
+
+LaTeX Warning: Text page 25 contains only floats.
 
 [25
 Non-PDF special ignored!
@@ -633,44 +630,46 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!]
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored! <C:/Users/Elena/git/thesis/images/overview.png>]
 
 Package natbib Warning: Citation `kellar2006' on page 26 undefined on input lin
-e 92.
+e 94.
 
 
 Package natbib Warning: Citation `kellar2007' on page 26 undefined on input lin
-e 92.
+e 94.
 
 
-Package natbib Warning: Citation `levene' on page 26 undefined on input line 94
+Package natbib Warning: Citation `levene' on page 26 undefined on input line 96
 .
 
 
 Package natbib Warning: Citation `cockburn' on page 26 undefined on input line 
-96.
+98.
 
 [26
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
-Overfull \hbox (1.32132pt too wide) in paragraph at lines 104--105
+Overfull \hbox (1.32132pt too wide) in paragraph at lines 106--107
 []\OT1/cmr/m/n/12 To fur-ther sup-port ref-er-en-tial nav-i-ga-tion, ap-pli-ca-
 tions can ei-ther per-son-al-ize search
  []
 
 
 Package natbib Warning: Citation `levene' on page 27 undefined on input line 10
-6.
-
-
-Package natbib Warning: Citation `levene' on page 27 undefined on input line 10
 8.
 
 
+Package natbib Warning: Citation `levene' on page 27 undefined on input line 11
+0.
+
+
 Package natbib Warning: Citation `foster' on page 27 undefined on input line 11
-3.
+5.
 
 [27
 Non-PDF special ignored!
@@ -679,15 +678,15 @@ Non-PDF special ignored!
 Non-PDF special ignored!]
 
 Package natbib Warning: Citation `abrams' on page 28 undefined on input line 13
-1.
-
-
-Package natbib Warning: Citation `abrams' on page 28 undefined on input line 13
 3.
 
 
+Package natbib Warning: Citation `abrams' on page 28 undefined on input line 13
+5.
+
+
 Package natbib Warning: Citation `herrera' on page 28 undefined on input line 1
-35.
+37.
 
 [28
 Non-PDF special ignored!
@@ -695,15 +694,20 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
 
-Package natbib Warning: Citation `abrams' on page 29 undefined on input line 13
-9.
-
-
 Package natbib Warning: Citation `abrams' on page 29 undefined on input line 14
 1.
 
 
-Overfull \hbox (2.32428pt too wide) in paragraph at lines 146--160
+Package natbib Warning: Citation `abrams' on page 29 undefined on input line 14
+3.
+
+
+Overfull \hbox (2.32428pt too wide) in paragraph at lines 148--162
+[][] 
+ []
+
+
+Overfull \hbox (2.32428pt too wide) in paragraph at lines 176--185
 [][] 
  []
 
@@ -711,38 +715,24 @@ Overfull \hbox (2.32428pt too wide) in paragraph at lines 146--160
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
 Non-PDF special ignored!]
-Overfull \hbox (2.32428pt too wide) in paragraph at lines 174--183
-[][] 
- []
-
 
 Package natbib Warning: Citation `beagrie' on page 30 undefined on input line 1
-93.
+95.
 
 
 Package natbib Warning: Citation `wittaker' on page 30 undefined on input line 
-193.
+195.
 
 
-Underfull \hbox (badness 7047) in paragraph at lines 204--204
+Underfull \hbox (badness 7047) in paragraph at lines 206--206
 []\OT1/cmr/m/n/12 Collection-based cat-e-go-riza-
  []
 
 
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 199--222
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 201--224
 [][] 
  []
-
-
-Package natbib Warning: Citation `beagrie' on page 30 undefined on input line 2
-28.
-
-
-Package natbib Warning: Citation `wittaker' on page 30 undefined on input line 
-228.
 
 [30
 Non-PDF special ignored!
@@ -750,7 +740,18 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!] [31
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+
+Package natbib Warning: Citation `beagrie' on page 31 undefined on input line 2
+30.
+
+
+Package natbib Warning: Citation `wittaker' on page 31 undefined on input line 
+230.
+
+[31
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -759,35 +760,31 @@ Non-PDF special ignored!
 Non-PDF special ignored!]
 
 Package natbib Warning: Citation `beagrie' on page 32 undefined on input line 2
-30.
+32.
 
 
 Package natbib Warning: Citation `wittaker' on page 32 undefined on input line 
-230.
+232.
 
 
 Package natbib Warning: Citation `gruber' on page 32 undefined on input line 23
-2.
+4.
 
 
 Package natbib Warning: Citation `abrams' on page 32 undefined on input line 23
-7.
+9.
 
 
 Package natbib Warning: Citation `wittaker' on page 32 undefined on input line 
-237.
+239.
 
 
 Package natbib Warning: Citation `lindley' on page 32 undefined on input line 2
-37.
+39.
 
 
 Package natbib Warning: Citation `abrams' on page 32 undefined on input line 24
-3.
-
-
-Package natbib Warning: Citation `abrams' on page 32 undefined on input line 24
-8.
+5.
 
 [32
 Non-PDF special ignored!
@@ -795,20 +792,24 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
 
+Package natbib Warning: Citation `abrams' on page 33 undefined on input line 25
+0.
+
+
 Package natbib Warning: Citation `tauscher' on page 33 undefined on input line 
-250.
+252.
 
 
 Package natbib Warning: Citation `beagrie' on page 33 undefined on input line 2
-54.
+56.
 
 
 Package natbib Warning: Citation `wittaker' on page 33 undefined on input line 
-254.
+256.
 
 
 Package natbib Warning: Citation `beagrie' on page 33 undefined on input line 2
-62.
+64.
 
 [33
 Non-PDF special ignored!
@@ -816,39 +817,38 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
 
-Package natbib Warning: Citation `java' on page 34 undefined on input line 280.
+Package natbib Warning: Citation `java' on page 34 undefined on input line 282.
 
-
-
-Package natbib Warning: Citation `millen' on page 34 undefined on input line 28
-2.
 
 
 Package natbib Warning: Citation `millen' on page 34 undefined on input line 28
 4.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 290--291
+Package natbib Warning: Citation `millen' on page 34 undefined on input line 28
+6.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
 
  []
 
-
-Overfull \hbox (2.32428pt too wide) in paragraph at lines 296--311
-[][] 
- []
-
-) [34
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!] [35
-Non-PDF special ignored!
-Non-PDF special ignored!
+[34
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
-(C:\Users\elenavoyl\git\thesis\chapters/11/improving.tex
+Overfull \hbox (2.32428pt too wide) in paragraph at lines 298--313
+[][] 
+ []
+
+) [35
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!] (C:\Users\Elena\git\thesis\chapters/11/improving.tex
 Chapter 6.
 
 Overfull \hbox (2.32428pt too wide) in paragraph at lines 9--27
@@ -913,8 +913,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!]
-(C:\Users\elenavoyl\git\thesis\chapters/6/application.tex
+Non-PDF special ignored!] (C:\Users\Elena\git\thesis\chapters/6/application.tex
 Chapter 7.
 <images/keeplaces.png, id=175, 433.62pt x 194.22563pt>
 File: images/keeplaces.png Graphic file (type png)
@@ -934,7 +933,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored! <C:/Users/elenavoyl/git/thesis/images/keeplaces.png>]
+Non-PDF special ignored! <C:/Users/Elena/git/thesis/images/keeplaces.png>]
 [40
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -968,7 +967,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
-(C:\Users\elenavoyl\git\thesis\chapters/7/implications.tex
+(C:\Users\Elena\git\thesis\chapters/7/implications.tex
 Chapter 8.
 ) [48
 Non-PDF special ignored!
@@ -978,8 +977,7 @@ Non-PDF special ignored!
 
 
 Non-PDF special ignored!
-Non-PDF special ignored!]
-(C:\Users\elenavoyl\git\thesis\chapters/9/future_work.tex
+Non-PDF special ignored!] (C:\Users\Elena\git\thesis\chapters/9/future_work.tex
 Chapter 9.
 ) [49
 Non-PDF special ignored!
@@ -989,7 +987,7 @@ Non-PDF special ignored!
 
 
 Non-PDF special ignored!
-Non-PDF special ignored!] (C:\Users\elenavoyl\git\thesis\thesis1.bbl [50
+Non-PDF special ignored!] (C:\Users\Elena\git\thesis\thesis1.bbl [50
 Non-PDF special ignored!
 Non-PDF special ignored!
 
@@ -1115,16 +1113,16 @@ Non-PDF special ignored!]
 
 Package natbib Warning: There were undefined citations.
 
-(C:\Users\elenavoyl\git\thesis\thesis1.aux
-(C:\Users\elenavoyl\git\thesis\chapters/1/chapter_intro.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/3/methodology.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/2/chapter_related_work.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/4/old_framework.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/5/framework.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/11/improving.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/6/application.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/7/implications.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/9/future_work.aux))
+(C:\Users\Elena\git\thesis\thesis1.aux
+(C:\Users\Elena\git\thesis\chapters/1/chapter_intro.aux)
+(C:\Users\Elena\git\thesis\chapters/3/methodology.aux)
+(C:\Users\Elena\git\thesis\chapters/2/chapter_related_work.aux)
+(C:\Users\Elena\git\thesis\chapters/4/old_framework.aux)
+(C:\Users\Elena\git\thesis\chapters/5/framework.aux)
+(C:\Users\Elena\git\thesis\chapters/11/improving.aux)
+(C:\Users\Elena\git\thesis\chapters/6/application.aux)
+(C:\Users\Elena\git\thesis\chapters/7/implications.aux)
+(C:\Users\Elena\git\thesis\chapters/9/future_work.aux))
 
 LaTeX Warning: There were undefined references.
 
@@ -1135,7 +1133,7 @@ LaTeX Warning: There were undefined references.
 ### bottom level 
 Here is how much of TeX's memory you used:
  2109 strings out of 493921
- 32672 string characters out of 3144865
+ 32368 string characters out of 3144876
  98236 words of memory out of 3000000
  5321 multiletter control sequences out of 15000+200000
  12750 words of font info for 43 fonts, out of 3000000 for 9000
@@ -1152,7 +1150,7 @@ r10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12
 /Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/P
 rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Pro
 gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis1.pdf (66 pages, 688621 bytes).
+Output written on thesis1.pdf (66 pages, 688772 bytes).
 PDF statistics:
  267 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
