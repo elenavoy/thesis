@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.24)  23 FEB 2015 01:10
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.24)  23 FEB 2015 03:36
 entering extended mode
 **thesis1.tex
 (C:\Users\Elena\git\thesis\thesis1.tex
@@ -582,7 +582,7 @@ Chapter 5.
 File: images/framework_part1.png Graphic file (type png)
 
 <use images/framework_part1.png>
-Package pdftex.def Info: images/framework_part1.png used on input line 11.
+Package pdftex.def Info: images/framework_part1.png used on input line 13.
 (pdftex.def)             Requested size: 433.62pt x 108.40466pt.
  [22
 Non-PDF special ignored!
@@ -606,32 +606,40 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
-<images/overview.png, id=128, 416.30531pt x 516.42938pt>
-File: images/overview.png Graphic file (type png)
+<images/framework_enablers.png, id=128, 394.47375pt x 489.32813pt>
+File: images/framework_enablers.png Graphic file (type png)
 
-<use images/overview.png>
-Package pdftex.def Info: images/overview.png used on input line 53.
-(pdftex.def)             Requested size: 433.62pt x 537.93282pt.
+<use images/framework_enablers.png>
+Package pdftex.def Info: images/framework_enablers.png used on input line 56.
+(pdftex.def)             Requested size: 433.62pt x 537.88927pt.
  [25
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
+Overfull \hbox (2.32428pt too wide) in paragraph at lines 69--87
+[][] 
+ []
 
-LaTeX Warning: Text page 26 contains only floats.
+
+Package natbib Warning: Citation `kellar2006' on page 26 undefined on input lin
+e 94.
+
+
+Package natbib Warning: Citation `kellar2007' on page 26 undefined on input lin
+e 94.
+
+
+Package natbib Warning: Citation `levene' on page 26 undefined on input line 96
+.
 
 [26
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored! <C:/Users/Elena/git/thesis/images/overview.png>]
-Overfull \hbox (2.32428pt too wide) in paragraph at lines 66--84
-[][] 
- []
+Non-PDF special ignored!]
+
+LaTeX Warning: Text page 27 contains only floats.
 
 [27
 Non-PDF special ignored!
@@ -639,44 +647,37 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!]
-
-Package natbib Warning: Citation `kellar2006' on page 28 undefined on input lin
-e 91.
-
-
-Package natbib Warning: Citation `kellar2007' on page 28 undefined on input lin
-e 91.
-
-
-Package natbib Warning: Citation `levene' on page 28 undefined on input line 93
-.
-
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored! <C:/Users/Elena/git/thesis/images/framework_enablers.p
+ng>]
 
 Package natbib Warning: Citation `cockburn' on page 28 undefined on input line 
-95.
+98.
 
 [28
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
 Non-PDF special ignored!]
-Overfull \hbox (1.32132pt too wide) in paragraph at lines 103--104
+Overfull \hbox (1.32132pt too wide) in paragraph at lines 106--107
 []\OT1/cmr/m/n/12 To fur-ther sup-port ref-er-en-tial nav-i-ga-tion, ap-pli-ca-
 tions can ei-ther per-son-al-ize search
  []
 
 
 Package natbib Warning: Citation `levene' on page 29 undefined on input line 10
-5.
+8.
 
 
-Package natbib Warning: Citation `levene' on page 29 undefined on input line 10
-7.
+Package natbib Warning: Citation `levene' on page 29 undefined on input line 11
+0.
 
 
 Package natbib Warning: Citation `foster' on page 29 undefined on input line 11
-2.
+5.
 
 [29
 Non-PDF special ignored!
@@ -685,15 +686,11 @@ Non-PDF special ignored!
 Non-PDF special ignored!]
 
 Package natbib Warning: Citation `abrams' on page 30 undefined on input line 13
-0.
+3.
 
 
 Package natbib Warning: Citation `abrams' on page 30 undefined on input line 13
-2.
-
-
-Package natbib Warning: Citation `herrera' on page 30 undefined on input line 1
-34.
+5.
 
 [30
 Non-PDF special ignored!
@@ -701,15 +698,19 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
 
-Package natbib Warning: Citation `abrams' on page 31 undefined on input line 13
-8.
+Package natbib Warning: Citation `herrera' on page 31 undefined on input line 1
+37.
 
 
 Package natbib Warning: Citation `abrams' on page 31 undefined on input line 14
-0.
+1.
 
 
-Overfull \hbox (2.32428pt too wide) in paragraph at lines 145--159
+Package natbib Warning: Citation `abrams' on page 31 undefined on input line 14
+3.
+
+
+Overfull \hbox (2.32428pt too wide) in paragraph at lines 148--162
 [][] 
  []
 
@@ -717,38 +718,18 @@ Overfull \hbox (2.32428pt too wide) in paragraph at lines 145--159
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
 Non-PDF special ignored!]
-Overfull \hbox (2.32428pt too wide) in paragraph at lines 173--182
+Overfull \hbox (2.32428pt too wide) in paragraph at lines 176--185
 [][] 
  []
 
 
 Package natbib Warning: Citation `beagrie' on page 32 undefined on input line 1
-92.
+95.
 
 
 Package natbib Warning: Citation `wittaker' on page 32 undefined on input line 
-192.
-
-
-Underfull \hbox (badness 7047) in paragraph at lines 203--203
-[]\OT1/cmr/m/n/12 Collection-based cat-e-go-riza-
- []
-
-
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 198--221
-[][] 
- []
-
-
-Package natbib Warning: Citation `beagrie' on page 32 undefined on input line 2
-27.
-
-
-Package natbib Warning: Citation `wittaker' on page 32 undefined on input line 
-227.
+195.
 
 [32
 Non-PDF special ignored!
@@ -756,7 +737,27 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!] [33
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Underfull \hbox (badness 7047) in paragraph at lines 206--206
+[]\OT1/cmr/m/n/12 Collection-based cat-e-go-riza-
+ []
+
+
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 201--224
+[][] 
+ []
+
+
+Package natbib Warning: Citation `beagrie' on page 33 undefined on input line 2
+30.
+
+
+Package natbib Warning: Citation `wittaker' on page 33 undefined on input line 
+230.
+
+[33
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -765,35 +766,31 @@ Non-PDF special ignored!
 Non-PDF special ignored!]
 
 Package natbib Warning: Citation `beagrie' on page 34 undefined on input line 2
-29.
+32.
 
 
 Package natbib Warning: Citation `wittaker' on page 34 undefined on input line 
-229.
+232.
 
 
 Package natbib Warning: Citation `gruber' on page 34 undefined on input line 23
-1.
+4.
 
 
 Package natbib Warning: Citation `abrams' on page 34 undefined on input line 23
-6.
+9.
 
 
 Package natbib Warning: Citation `wittaker' on page 34 undefined on input line 
-236.
+239.
 
 
 Package natbib Warning: Citation `lindley' on page 34 undefined on input line 2
-36.
+39.
 
 
 Package natbib Warning: Citation `abrams' on page 34 undefined on input line 24
-2.
-
-
-Package natbib Warning: Citation `abrams' on page 34 undefined on input line 24
-7.
+5.
 
 [34
 Non-PDF special ignored!
@@ -801,20 +798,24 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
 
+Package natbib Warning: Citation `abrams' on page 35 undefined on input line 25
+0.
+
+
 Package natbib Warning: Citation `tauscher' on page 35 undefined on input line 
-249.
+252.
 
 
 Package natbib Warning: Citation `beagrie' on page 35 undefined on input line 2
-53.
+56.
 
 
 Package natbib Warning: Citation `wittaker' on page 35 undefined on input line 
-253.
+256.
 
 
 Package natbib Warning: Citation `beagrie' on page 35 undefined on input line 2
-61.
+64.
 
 [35
 Non-PDF special ignored!
@@ -822,32 +823,32 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
 
-Package natbib Warning: Citation `java' on page 36 undefined on input line 279.
+Package natbib Warning: Citation `java' on page 36 undefined on input line 282.
 
 
 
 Package natbib Warning: Citation `millen' on page 36 undefined on input line 28
-1.
+4.
 
 
 Package natbib Warning: Citation `millen' on page 36 undefined on input line 28
-3.
+6.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 289--290
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
 
  []
 
 
-Overfull \hbox (2.32428pt too wide) in paragraph at lines 295--310
+Overfull \hbox (2.32428pt too wide) in paragraph at lines 298--313
 [][] 
  []
 
-) [36
+[36
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!] [37
+Non-PDF special ignored!]) [37
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -1105,6 +1106,8 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
 Non-PDF special ignored!]) [56
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -1153,10 +1156,10 @@ LaTeX Warning: There were undefined references.
 ### simple group (level 1) entered at line 6 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 2129 strings out of 493921
- 32855 string characters out of 3144876
- 98332 words of memory out of 3000000
- 5341 multiletter control sequences out of 15000+200000
+ 2132 strings out of 493921
+ 32983 string characters out of 3144876
+ 98348 words of memory out of 3000000
+ 5344 multiletter control sequences out of 15000+200000
  12750 words of font info for 43 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  24i,11n,28p,1590b,476s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1171,7 +1174,7 @@ r10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12
 /Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/P
 rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Pro
 gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis1.pdf (69 pages, 696489 bytes).
+Output written on thesis1.pdf (69 pages, 669666 bytes).
 PDF statistics:
  277 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
