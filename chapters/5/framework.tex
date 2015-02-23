@@ -9,48 +9,44 @@ In my framework, I built on existing classifications of information seeking task
 	\noindent
 	\centering
 	\includegraphics[width=\linewidth]{framework_part1.png}
-	\caption{Framework Overview (Enabling Information Discovery and Curation)}
+	\caption{Framework Overview: Enabling Information Discovery and Curation}
 	\label{fig:framework_part1} 
 \end{figure}
 
 {\section{Motives Behind Information Discovery and \\ Curation}
-Understanding the motives behind user activities can help form a conceptual model of a needed Web application and its features. There exists a wide variety of user motives behind information discovery and curation, and certain aspects of these motives can significantly impact the design of an application. The following generalized motives and their properties can help define conceptual models and identify primary use cases of Web tools for information discovery and curation.  
+Understanding the motives behind user activities can help form a conceptual model of a needed Web application and its features. There exists a wide variety of user motives behind information discovery and curation, and certain aspects of these motives can significantly impact the design of an application. The following generalizations of motives and their properties can help define conceptual models and identify primary use cases of Web tools for information discovery and curation.  
 
 {\subsection{Closing Knowledge Gap}
-The primary motive for information discovery is usually to close some knowledge gap that occurred as a result of the user trying to accomplish some task and not having enough information to do so.   This motive is highly generalized; however, motives become more diverse with different information needs, and relation to temporality and persistence.   
+The primary motive for information discovery is usually to close a knowledge gap that occurs when the user tries to accomplish a task and lacks information to do so. This motive can take up various forms. Its form commonly depends on the nature of an information need and other conditions surrounding the given motive.        
 
-{\subsubsection{Nature of Information Need}
-Depending on the context in which it arose, an information need can have various degrees of specificity. For example, if the motive is to find inspiration for a project, the information need is only vaguely defined. However, if the motive is to find a phone number of a specific business, the information need is well-defined.  The specificity of the information need determines whether users can benefit more from mechanisms that allow to define the information need, help articulate the information need, or allow to randomly retrieve information, for instance.
+Depending on the context in which it arose, an information need can have various degrees of specificity. For example, if the motive is to find inspiration for a project, an information need is only vaguely defined. However, if the motive is to find a phone number of a specific business, an information need is well-defined. In some cases, the information need may be hidden, and the user might not be aware of the existing knowledge gap. The specificity of an information need determines important properties of information discovery mechanisms, such as whether users can benefit more from mechanisms that allow to specify an information need, help form an information need, or allow to randomly retrieve information. This property has to be taken into consideration when evaluating or designing a Web application. 
 
-The nature of the information need predetermines whether discovery is respectively serendipitous or oriented towards fact finding. In some cases, the information need may not be articulated at all, and the user might not be aware of the existing knowledge gap.   
+The nature of an information need predetermines whether discovery is respectively serendipitous or oriented towards fact finding. Therefore, depending on user needs, an application can be designed to increase serendipity and opportunistic discovery or to improve purposeful fact finding. For instance, displaying featured content can improve serendipitous discovery because of its inconsistent nature and novelty. Using context, such as location and date, to tailor search results to the user can improve fact finding. 
 
-}
+The motive behind information rediscovery involves finding previously discovered information and closing previously closed knowledge gap in case if information was forgotten. It usually results in the user looking for previously found resources and Web pages. In fact, Web-page revisitation is one of the most commonly performed web-browsing activities~\cite{adar2008large,cockburn2003improving}. The percentage of revisited web pages involved in web browsing can range from 58\%~\cite{tauscher1997people} to 81\%~\cite{cockburn2001web}. Some of the reasons for revisiting pages include shopping, communication, entertainment, education, activity planning, and hobby-related information retrieval~\cite{adar2008large}. Some Web pages and resources can be rediscovered using navigation while others need to be previously preserved (bookmarked) in order to allow rediscovery. Rediscovery is one of the many ways in which information discovery and curation interweave. 
 
-
-{\subsubsection{Persistence}
-}
-
-{\subsubsection{Temporality}
-}
-
+Another type of motive for information discovery relates to the two qualities of the Web defined by Lindley et al. - temporality and persistence~\citep{lindley2012s}. \textit{Persistence} refers to the quality of the Web that allows people to habitually revisit Web pages and continue on-going Web projects. \textit{Temporality} refers to the quality of the Web that allows the content of Web sites to be continuously updated to provide users with new information. Persistence alone usually facilitates information rediscovery. However, if persisitence is combined with temporality, they can facilitate discovery of new information within the same application or channel. I refer to this type of discovery as \textit{channeled discovery}. Some of the common motives for channeled discovery include orienting (or monitoring for updates) and opportunistic information discovery~\citep{lindley2012s}.          
 }
 
 {\subsection{Future Use and Reaccess}
-The main motive behind information curation is making it possible to reaccess information in the future and subsequently use it. 
-}
-{\subsection{Communication}
-Wilson identified communication of information as part of information behaviour.
+The main motive behind information curation is to make it possible to retrieve information and to consequently use it. In order to facilitate easy information retrieval, many Web applications employ various forms of bookmarking systems. Traditionally, bookmarks are manually organized by users into folders. However, this method of organization has been found inefficient because folders with bookmarks become easily cluttered~\cite{abrams1998information}. Therefore, in order to efficiently support information rediscovery, Web tools need to provide mechanisms for information preservation along with information management.
 }
 
 {\subsection{Improving Collection}
-Reportedly, people collect information for the sake of collecting information~\cite{lindley2012s}. That is, collecting is an activity in itself. 
-
-}
-Even though it is not feasible to list all of the possible motives for information discovery and curation, the framework outlines the important properties of the motives that can aid in developing use cases and formalizing conceptual models for Web applications. 
+Reportedly, people gather information to improve existing collections~\cite{lindley2012s}. Although some deeper motives may include self reflection or the possibility of future use, collecting information is a motive in itself. In general, information gathering may be stretched over a period of time~\cite{kellar2006goal}, resulting in repeating page visitation. Although information gathering composes only 13.4\% of Web usage, it highly contributes to various goal-supporting activities, such as decision making and planning~\cite{kellar2006goal}.
 
 }
 
+{\subsection{Communication}
+As part of his information behavior model, Wilson identified communication of information as an outcome of information seeking. Communication can also be thought of as a motive for information discovery and curation. To support communication of information, Web tools have to provide mechanism that allow various users to share information among themselves. 
 
+In recent years, social bookmarking, a way to preserve and share information within various communities, has gained popularity as an effective way of communicating with other users~\cite{estelles2010social}. One of the first visions of social bookmarking was associated with Web blogging. Oravec~\cite{oravec2002bookmarking} believes that web blogs help annotate or bookmark important information and build a ``map'' of the Internet. Evolution of social bookmarking has advanced bookmarking technologies and provided a means for collaborative information discovery and curation. 
+}
+
+Even though it is not entirely feasible to list all of the possible motives for information discovery and curation, in this section I outline some of the important motives and their aspects that can aid in developing use cases and formalizing conceptual models for Web applications. These motives also make it easier to showcase how mechanisms for discovery and curation complement each other. 
+}
+
+{\section{Discovery and Curation Activities and Their Enablers}
 \begin{figure}[ht!]
 	\noindent
 	\centering
@@ -61,7 +57,7 @@ Even though it is not feasible to list all of the possible motives for informati
 
 
 
-{\section{Discovery and Navigation}
+{\subsection{Discovery and Navigation}
 In order to discover information, a user needs to have a way of navigating to it. Common methods of navigation that facilitate information discovery include descriptional, referential, random, and direct (see Table~\ref{table:navigation}). 
 
 \begin{table}[ht!]
@@ -87,7 +83,7 @@ Direct display             		& Is any information displayed directly without act
 \end{tabular}
 \end{table}
 
-{\subsection{Descriptional Navigation}
+{\subsubsection{Descriptional Navigation}
 A navigation is descriptional when the user describes the information need. Most commonly is implemented as search-based navigation since it allows users to enter the search query and describe their information need.
 
 There are two common ways of aiding information discovery when search-based navigation is used. The first method entails returning personalized results when the user enters a search query. There are a number of ways to accomplish personalization, but this chapter only focuses on which features can can support information discovery and curation have rather than their implementations. The second method is to suggest search terms to make it easier for the user to formulate the information need (see Table~\ref{table:navigation_support}). 
@@ -99,7 +95,7 @@ Search-based navigation often serves as an entry point for information seeking ~
 Descriptional navigation can help rediscovering information. However, search-based rediscovery is not always a reliable way of refinding information ~\cite{cockburn}. In information portals that provide access to fairly ambiguous information and that have information regularly repopulated and updated, the search feature is usually designed around retrieving information related to some topic, but is not very specific. In order to revisit a resource, search must provide consistent results. In information discovery applications that provide access to specific information, such as Wikipedia and Rotten Tomatoes, search can usually lead directly to a specific resource. However, within Web applications such as We Heart It or Pinterest, search-based rediscovery is often unreliable.
 } % end subsection
 
-{\subsection{Referential Navigation}
+{\subsubsection{Referential Navigation}
 A navigation is referential when the user finds a reference to the term that she is looking for.  The underlying assumption of this method of navigation is that the user can recognize needed information as she sees it.
 
 Referential navigation methods can take many different forms. Some common ones are searching categories, facets, and filters. Often, Web applications implement tag-based navigation. In some applications, users can search by a given resource (see Table~\ref{table:navigation}).
@@ -112,13 +108,13 @@ For serendipitous discovery, referential navigation should provide a way to narr
 
 } % end subsection
 
-{\subsection{Random Navigation}
+{\subsubsection{Random Navigation}
 In order to browse diverse information, an information discovery tool needs to provide a way to randomly navigate among resources, thereby supporting serendipitous information discovery ~\cite{foster}. Many applications, such as StumbleUpon, support random navigation to allow for opportunistic jumping from one resource to another. This method is useful when the information need is undefined.
 
 To further enhance random navigation, Web tools sometimes allow users to personalize this type of navigation, which makes it less 'random'. However, this way the user can discover new information within a specific category, for example.
 } % end subsection
 
-{\subsection{Direct Navigation}
+{\subsubsection{Direct Navigation}
 In a broad sense of Web-based navigation, direct navigation is associated with entering an address of a site and being redirected directly to it. In the context of Web applications for information discovery, direct navigation means displaying certain content to the user without user's active participation.  
 
 Often, applications display certain information as soon the user visits the site. It can be news feed, featured content, context-dependent information, or other types of information. Displayed content can also be personalized to improve information discovery with direct navigation.
@@ -128,7 +124,7 @@ Often, applications display certain information as soon the user visits the site
 
 } % end section
 
-{\section{Exploration and Discovery}
+{\subsection{Exploration and Discovery}
 Exploration of resources is another factor that enables information discovery. In particular, visual and spatial explorations of single or multiple resources allow for rapid information searching (see Table ~\ref{table:exploration}). 
 
 Abrams et al.~\cite{abrams} identified link representation as one of the problems with traditional bookmarking. Analogous with browsing through a bookmark manager, identifying relevant information when browsing through links to diverse resources can be a challenging task. A visual preview should make it easier to evaluate the relevance of resources. Applications that facilitate serendipitous information discovery often employ elaborate resource representation techniques. Many social bookmarking systems, such as Scoop.it! and StumbleUpon, support visual previews of bookmarked pages. Delicious is a social bookmarking application that lacks this type of link representation support, which makes it harder to determine if the link will lead to a relevant resource.
@@ -166,7 +162,7 @@ Spatial exploration of a multiple resources & Does the system provide means for 
 
 
 } % end section
-{\section{Integration}
+{\subsection{Integration}
 
 Similar to serendipitous discovery, if an information discovery application provides access to resources from other Websites, the user should be able to navigate to those sites as they may contain the facts of interest. Integration for fact finding is especially important when it gives an opportunity to display specific information about resources that otherwise would not be accessible. For example, Google Maps displays business ratings as a result of its integration with Google+.
 
@@ -188,7 +184,7 @@ Linking   & Is application linked to another application?\\
 
 } % end section
 
-{\section{Curation}
+{\subsection{Curation}
 
 Information curation is a common activity within many information discovery applications. By asking questions about application design with regards to information curation as in Tables~\ref{table:curation} and~\ref{table:curation_support} of the conceptual framework, designers can find ways to add value to information and enable information exploitation over time.
 
@@ -227,7 +223,7 @@ External sharing          & Can internal resources be publicly reshared outside 
 
 
 
-{\subsection{Management}
+{\subsubsection{Management}
 Information management is one of the key elements of information curation ~\cite{beagrie, wittaker}. Information categorization mechanisms are prevalent in applications that have a lot of information that is hard to categorize automatically or can mean something different for each user. In the context of Web information management, the following factors play a major role.
 
 Resource categorization helps establish relationships between various resources ~\cite{beagrie, wittaker}. Allowing people to sort information using custom categories can aid rediscovery, discovery in a socially curated space, as well as add more value to resources.
@@ -236,7 +232,7 @@ Similar to list-based categorization, tagging aids rediscovery, adds value to re
 
 } % end subsubsection
 
-{\subsection{Information Preservation}
+{\subsubsection{Information Preservation}
 Information preservation is a common Web task that is usually performed with the intent of revisiting information ~\cite{abrams, wittaker}. However, in the case of opportunistic Web use, information gathering is sometimes performed with just the goal of collecting information rather than revisiting it in the future ~\cite{lindley}. Bookmarking is a traditional way of preserving information and many Web applications provide diverse bookmarking mechanisms. 
 
 Internal preservation of internal resources means bookmarking resources to be reaccessed within the same application. Such bookmarking facilitates information curation within the system.
@@ -253,7 +249,7 @@ Bookmark-based revisitation is one of the most common ways of information redisc
 A Web application needs to automatically record browsing history in order to enable history-based rediscovery ~\cite{tauscher}. History-based rediscovery appears to be the least common rediscovery mechanism, however, it can still be found in some Web applications, such as Google Maps.
 } % end subsubsection
 
-{\subsection{Augmentation}
+{\subsubsection{Augmentation}
 One of the most important elements of digital curation is augmentation: adding value to information ~\cite{beagrie, wittaker}. It is often performed within social bookmarking systems. Many Web applications allow users to add value to the resources they curate. 
 
 Evaluation methods can have various forms. They usually take place in socially curated information systems. However, evaluation can also contribute to personal reflection and information preservation. In addition, many applications allow users to evaluate resources by rating them or recording other forms of approval or disapproval. Some sites, such as Wikipedia, do not allow any evaluation. 
@@ -261,7 +257,7 @@ Evaluation methods can have various forms. They usually take place in socially c
 Annotations are metadata attached to a resource, such as comments and descriptions. Annotations make it easier to search for and interpret information. 
 } % end subsubsection
 
-{\subsection{Sharing}
+{\subsubsection{Sharing}
 Sharing information is key to empowering social information curation ~\cite{beagrie}. Therefore, the main components that facilitate sharing are adding resources, and external and internal information sharing.
 
 Adding resources not only facilitates global Web information curation, but it also scales the information available through the system, providing more opportunities for information discovery. Resources can be created by users themselves, taken from some other sources online, or both. For example, YouTube allows users to upload their own videos, whereas Pinterest permits adding images from other sites in addition to users' personal images. 
@@ -276,7 +272,7 @@ Resharing resources within the system supports channel-based information discove
 } % end section
 
 
-{\section{Channelled Curation and Discovery}
+{\subsection{Channelled Curation and Discovery}
 
 {\subsubsection{Channel-based Discovery}
 
@@ -318,7 +314,7 @@ Artifact activity overview & Does the application display activities of other us
 } % end section
 
 
-
+}
 
 
 
