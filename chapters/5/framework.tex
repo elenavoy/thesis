@@ -3,7 +3,7 @@
 
 Although Web-based information discovery and curation tasks are commonly performed today, as we mentioned above, there is a lack of literature on how to enable and support them when building Web applications. I reduce this gap by presenting a framework of design factors facilitating digital information discovery and curation. 
 
-In my framework, I built on existing models and frameworks of information discovery and curation and analysis of existing Web tools to derive corresponding design factors for Web design. I borrow terms from Activity Theory~\cite{kuutti1996activity} to describe how different components of the framework are connected. 
+In my framework, I built on existing models and frameworks of information discovery and curation and analysis of existing Web tools to derive corresponding design factors for Web design. I borrow terminology from Activity Theory~\cite{kuutti1996activity} to describe how different components of the framework are connected. 
 
 The framework is divided into two parts. This chapter outlines the first part of the framework titled \textit{``Enabling Information Discovery and Curation''}. The first part of the framework consists of motives behind information discovery and curation, actions that discovery and curation consist of, and design factors that enable those actions (see Figure~\ref{fig:framework_part1}). Second part of the framework deals with improving operations that are involved in information discovery and curation (see Chapter~\ref{chapter:improving}).
 
@@ -27,7 +27,7 @@ The nature of an information need predetermines whether discovery is respectivel
 
 The motive behind information rediscovery involves finding previously discovered information and closing previously closed knowledge gap in case if information was forgotten. It usually results in the user looking for previously found resources and Web pages. In fact, Web-page revisitation is one of the most commonly performed web-browsing activities~\cite{adar2008large,cockburn2003improving}. The percentage of revisited web pages involved in web browsing can range from 58\%~\cite{tauscher1997people} to 81\%~\cite{cockburn2001web}. Some of the reasons for revisiting pages include shopping, communication, entertainment, education, activity planning, and hobby-related information retrieval~\cite{adar2008large}. Some Web pages and resources can be rediscovered using navigation while others need to be previously preserved (bookmarked) in order to allow rediscovery. Rediscovery is one of the many ways in which information discovery and curation interweave. 
 
-Another type of motive for information discovery relates to the two qualities of the Web defined by Lindley et al. - temporality and persistence~\citep{lindley2012s}. \textit{Persistence} refers to the quality of the Web that allows people to habitually revisit Web pages and continue on-going Web projects. \textit{Temporality} refers to the quality of the Web that allows the content of Web sites to be continuously updated to provide users with new information. Persistence alone usually facilitates information rediscovery. However, if persisitence is combined with temporality, they can facilitate discovery of new information within the same application or channel. I refer to this type of discovery as \textit{channeled discovery}. Some of the common motives for channeled discovery include orienting (or monitoring for updates) and opportunistic information discovery~\citep{lindley2012s}.          
+Another type of motive for information discovery relates to the two qualities of the Web defined by Lindley et al. - temporality and persistence~\citep{lindley2012s}. \textit{Persistence} refers to the quality of the Web that allows people to habitually revisit Web pages and continue on-going Web projects. \textit{Temporality} refers to the quality of the Web that allows the content of Web sites to be continuously updated to provide users with new information. Persistence alone usually facilitates information rediscovery. However, if persisitence is combined with temporality, they can facilitate discovery of new information within the same application or channel. I refer to this type of discovery as \textit{channel-based discovery}. Some of the common motives for channel-based discovery include orienting (or monitoring for updates) and opportunistic information discovery~\citep{lindley2012s}.          
 }
 
 {\subsection{Future Use and Reaccess}
@@ -48,20 +48,21 @@ In recent years, social bookmarking, a way to preserve and share information wit
 Even though it is not entirely feasible to list all of the possible motives for information discovery and curation, in this section I outline some of the important motives and their aspects that can aid in developing use cases and formalizing conceptual models for Web applications. These motives also make it easier to showcase how mechanisms for discovery and curation complement each other. 
 }
 
-{\section{Discovery and Curation Activities and Their Enablers}
-The framework consists of two main categories (discovery and curation) that are consequently decomposed into subcategories. Each of the lower subcategories contains mechanisms that enable given aspect of discovery or curation and corresponding questions that can help application design and evaluation. Every component in the framework has corresponding automation and support elements that can improve user experience. 
+{\section{Discovery and Curation Activities, Actions, and Their Enablers}
+The next portion of the framework consists of two main categories (discovery and curation) that are consequently decomposed into different actions (see Figure~\ref{fig:enablers}). Each of the actions is supported by a group of features or mechanisms that enable given aspect of discovery or curation in a Web application.  The following subsections describe each of the groups and outline corresponding questions that can help application design and evaluation.  
+
 \begin{figure}[ht!]
 	\noindent
 	\centering
 	\includegraphics[width=\linewidth]{framework_enablers.png}
-	\caption{Conceptual Framework Overview}
+	\caption{Enabling Information Discovery and Curation: Activities, Actions, and Corresponding Enablers}
 	\label{fig:enablers} 
 \end{figure}
 
+{\subsection{Navigation in Discovery: Following Information Scent}
+In order to discover information, a user needs to have a way of navigating to it. Navigation in information discovery can be thought of as following an information scent. In general, information scent models deal with the identification of information value, cost, or
+access path of information sources based on proximal cues, that can take on form as links, icons, categories, etc~\cite{pirolli1999information}. Common methods of navigation that facilitate information discovery include descriptional, referential, opportunistic, and direct (see Table~\ref{table:navigation}). 
 
-
-{\subsection{Discovery and Navigation}
-In order to discover information, a user needs to have a way of navigating to it. Common methods of navigation that facilitate information discovery include descriptional, referential, random, and direct (see Table~\ref{table:navigation}). 
 
 \begin{table}[ht!]
 \caption{Navigation Mechanisms}
@@ -71,17 +72,25 @@ In order to discover information, a user needs to have a way of navigating to it
 Navigation mechanisms     	& Questions to be posed during the design or evaluation of tools \\
 \hline
 \textbf{Descriptional} 			& \\
-Search-based navigation 		& Can users navigate the site using search mechanism? \\
+Search							& Is it possible to navigate within the application using a search mechanism? \\
+Integrated search				& Is it possible to retrieve information from  other applications using a search mechanism? \\
 \textbf{Referential}       		& \\
-Category-guided navigation 		& Can users navigate using categories? \\
-Facet-guided navigation    		& Can users navigate using facets? \\
-Filter-guided navigation  		& Can users navigate using filters? \\
-Tag-guided navigation      		& Can users navigate using filters? \\
-Search by resource         		& Can the user search by resource? \\
-\textbf{Random}            		& \\
-Random navigation          		& Is it possible to randomly navigate through resources? \\
+Categories				 		& Can users navigate using categories? \\
+Facets				    		& Can users navigate using facets? \\
+Filters					  		& Can users navigate using filters? \\
+Tags				      		& Can users navigate using filters? \\
+Search by item or resource		& Can the user search by resource? \\
+Integrated reference			& Is it possible to retrieve information from other applications using any of the referential mechanisms?\\
+\textbf{Opportunistic}          & \\
+Opportunistic navigation        & Is it possible to randomly navigate through resources within the application? \\
+Integrated opportunistic navigation        & Is it possible to randomly navigate through resources within the application? \\
 \textbf{Direct}            		& \\
+Static information             		& Is any information displayed directly without active search? \\
+Integrated static information             		& Is any information displayed directly without active search? \\
 Direct display             		& Is any information displayed directly without active search? \\
+Integrated display             		& Is any information displayed directly without active search? \\
+News feed             		& Is any information displayed directly without active search? \\
+Integrated news feed             		& Is any information displayed directly without active search? \\
 \hline
 \end{tabular}
 \end{table}

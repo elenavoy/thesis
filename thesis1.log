@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.24)  23 FEB 2015 03:36
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.24)  25 FEB 2015 00:04
 entering extended mode
 **thesis1.tex
 (C:\Users\Elena\git\thesis\thesis1.tex
@@ -103,6 +103,37 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count91
 )
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 702.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\colortbl\colortbl.sty"
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen108
+\extrarowheight=\dimen109
+\NC@list=\toks23
+\extratabsurround=\skip46
+\backup@length=\skip47
+)
+\everycr=\toks24
+\minrowclearance=\skip48
+)
 (C:\Users\Elena\git\thesis\thesis1.aux
 (C:\Users\Elena\git\thesis\chapters/1/chapter_intro.aux)
 (C:\Users\Elena\git\thesis\chapters/3/methodology.aux)
@@ -113,44 +144,45 @@ LaTeX Info: Redefining \cite on input line 694.
 (C:\Users\Elena\git\thesis\chapters/6/application.aux)
 (C:\Users\Elena\git\thesis\chapters/7/implications.aux)
 (C:\Users\Elena\git\thesis\chapters/9/future_work.aux))
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
 
 (C:\Users\Elena\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count92
-\scratchdimen=\dimen108
+\scratchdimen=\dimen110
 \scratchbox=\box28
 \nofMPsegments=\count93
 \nofMParguments=\count94
-\everyMPshowfont=\toks23
+\everyMPshowfont=\toks25
 \MPscratchCnt=\count95
-\MPscratchDim=\dimen109
+\MPscratchDim=\dimen111
 \MPnumerator=\count96
 \makeMPintoPDFobject=\count97
-\everyMPtoPDFconversion=\toks24
+\everyMPtoPDFconversion=\toks26
 )
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 87.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 90.
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 87.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 90.
  [1
 Non-PDF special ignored!
 Non-PDF special ignored!
 
 
+Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!{C:/Users/Elena/AppData/Local/MiKTeX/2.9/pdftex/config/
 pdftex.map}
@@ -481,7 +513,7 @@ Missing character: There is no ™ in font cmr12!
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 45.
 
-Overfull \hbox (14.31766pt too wide) in paragraph at lines 45--92
+Overfull \hbox (15.91763pt too wide) in paragraph at lines 45--92
 [][] 
  []
 
@@ -556,7 +588,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
-Overfull \hbox (2.31766pt too wide) in paragraph at lines 45--83
+Overfull \hbox (3.51764pt too wide) in paragraph at lines 45--83
  [][] 
  []
 
@@ -605,33 +637,32 @@ Non-PDF special ignored!] [24
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
+Non-PDF special ignored!] [25
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
 Non-PDF special ignored!]
-<images/framework_enablers.png, id=128, 394.47375pt x 489.32813pt>
+<images/framework_enablers.png, id=131, 394.47375pt x 489.32813pt>
 File: images/framework_enablers.png Graphic file (type png)
 
 <use images/framework_enablers.png>
-Package pdftex.def Info: images/framework_enablers.png used on input line 56.
+Package pdftex.def Info: images/framework_enablers.png used on input line 57.
 (pdftex.def)             Requested size: 433.62pt x 537.88927pt.
- [25
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!]
-Overfull \hbox (2.32428pt too wide) in paragraph at lines 69--87
+
+Overfull \hbox (3.52426pt too wide) in paragraph at lines 70--96
 [][] 
  []
 
 
+LaTeX Warning: Float too large for page by 29.70529pt on input line 96.
+
+
 Package natbib Warning: Citation `kellar2006' on page 26 undefined on input lin
-e 94.
+e 103.
 
 
 Package natbib Warning: Citation `kellar2007' on page 26 undefined on input lin
-e 94.
-
-
-Package natbib Warning: Citation `levene' on page 26 undefined on input line 96
-.
+e 103.
 
 [26
 Non-PDF special ignored!
@@ -640,6 +671,10 @@ Non-PDF special ignored!
 Non-PDF special ignored!]
 
 LaTeX Warning: Text page 27 contains only floats.
+
+
+Overfull \vbox (7.45244pt too high) has occurred while \output is active []
+
 
 [27
 Non-PDF special ignored!
@@ -652,32 +687,35 @@ Non-PDF special ignored!
 Non-PDF special ignored! <C:/Users/Elena/git/thesis/images/framework_enablers.p
 ng>]
 
-Package natbib Warning: Citation `cockburn' on page 28 undefined on input line 
-98.
+Package natbib Warning: Citation `levene' on page 28 undefined on input line 10
+5.
 
-[28
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!]
-Overfull \hbox (1.32132pt too wide) in paragraph at lines 106--107
+
+Package natbib Warning: Citation `cockburn' on page 28 undefined on input line 
+107.
+
+
+Overfull \hbox (1.32132pt too wide) in paragraph at lines 115--116
 []\OT1/cmr/m/n/12 To fur-ther sup-port ref-er-en-tial nav-i-ga-tion, ap-pli-ca-
 tions can ei-ther per-son-al-ize search
  []
 
 
-Package natbib Warning: Citation `levene' on page 29 undefined on input line 10
-8.
+Package natbib Warning: Citation `levene' on page 28 undefined on input line 11
+7.
 
+[28
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
 
 Package natbib Warning: Citation `levene' on page 29 undefined on input line 11
-0.
+9.
 
 
-Package natbib Warning: Citation `foster' on page 29 undefined on input line 11
-5.
+Package natbib Warning: Citation `foster' on page 29 undefined on input line 12
+4.
 
 [29
 Non-PDF special ignored!
@@ -685,12 +723,20 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
 
-Package natbib Warning: Citation `abrams' on page 30 undefined on input line 13
-3.
+Package natbib Warning: Citation `abrams' on page 30 undefined on input line 14
+2.
 
 
-Package natbib Warning: Citation `abrams' on page 30 undefined on input line 13
-5.
+Package natbib Warning: Citation `abrams' on page 30 undefined on input line 14
+4.
+
+
+Package natbib Warning: Citation `herrera' on page 30 undefined on input line 1
+46.
+
+
+Package natbib Warning: Citation `abrams' on page 30 undefined on input line 15
+0.
 
 [30
 Non-PDF special ignored!
@@ -698,19 +744,34 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
 
-Package natbib Warning: Citation `herrera' on page 31 undefined on input line 1
-37.
+Package natbib Warning: Citation `abrams' on page 31 undefined on input line 15
+2.
 
 
-Package natbib Warning: Citation `abrams' on page 31 undefined on input line 14
-1.
+Overfull \hbox (3.52426pt too wide) in paragraph at lines 157--171
+[][] 
+ []
 
 
-Package natbib Warning: Citation `abrams' on page 31 undefined on input line 14
-3.
+Overfull \hbox (3.52426pt too wide) in paragraph at lines 185--194
+[][] 
+ []
 
 
-Overfull \hbox (2.32428pt too wide) in paragraph at lines 148--162
+Package natbib Warning: Citation `beagrie' on page 31 undefined on input line 2
+04.
+
+
+Package natbib Warning: Citation `wittaker' on page 31 undefined on input line 
+204.
+
+
+Underfull \hbox (badness 7047) in paragraph at lines 215--215
+[]|\OT1/cmr/m/n/12 Collection-based cat-e-go-riza-
+ []
+
+
+Overfull \hbox (25.19997pt too wide) in paragraph at lines 210--233
 [][] 
  []
 
@@ -719,185 +780,119 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
-Overfull \hbox (2.32428pt too wide) in paragraph at lines 176--185
-[][] 
- []
 
-
-Package natbib Warning: Citation `beagrie' on page 32 undefined on input line 1
-95.
+Package natbib Warning: Citation `beagrie' on page 32 undefined on input line 2
+39.
 
 
 Package natbib Warning: Citation `wittaker' on page 32 undefined on input line 
-195.
+239.
+
+
+Package natbib Warning: Citation `beagrie' on page 32 undefined on input line 2
+41.
+
+
+Package natbib Warning: Citation `wittaker' on page 32 undefined on input line 
+241.
+
+
+Package natbib Warning: Citation `gruber' on page 32 undefined on input line 24
+3.
+
+
+Package natbib Warning: Citation `abrams' on page 32 undefined on input line 24
+8.
+
+
+Package natbib Warning: Citation `wittaker' on page 32 undefined on input line 
+248.
+
+
+Package natbib Warning: Citation `lindley' on page 32 undefined on input line 2
+48.
+
+
+Package natbib Warning: Citation `abrams' on page 32 undefined on input line 25
+4.
 
 [32
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
 Non-PDF special ignored!]
-Underfull \hbox (badness 7047) in paragraph at lines 206--206
-[]\OT1/cmr/m/n/12 Collection-based cat-e-go-riza-
- []
+
+Package natbib Warning: Citation `abrams' on page 33 undefined on input line 25
+9.
 
 
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 201--224
-[][] 
- []
+Package natbib Warning: Citation `tauscher' on page 33 undefined on input line 
+261.
 
 
 Package natbib Warning: Citation `beagrie' on page 33 undefined on input line 2
-30.
+65.
 
 
 Package natbib Warning: Citation `wittaker' on page 33 undefined on input line 
-230.
+265.
+
+
+Package natbib Warning: Citation `beagrie' on page 33 undefined on input line 2
+73.
 
 [33
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
 Non-PDF special ignored!]
 
-Package natbib Warning: Citation `beagrie' on page 34 undefined on input line 2
-32.
+Package natbib Warning: Citation `java' on page 34 undefined on input line 291.
 
 
-Package natbib Warning: Citation `wittaker' on page 34 undefined on input line 
-232.
+
+Package natbib Warning: Citation `millen' on page 34 undefined on input line 29
+3.
 
 
-Package natbib Warning: Citation `gruber' on page 34 undefined on input line 23
-4.
-
-
-Package natbib Warning: Citation `abrams' on page 34 undefined on input line 23
-9.
-
-
-Package natbib Warning: Citation `wittaker' on page 34 undefined on input line 
-239.
-
-
-Package natbib Warning: Citation `lindley' on page 34 undefined on input line 2
-39.
-
-
-Package natbib Warning: Citation `abrams' on page 34 undefined on input line 24
+Package natbib Warning: Citation `millen' on page 34 undefined on input line 29
 5.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--302
+
+ []
 
 [34
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
-
-Package natbib Warning: Citation `abrams' on page 35 undefined on input line 25
-0.
-
-
-Package natbib Warning: Citation `tauscher' on page 35 undefined on input line 
-252.
-
-
-Package natbib Warning: Citation `beagrie' on page 35 undefined on input line 2
-56.
-
-
-Package natbib Warning: Citation `wittaker' on page 35 undefined on input line 
-256.
-
-
-Package natbib Warning: Citation `beagrie' on page 35 undefined on input line 2
-64.
-
-[35
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!]
-
-Package natbib Warning: Citation `java' on page 36 undefined on input line 282.
-
-
-
-Package natbib Warning: Citation `millen' on page 36 undefined on input line 28
-4.
-
-
-Package natbib Warning: Citation `millen' on page 36 undefined on input line 28
-6.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 292--293
-
- []
-
-
-Overfull \hbox (2.32428pt too wide) in paragraph at lines 298--313
+Overfull \hbox (3.52426pt too wide) in paragraph at lines 307--322
 [][] 
  []
 
-[36
+) [35
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!]) [37
+Non-PDF special ignored!] [36
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!] (C:\Users\Elena\git\thesis\chapters/11/improving.tex
-Chapter 6.
-
-Overfull \hbox (2.32428pt too wide) in paragraph at lines 9--27
-[][] 
- []
-
-
-Overfull \hbox (2.32428pt too wide) in paragraph at lines 32--47
-[][] 
- []
-
-
-Overfull \hbox (2.32428pt too wide) in paragraph at lines 52--65
-[][] 
- []
-
-
-Overfull \hbox (2.32428pt too wide) in paragraph at lines 71--80
-[][] 
- []
-
-
-Underfull \hbox (badness 3039) in paragraph at lines 95--96
-[]\OT1/cmr/m/n/12 Does the ap-pli-ca-tion au-to-mat-i-cally an-no-tates re-
- []
-
-
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 85--100
-[][] 
- []
-
-
-Overfull \hbox (2.32428pt too wide) in paragraph at lines 105--120
-[][] 
- []
-
-) [38
+Non-PDF special ignored!] [37
 Non-PDF special ignored!
 Non-PDF special ignored!
-
-
-
-
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!] [38
+Non-PDF special ignored!
+Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -907,11 +902,64 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
+Non-PDF special ignored!] (C:\Users\Elena\git\thesis\chapters/11/improving.tex
+Chapter 6.
+
+Overfull \hbox (3.52426pt too wide) in paragraph at lines 9--27
+[][] 
+ []
+
+
+Overfull \hbox (3.52426pt too wide) in paragraph at lines 32--47
+[][] 
+ []
+
+
+Overfull \hbox (3.52426pt too wide) in paragraph at lines 52--65
+[][] 
+ []
+
+
+Overfull \hbox (3.52426pt too wide) in paragraph at lines 71--80
+[][] 
+ []
+
+
+Underfull \hbox (badness 3039) in paragraph at lines 95--96
+[]|\OT1/cmr/m/n/12 Does the ap-pli-ca-tion au-to-mat-i-cally an-no-tates re-
+ []
+
+
+Overfull \hbox (25.19997pt too wide) in paragraph at lines 85--100
+[][] 
+ []
+
+
+Overfull \hbox (3.52426pt too wide) in paragraph at lines 105--120
+[][] 
+ []
+
+) [40
+Non-PDF special ignored!
+Non-PDF special ignored!
+
+
+
+
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!] [41
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!] [40
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!] [42
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -921,13 +969,13 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!] (C:\Users\Elena\git\thesis\chapters/6/application.tex
 Chapter 7.
-<images/keeplaces.png, id=181, 433.62pt x 194.22563pt>
+<images/keeplaces.png, id=187, 433.62pt x 194.22563pt>
 File: images/keeplaces.png Graphic file (type png)
 
 <use images/keeplaces.png>
 Package pdftex.def Info: images/keeplaces.png used on input line 12.
 (pdftex.def)             Requested size: 433.62pt x 194.23402pt.
- [41
+ [43
 Non-PDF special ignored!
 Non-PDF special ignored!
 
@@ -940,15 +988,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored! <C:/Users/Elena/git/thesis/images/keeplaces.png>]
-[42
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!] [43
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!] [44
+[44
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -968,14 +1008,22 @@ Non-PDF special ignored!] [48
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!]) [49
+Non-PDF special ignored!] [49
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!] [50
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]) [51
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
 (C:\Users\Elena\git\thesis\chapters/7/implications.tex
 Chapter 8.
-) [50
+) [52
 Non-PDF special ignored!
 Non-PDF special ignored!
 
@@ -985,7 +1033,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!] (C:\Users\Elena\git\thesis\chapters/9/future_work.tex
 Chapter 9.
-) [51
+) [53
 Non-PDF special ignored!
 Non-PDF special ignored!
 
@@ -993,70 +1041,12 @@ Non-PDF special ignored!
 
 
 Non-PDF special ignored!
-Non-PDF special ignored!] (C:\Users\Elena\git\thesis\thesis1.bbl [52
+Non-PDF special ignored!] (C:\Users\Elena\git\thesis\thesis1.bbl [54
 Non-PDF special ignored!
 Non-PDF special ignored!
 
 
 
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!] [53
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!]
-Missing character: There is no â in font cmti12!
-Missing character: There is no € in font cmti12!
-Missing character: There is no ” in font cmti12!
- [54
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -1108,7 +1098,33 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!]) [56
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Missing character: There is no â in font cmti12!
+Missing character: There is no € in font cmti12!
+Missing character: There is no ” in font cmti12!
+ [56
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -1120,12 +1136,44 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]) [58
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!] [59
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
 Non-PDF special ignored!]
-Overfull \hbox (1.50052pt too wide) in paragraph at lines 230--230
+Overfull \hbox (1.50052pt too wide) in paragraph at lines 233--233
 []\OT1/cmr/m/sc/12 TOWARDS UN-DER-STAND-ING DIG-I-TAL IN-FOR-MA-TION
  []
 
-[58
+[60
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -1156,13 +1204,13 @@ LaTeX Warning: There were undefined references.
 ### simple group (level 1) entered at line 6 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 2132 strings out of 493921
- 32983 string characters out of 3144876
- 98348 words of memory out of 3000000
- 5344 multiletter control sequences out of 15000+200000
+ 2654 strings out of 493921
+ 39050 string characters out of 3144876
+ 111322 words of memory out of 3000000
+ 5853 multiletter control sequences out of 15000+200000
  12750 words of font info for 43 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 24i,11n,28p,1590b,476s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,12n,35p,1590b,476s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
@@ -1174,9 +1222,9 @@ r10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12
 /Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/P
 rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Pro
 gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis1.pdf (69 pages, 669666 bytes).
+Output written on thesis1.pdf (71 pages, 669878 bytes).
 PDF statistics:
- 277 PDF objects out of 1000 (max. 8388607)
+ 283 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
