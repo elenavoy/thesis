@@ -114,7 +114,7 @@ Referential navigation can help the user identify their information need by sugg
 } % end subsection
 
 {\subsubsection{Opportunistic Navigation}
-Opportunistic navigation is method of navigating ``randomly" though resources and Web pages.  As expected, this type of navigation is not authentically random; therefore, I apply the term ``opportunistic" to describe this type. However to the user, this navigation type appears to be randomized, and it promotes serendipitous discovery. This method is especially useful when the information need is fully undefined.
+Opportunistic navigation is method of navigating `randomly' though resources and Web pages.  As expected, this type of navigation is not authentically random; therefore, I apply the term `opportunistic' to describe this type. However to the user, this navigation type appears to be randomized, and it promotes serendipitous discovery. This method is especially useful when the information need is fully undefined.
 
 Many applications, such as StumbleUpon and Wikipedia, support opportunistic navigation to allow for opportunistic jumping from one resource to another. StumbleUpon makes it possible to explore the Web in general - other websites and Web applications, allowing for integrated navigation, whereas Wikipedia provides opportunistic access to its own articles. 
 } % end subsection
@@ -122,28 +122,17 @@ Many applications, such as StumbleUpon and Wikipedia, support opportunistic navi
 {\subsubsection{System-regulated Navigation}
 Often, Web applications display or update information without the user's active participation. This information can be news feed, featured deals or articles, static information, or other types of content. In my thesis, I refer to this type of navigation as system-regulated because it occurs when the application brings the content to the user instead of the user applying any effort to find it. It differs from opportunistic navigation because the the user cannot choose when to observe new information; instead, all updates are regulated by the application. 
 
-One example of an application that utilizes system-regulated navigation is Yelp. This tool displays featured restaurants as well as its user's recent activities as soon as the user enters the site. As any other navigation method, this method can ensure cross-application integration by displaying content from other Web applications. 
+One example of an application that utilizes system-regulated navigation is Yelp. This tool displays featured restaurants as well as its user's recent activities as soon as the user enters the site. As any other navigation method, system regulated navigation can ensure cross-application integration by displaying content from other Web applications. 
 } % end subsection
 } % end section
 
-{\subsection{Exploration and Discovery}
-Exploration of resources is another factor that enables information discovery. In particular, visual and spatial explorations of single or multiple resources allow for rapid information searching (see Table ~\ref{table:exploration}). 
-
-Abrams et al.~\cite{abrams} identified link representation as one of the problems with traditional bookmarking. Analogous with browsing through a bookmark manager, identifying relevant information when browsing through links to diverse resources can be a challenging task. A visual preview should make it easier to evaluate the relevance of resources. Applications that facilitate serendipitous information discovery often employ elaborate resource representation techniques. Many social bookmarking systems, such as Scoop.it! and StumbleUpon, support visual previews of bookmarked pages. Delicious is a social bookmarking application that lacks this type of link representation support, which makes it harder to determine if the link will lead to a relevant resource.
-
-Similar to link representation, spatial visualization of numerous links is another problem that occurs when browsing through diverse content ~\cite{abrams}. Therefore, a semantic to the spatial arrangement of resources is of major importance. Information discovery applications that support serendipitous discovery often have a special way of spatially arranging resources to make it easier to browse through large amounts of information. For example, many tools use a 'pinboard' layout of resources similar to Pinterest.
-
-\textbf{Uniform representation.} Uniform representation is a method of displaying diverse resources in a common way, with each resource having the same set of components ~\cite{herrera}. Such a representation assures that each resource has the same set of facts associated with it, and therefore, the user can afford to have expectations about information that can be found when looking for a specific fact. For example, Yelp displays rating, price range, and address for all restaurants, so not only is it easy to find specific information, but the user can have expectations about the content of resources within the application. On the contrary, searching Tumblr for a restaurant will return a chaotic collection of information about the place. 
-
-
-
-\textbf{Visual link preview.} If an application provides links to resources, a visual preview makes it easier to recognize the relevance of the resource ~\cite{abrams}. Applications that support fact discovery often use visual link preview, similar to applications that support serendipitous browsing. However, the motivation behind having a link preview for fact finding is to make it possible to identify if the resource is indeed what the user is looking for. For example, searching for an actor in IMDb will return a list of actors and their photographs, so that the user can pick the one they are interested in.
-
-\textbf{Spatial arrangement.} Similar to serendipitous information discovery, spatial arrangement of resources is important ~\cite{abrams} as a poor semantic to the arrangement can make it difficult to visually navigate to the facts of interest.
+{\subsection{Exploration in Discovery: Examining Information Patches}
 
 \begin{table}[ht!]
 \caption{Visual and Spatial Exploration Mechanisms}
+\label{table:exploration} 
 \begin{tabular}{{|p{0.33\linewidth}|p{0.62\linewidth}|}}
+
 \hline
 Exploration mechanisms & Questions to be posed during the design or evaluation of discovery and curation tools  \\
 \hline
@@ -167,20 +156,22 @@ Consistency   				& Are same types of resources presented in a consistent way?\\
 \end{table}
 
 
-} % end section
-{\subsection{Integration}
+Exploration of resources is another action that facilitates information discovery. Visual and spatial cues, which help representing single or multiple resources, enable this action by allowing the users to examine information patches in a convenient way(see Table~\ref{table:exploration}). 
 
-Similar to serendipitous discovery, if an information discovery application provides access to resources from other Websites, the user should be able to navigate to those sites as they may contain the facts of interest. Integration for fact finding is especially important when it gives an opportunity to display specific information about resources that otherwise would not be accessible. For example, Google Maps displays business ratings as a result of its integration with Google+.
+Abrams et al.~\cite{abrams1998information} identified link representation as one of the problems with traditional bookmarking. Analogous with browsing through a bookmark manager, identifying relevant information when browsing through links in a Web application can be a challenging task. Visual and textual previews make it easier to evaluate the relevance of resources by providing the user with more information scent. Many social bookmarking systems, such as Scoop.it! and Pinterest, support visual previews of bookmarked pages. Delicious is a social bookmarking application that lacks this type of link representation support, so that it is harder to determine if the link will lead to a relevant resource.
 
-To users with ambiguous information needs, one information portal might not provide access to all information of interest. If an information discovery application gives access to resources from various sources, such as other Websites, the user should be able to navigate back to those sources.  
+Visual and textual information representations are also important for a single resource exploration. Not only they help navigating within the resource or the Web page, but they can also contribute to learning experience. For example, in case if the user would like to know what something looks like, they can learn it from the representation in question.  
+
+Similar to link representation, spatial visualization of numerous links is another problem that occurs when browsing through diverse content~\cite{abrams1998information}. Therefore, a semantic to the spatial arrangement of information (single and multiple resources) is of major importance. Information discovery applications often employ a sophisticated way of spatially arranging resources to make it easier to browse through large amounts of information. For example, many tools use a 'pinboard' layout of resources similar to Pinterest. Common ways of arranging multiple resources include list, grid, and gallery layouts. 
+
+Additionally, consistency in the way multiple and single resources are represented helps forming a conceptual model of how the application can be used and provides some degree of predictability~\cite{norman2002design}.
 } % end section
 
 {\subsection{Curation}
-
-Information curation is a common activity within many information discovery applications. By asking questions about application design with regards to information curation as in Tables~\ref{table:curation} and~\ref{table:curation_support} of the conceptual framework, designers can find ways to add value to information and enable information exploitation over time.
+Information curation is a common activity within many information discovery applications. By asking questions about application design with regards to information curation as in Tables~\ref{table:curation} and~\ref{table:curation_support} of the conceptual framework, designers can find ways to add value to information and enable information discovery over time.
 
 Information discovery applications vary from being completely socially curated and populated by users, to those that lack any curation mechanisms. 
-By definition, digital information curation is the notion of managing, preserving, and adding value to collections of information ~\cite{beagrie, wittaker}. Thus, the curation category consists of information management, preservation, information enhancement, and sharing.
+By definition, digital information curation is the notion of managing, preserving, and adding value to collections of information ~\cite{beagrie2008digital,whittaker2011personal}. Thus, the curation activity consists of actions such as information management, preservation, information augmentation, sharing, and channel-picking.
 
 
 \begin{table}[ht!]
@@ -212,69 +203,46 @@ Artifact subscription  	& Is it possible to subscribe to artifact updates?\\
 \end{tabular}
 \end{table}
 
-
-
-
 {\subsubsection{Management}
-Information management is one of the key elements of information curation ~\cite{beagrie, wittaker}. Information categorization mechanisms are prevalent in applications that have a lot of information that is hard to categorize automatically or can mean something different for each user. In the context of Web information management, the following factors play a major role.
+Information management is one of the key elements of information curation ~\cite{beagrie2008digital,whittaker2011personal}. Information management mechanisms are prevalent in applications that have a lot of information that is hard to categorize automatically or can mean something different for each user. In the context of Web information management, tagging and collection-based information categorization play major roles.
 
-Resource categorization helps establish relationships between various resources ~\cite{beagrie, wittaker}. Allowing people to sort information using custom categories can aid rediscovery, discovery in a socially curated space, as well as add more value to resources.
-
-Similar to list-based categorization, tagging aids rediscovery, adds value to resources, and aids discovery, especially in a socially curated space ~\cite{gruber}.  For example, Pinterest supports tag- and list-based categorizations, where lists are represented as 'pinboards'. Tumblr, on the other hand, only supports tag-based categorization. In addition, Pinterest allows for private information categorization.
+Resource categorization helps establish relationships between various resources ~\cite{beagrie2008digital,whittaker2011personal}. Allowing people to tag can aid rediscovery, discovery in a socially curated space, as well as add more value to resources~\cite{gruber2007ontology}. Sample applications that facilitate information management are Pinterest, a tool that supports tagging and collection-based categorization, and Tumblr, a tool that only supports tagging.
 
 } % end subsubsection
 
-{\subsubsection{Information Preservation}
-Information preservation is a common Web task that is usually performed with the intent of revisiting information ~\cite{abrams, wittaker}. However, in the case of opportunistic Web use, information gathering is sometimes performed with just the goal of collecting information rather than revisiting it in the future ~\cite{lindley}. Bookmarking is a traditional way of preserving information and many Web applications provide diverse bookmarking mechanisms. 
+{\subsubsection{Preservation}
+Information preservation is a common Web task that is usually performed with the intent of revisiting information~\cite{abrams1998information,whittaker2011personal}. However, information gathering is sometimes performed with just the goal of collecting information rather than revisiting it in the future~\cite{lindley2012s}. 
 
-Internal preservation of internal resources means bookmarking resources to be reaccessed within the same application. Such bookmarking facilitates information curation within the system.
+Bookmarking is a traditional way of preserving information and many Web applications provide diverse bookmarking mechanisms. Internal preservation of internal resources means bookmarking resources to be reaccessed within the same application. Such bookmarking facilitates information curation within the system. Internal preservation of external resources signifies bookmarking other Web pages within an application. External preservation means bookmarking resources so that they become available through other bookmarking systems. An application must facilitate integration with other applications in order to enable external preservation~\cite{abrams1998information}.
 
-Internal preservation of external resources signifies bookmarking other Web pages within an application. 
-  
-External preservation means bookmarking resources so that they become available through other bookmarking systems. An application must facilitate integration with other applications in order to enable external preservation ~\cite{abrams}.
-
-On We Heart It, users can preserve \textit{internal  information} using \textit{internal collections} and they can add information from \textit{external} Websites. However, there are no integrated means for bookmarking \textit{internal content} using other bookmarking systems.  
-
-
-Bookmark-based revisitation is one of the most common ways of information rediscovery ~\cite{abrams}. The majority of Web browsers are equipped with bookmarking features. However, some modern Web applications, such as YouTube and Pinterest, provide integrated mechanisms for bookmarking and bookmark-based information rediscovery. 
-
-A Web application needs to automatically record browsing history in order to enable history-based rediscovery ~\cite{tauscher}. History-based rediscovery appears to be the least common rediscovery mechanism, however, it can still be found in some Web applications, such as Google Maps.
+For example, in one of the image discovery application, We Heart It, users can preserve \textit{internal  information} using \textit{internal collections} and they can add information from \textit{external} websites. However, there are no integrated means for bookmarking \textit{internal content} using other bookmarking systems.  
 } % end subsubsection
 
 {\subsubsection{Augmentation}
-One of the most important elements of digital curation is augmentation: adding value to information ~\cite{beagrie, wittaker}. It is often performed within social bookmarking systems. Many Web applications allow users to add value to the resources they curate. 
+One of the most important elements of digital curation is augmentation: adding value to information ~\cite{beagrie2008digital,whittaker2011personal}. It is often performed within social bookmarking systems. Many Web applications allow users to add value to the resources they curate. 
 
-Evaluation methods can have various forms. They usually take place in socially curated information systems. However, evaluation can also contribute to personal reflection and information preservation. In addition, many applications allow users to evaluate resources by rating them or recording other forms of approval or disapproval. Some sites, such as Wikipedia, do not allow any evaluation. 
+One way to augment information is by annotating it. Annotations are metadata attached to a resource, such as comments and descriptions. Annotations make it easier to search for and interpret information. For example, Yelp and TripAdvisor largely rely on reviews written by their users. 
 
-Annotations are metadata attached to a resource, such as comments and descriptions. Annotations make it easier to search for and interpret information. 
+Evaluation methods can have various forms. They usually take place in socially curated information systems. However, evaluation can also contribute to personal reflection and information preservation. Many applications allow users to evaluate resources by rating them or recording other forms of approval or disapproval, such as "I like this" and "I dislike this" buttons on YouTube.
 } % end subsubsection
 
 {\subsubsection{Sharing}
-Sharing information is key to empowering social information curation ~\cite{beagrie}. Therefore, the main components that facilitate sharing are adding resources, and external and internal information sharing.
+Sharing information is key to empowering social information curation ~\cite{beagrie2008digital}. Therefore, the main components that facilitate sharing are adding resources, and external and internal information sharing.
 
 Adding resources not only facilitates global Web information curation, but it also scales the information available through the system, providing more opportunities for information discovery. Resources can be created by users themselves, taken from some other sources online, or both. For example, YouTube allows users to upload their own videos, whereas Pinterest permits adding images from other sites in addition to users' personal images. 
 
-Sharing resources through different media supports channel-based information discovery within the media channels. Information discovery applications commonly allow for sharing information on popular networking sites outside the application.
-
-Resharing resources within the system supports channel-based information discovery. 
+Sharing resources through different media and resharing them within the Web application supports channel-based information discovery within the media channels. Information discovery applications commonly allow for sharing information on popular networking sites outside the application.
 } % end subsubsection
 
 {\subsubsection{Channel-picking}
 
-Subscriptions to updates from a site help users follow the news ~\cite{java}. In order to support subscription-based discovery, an application must provide a subscription mechanism. For example, Rotten Tomatoes allows subscriptions to newsletters; however, it does not allow subscriptions to movie critics, as a user-based subscription mechanism would allow. 
+Channel-picking is an action of selecting information sources. A common enabler for this action is subscriptions. Subscriptions to updates from a site help users follow the news~\cite{java2007feeds}. In order to support channel-based discovery, an application must provide a subscription mechanism. For example, Rotten Tomatoes allows subscriptions to newsletters; however, it does not allow subscriptions to movie critics, as a user-based subscription mechanism would allow. 
 
-In some applications, the content is updated and curated by users, and users can subscribe to other users. Similar to site subscriptions, user subscriptions are subscriptions to activity updates from individual users rather than all content updates, and help with networking and following users' activities ~\cite{millen}. Such subscriptions help to further filter new content delivered to the user. 
-
-Notification mechanisms enable user awareness about new content on the subscribed channel ~\cite{millen}. Different applications provide various notification mechanisms including messages within the application, informative emails, and smartphone notifications.
-
-Displaying a news feed within the application further promotes awareness and can serve as a monitoring mechanism. For such. 
-
-Similar to displaying a subscription news feed, displaying a content news feed promotes awareness and can serve as a monitoring mechanism.
-
-Information discovery and curation tools can have different implementations depending on the motives behind these activities.  
-
+In some applications, the content is updated and curated by users, and users can subscribe to other users or artifacts. Similar to site subscriptions, user and artifact subscriptions are subscriptions to activity updates. These subscription mechanisms help with networking and provide awareness about other users' activities~\cite{millen2005social}. Such subscriptions also help to further filter new content delivered to the user. 
 } % end subsubsection
 } % end subsection
+
+Information discovery and curation tools can have different implementations depending on the motives behind these activities. The design factors presented in this chapter can help enable different actions associated with information discovery and curation. However, the activities can be significantly improved by additional support and automation (see Chapter~\ref{chapter:improving}).
 } % end section
 
 

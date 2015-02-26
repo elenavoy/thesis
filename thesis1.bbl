@@ -230,4 +230,21 @@ J.~A. Oravec, ``Bookmarking the world: Weblog applications in education,'' {\em
 M.~Levene, {\em An introduction to search engines and web navigation}.
 \newblock John Wiley \& Sons, 2011.
 
+\bibitem{norman2002design}
+D.~A. Norman, {\em The design of everyday things}.
+\newblock Basic books, 2002.
+
+\bibitem{gruber2007ontology}
+T.~Gruber, ``Ontology of folksonomy: A mash-up of apples and oranges,'' {\em
+  International Journal on Semantic Web and Information Systems (IJSWIS)},
+  vol.~3, no.~1, pp.~1--11, 2007.
+
+\bibitem{java2007feeds}
+A.~Java, P.~Kolari, T.~Finin, A.~Joshi, and T.~Oates, ``Feeds that matter: A
+  study of bloglines subscriptions.,'' in {\em ICWSM}, 2007.
+
+\bibitem{millen2005social}
+D.~Millen, J.~Feinberg, and B.~Kerr, ``Social bookmarking in the enterprise,''
+  {\em Queue}, vol.~3, no.~9, pp.~28--35, 2005.
+
 \end{thebibliography}
