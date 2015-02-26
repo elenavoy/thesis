@@ -60,19 +60,18 @@ The next portion of the framework consists of two main categories (discovery and
 \end{figure}
 
 {\subsection{Navigation in Discovery: Following Information Scent}
-In order to discover information, a user needs to have a way of navigating to it. Navigation in information discovery can be thought of as following an information scent. In general, information scent models deal with the identification of information value, cost, or
-access path of information sources based on proximal cues, that can take on form as links, icons, categories, etc~\cite{pirolli1999information}. Common methods of navigation that facilitate information discovery include descriptional, referential, opportunistic, and direct (see Table~\ref{table:navigation}). 
+In order to discover information, a user needs to have a way of navigating to it. Navigation in information discovery can be thought of as following an information scent. In general, information scent models deal with how the users identify value, cost, or access path of information sources based on proximal cues, such as links, icons, categories, etc.~\cite{pirolli1999information}. Common methods of navigation that facilitate information discovery include descriptional, referential, opportunistic, and system-regulated (see Table~\ref{table:navigation}). 
 
 
 \begin{table}[ht!]
 \caption{Navigation Mechanisms}
 \label{table:navigation} 
-\begin{tabular}{{|p{0.33\linewidth}|p{0.62\linewidth}|}}
+\begin{tabular}{{|p{0.33\linewidth}|p{0.67\linewidth}|}}
 \hline
 Navigation mechanisms     	& Questions to be posed during the design or evaluation of  discovery and curation tools \\
 \hline
 \textbf{Descriptional} 			& \\
-Search							& Is it possible to navigate within the application using a search mechanism? \\
+Search-based navigation							& Is it possible to navigate within the application using a search mechanism? \\
 Integrated search				& Is it possible to retrieve information from  other applications using a search mechanism? \\
 \textbf{Referential}       		& \\
 Categories				 		& Is it possible to navigate using categories? \\
@@ -96,40 +95,35 @@ Integrated news feed            & Is it possible to view news feed from other ap
 \end{table}
 
 {\subsubsection{Descriptional Navigation}
-A navigation is descriptional when the user describes the information need. Most commonly is implemented as search-based navigation since it allows users to enter the search query and describe their information need. 
+A navigation is descriptional when the user has a means of describing their information need. Most commonly it is implemented as search-based navigation since it allows users to enter the search query and describe what they want to find. Some of the modern descriptional navigation systems can be activated using voice. 
 
-There exist numerous ways in which descriptional navigation supports information discovery. With fact discovery, an information need is known ~\cite{kellar2006, kellar2007}. Therefore, descriptional navigation provides a way of for the user to express her information need. 
+Almost every present-day Web application has the search feature implemented, with rare exceptions of applications that utilize other methods of navigation, such as StumbleUpon and certain shopping websites. Some Web applications are integrated with others enabling users to search multiple websites at once.    
 
-Search-based navigation often serves as an entry point for information seeking ~\cite{levene}. In case of serendipitous discovery, since the information need is not well articulated, descriptional navigation can be used to express a topic that could potentially relate to the information need. For instance, searching for a location within Pinterest returns numerous images of the location that link to (or integrate with) other resources, blogs, and Web pages, whereas searching for the same place on Google Maps usually returns a small set of possible locations with limited information about those places.
+There exist numerous ways in which descriptional navigation supports information discovery. Search-based navigation often serves as an entry point for information seeking~\cite{levene2011introduction}. When the motive behind information discovery has a well-articulated information need, then the user can express their information need by entering a search query. 
 
-Descriptional navigation can help rediscovering information. However, search-based rediscovery is not always a reliable way of refinding information ~\cite{cockburn}. In information portals that provide access to fairly ambiguous information and that have information regularly repopulated and updated, the search feature is usually designed around retrieving information related to some topic, but is not very specific. In order to revisit a resource, search must provide consistent results. In information discovery applications that provide access to specific information, such as Wikipedia and Rotten Tomatoes, search can usually lead directly to a specific resource. However, within Web applications such as We Heart It or Pinterest, search-based rediscovery is often unreliable.
+Descriptional navigation can also help to rediscover information. However, it is not always a reliable way of refinding information ~\cite{cockburn2003improving}. In information portals that provide access to fairly ambiguous information and that have regularly updated information flow, the search feature is usually designed around retrieving information related to some general topic. In order to make search-based navigation a reliable way to rediscover information, it must return consistent results. 
 } % end subsection
 
 {\subsubsection{Referential Navigation}
-A navigation is referential when the user finds a reference to the term that she is looking for.  The underlying assumption of this method of navigation is that the user can recognize needed information as she sees it.
+A navigation is referential when the user finds a reference, such as link or icon, to the term that they are looking for. This reference represents an information scent. The underlying assumption of this method of navigation is that the user can recognize needed information or a reference to it as they see it~\cite{waterworth1991model}. 
 
-Referential navigation methods can take many different forms. Some common ones are searching categories, facets, and filters. Often, Web applications implement tag-based navigation. In some applications, users can search by a given resource (see Table~\ref{table:navigation}).
+Referential navigation mechanisms can take many different forms. Some common types are categories, facets, filters, and tags. In some applications, users can search by a given resource. For example, YouTube provides a playlist with music related to the currently playing song. Information scent representatives may also reference sources outside of the given system. This enables another type of integration of Web applications. 
 
-Referential navigation is used to direct the user to relevant resources ~\cite{levene}. In the case of fact discovery, such navigation should narrow the results to a specific type of resource so that further fact discovery is bounded by that type. For example, TripAdvisor lets the user choose among flights, hotels, vacation rentals, restaurants, and destinations.
-
-For serendipitous discovery, referential navigation should provide a way to narrow the results to those related to one topic. In addition, categories, facets, filters, and tags can help the user formulate an information need by suggesting topics ~\cite{levene}. For example, when using Google Images, every search query suggests related categories of images to help users define an information need.
+Referential navigation can help the user identify their information need by suggesting terms, topics, or categories to use, and therefore, directing the user to relevant resources~\cite{levene2011introduction}. It can also help narrow the results to a specific type of resource so that further discovery is bounded by that type. For example, TripAdvisor allows the user to choose among hotels, flights, vacation rentals, restaurants, and destinations, so the application helps to narrow search results.
 
 } % end subsection
 
-{\subsubsection{Random Navigation}
-In order to browse diverse information, an information discovery tool needs to provide a way to randomly navigate among resources, thereby supporting serendipitous information discovery ~\cite{foster}. Many applications, such as StumbleUpon, support random navigation to allow for opportunistic jumping from one resource to another. This method is useful when the information need is undefined.
+{\subsubsection{Opportunistic Navigation}
+Opportunistic navigation is method of navigating ``randomly" though resources and Web pages.  As expected, this type of navigation is not authentically random; therefore, I apply the term ``opportunistic" to describe this type. However to the user, this navigation type appears to be randomized, and it promotes serendipitous discovery. This method is especially useful when the information need is fully undefined.
 
-
+Many applications, such as StumbleUpon and Wikipedia, support opportunistic navigation to allow for opportunistic jumping from one resource to another. StumbleUpon makes it possible to explore the Web in general - other websites and Web applications, allowing for integrated navigation, whereas Wikipedia provides opportunistic access to its own articles. 
 } % end subsection
 
-{\subsubsection{Direct Navigation}
-In a broad sense of Web-based navigation, direct navigation is associated with entering an address of a site and being redirected directly to it. In the context of Web applications for information discovery, direct navigation means displaying certain content to the user without user's active participation.  
+{\subsubsection{System-regulated Navigation}
+Often, Web applications display or update information without the user's active participation. This information can be news feed, featured deals or articles, static information, or other types of content. In my thesis, I refer to this type of navigation as system-regulated because it occurs when the application brings the content to the user instead of the user applying any effort to find it. It differs from opportunistic navigation because the the user cannot choose when to observe new information; instead, all updates are regulated by the application. 
 
-Often, applications display certain information as soon the user visits the site. It can be news feed, featured content, context-dependent information, or other types of information. 
-
+One example of an application that utilizes system-regulated navigation is Yelp. This tool displays featured restaurants as well as its user's recent activities as soon as the user enters the site. As any other navigation method, this method can ensure cross-application integration by displaying content from other Web applications. 
 } % end subsection
-
-
 } % end section
 
 {\subsection{Exploration and Discovery}
@@ -265,14 +259,7 @@ Sharing resources through different media supports channel-based information dis
 Resharing resources within the system supports channel-based information discovery. 
 } % end subsubsection
 
-
-
-} % end section
-
-
-{\subsection{Channelled Curation and Discovery}
-
-{\subsubsection{Channel-based Discovery}
+{\subsubsection{Channel-picking}
 
 Subscriptions to updates from a site help users follow the news ~\cite{java}. In order to support subscription-based discovery, an application must provide a subscription mechanism. For example, Rotten Tomatoes allows subscriptions to newsletters; however, it does not allow subscriptions to movie critics, as a user-based subscription mechanism would allow. 
 
@@ -284,18 +271,11 @@ Displaying a news feed within the application further promotes awareness and can
 
 Similar to displaying a subscription news feed, displaying a content news feed promotes awareness and can serve as a monitoring mechanism.
 
-Information discovery tools can have different implementations depending on the purpose of discovery. Using the information discovery factors in our framework (see Table 2), we described and evaluated currently existing tools. Similarly, the framework can be used for identifying gaps in information discovery support and developing new technologies (see Sec. 5).   \\
+Information discovery and curation tools can have different implementations depending on the motives behind these activities.  
 
 } % end subsubsection
-
-
-
-
-
+} % end subsection
 } % end section
-
-
-}
 
 
 
