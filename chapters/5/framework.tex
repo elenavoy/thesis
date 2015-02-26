@@ -27,7 +27,7 @@ The nature of an information need predetermines whether discovery is respectivel
 
 The motive behind information rediscovery involves finding previously discovered information and closing previously closed knowledge gap in case if information was forgotten. It usually results in the user looking for previously found resources and Web pages. In fact, Web-page revisitation is one of the most commonly performed web-browsing activities~\cite{adar2008large,cockburn2003improving}. The percentage of revisited web pages involved in web browsing can range from 58\%~\cite{tauscher1997people} to 81\%~\cite{cockburn2001web}. Some of the reasons for revisiting pages include shopping, communication, entertainment, education, activity planning, and hobby-related information retrieval~\cite{adar2008large}. Some Web pages and resources can be rediscovered using navigation while others need to be previously preserved (bookmarked) in order to allow rediscovery. Rediscovery is one of the many ways in which information discovery and curation interweave. 
 
-Another type of motive for information discovery relates to the two qualities of the Web defined by Lindley et al. - temporality and persistence~\citep{lindley2012s}. \textit{Persistence} refers to the quality of the Web that allows people to habitually revisit Web pages and continue on-going Web projects. \textit{Temporality} refers to the quality of the Web that allows the content of Web sites to be continuously updated to provide users with new information. Persistence alone usually facilitates information rediscovery. However, if persisitence is combined with temporality, they can facilitate discovery of new information within the same application or channel. I refer to this type of discovery as \textit{channel-based discovery}. Some of the common motives for channel-based discovery include orienting (or monitoring for updates) and opportunistic information discovery~\citep{lindley2012s}.          
+Another type of motive for information discovery relates to the two qualities of the Web defined by Lindley et al. - temporality and persistence~\citep{lindley2012s}. \textit{Persistence} refers to the quality of the Web that allows people to habitually revisit Web pages and continue on-going Web projects. \textit{Temporality} refers to the quality of the Web that allows the content of websites to be continuously updated to provide users with new information. Persistence alone usually facilitates information rediscovery. However, if persisitence is combined with temporality, they can facilitate discovery of new information within the same application or channel. I refer to this type of discovery as \textit{channel-based discovery}. Some of the common motives for channel-based discovery include orienting (or monitoring for updates) and opportunistic information discovery~\citep{lindley2012s}.          
 }
 
 {\subsection{Future Use and Reaccess}
@@ -67,38 +67,36 @@ access path of information sources based on proximal cues, that can take on form
 \begin{table}[ht!]
 \caption{Navigation Mechanisms}
 \label{table:navigation} 
-\begin{tabular}{{|p{0.35\linewidth}|p{0.60\linewidth}|}}
+\begin{tabular}{{|p{0.33\linewidth}|p{0.62\linewidth}|}}
 \hline
-Navigation mechanisms     	& Questions to be posed during the design or evaluation of tools \\
+Navigation mechanisms     	& Questions to be posed during the design or evaluation of  discovery and curation tools \\
 \hline
 \textbf{Descriptional} 			& \\
 Search							& Is it possible to navigate within the application using a search mechanism? \\
 Integrated search				& Is it possible to retrieve information from  other applications using a search mechanism? \\
 \textbf{Referential}       		& \\
-Categories				 		& Can users navigate using categories? \\
-Facets				    		& Can users navigate using facets? \\
-Filters					  		& Can users navigate using filters? \\
-Tags				      		& Can users navigate using filters? \\
-Search by item or resource		& Can the user search by resource? \\
+Categories				 		& Is it possible to navigate using categories? \\
+Facets				    		& Is it possible to navigate using facets? \\
+Filters					  		& Is it possible to navigate using filters? \\
+Tags				      		& Is it possible to navigate using filters? \\
+Search by item or resource		& Is it possible to search by item or resource? \\
 Integrated reference			& Is it possible to retrieve information from other applications using any of the referential mechanisms?\\
 \textbf{Opportunistic}          & \\
-Opportunistic navigation        & Is it possible to randomly navigate through resources within the application? \\
-Integrated opportunistic navigation        & Is it possible to randomly navigate through resources within the application? \\
-\textbf{Direct}            		& \\
-Static information             		& Is any information displayed directly without active search? \\
-Integrated static information             		& Is any information displayed directly without active search? \\
-Direct display             		& Is any information displayed directly without active search? \\
-Integrated display             		& Is any information displayed directly without active search? \\
-News feed             		& Is any information displayed directly without active search? \\
-Integrated news feed             		& Is any information displayed directly without active search? \\
+Opportunistic navigation        & Is it possible to opportunistically navigate through information within the application? \\
+Integrated opportunistic navigation        & Is it possible to opportunistically retrieve information from other application? \\
+\textbf{System-regulated}            		& \\
+Static direct display           & Is it possible to view static information directly without active search? \\
+Integrated static display   	& Is it possible to view static information from other applications without active search? \\
+Featured content             	& Is it possible to view featured content? \\
+Integrated featured content     & Is it possible to view featured content from other applications? \\
+News feed             			& Is it possible to view news feed? \\
+Integrated news feed            & Is it possible to view news feed from other applications? \\
 \hline
 \end{tabular}
 \end{table}
 
 {\subsubsection{Descriptional Navigation}
-A navigation is descriptional when the user describes the information need. Most commonly is implemented as search-based navigation since it allows users to enter the search query and describe their information need.
-
-There are two common ways of aiding information discovery when search-based navigation is used. The first method entails returning personalized results when the user enters a search query. There are a number of ways to accomplish personalization, but this chapter only focuses on which features can can support information discovery and curation have rather than their implementations. The second method is to suggest search terms to make it easier for the user to formulate the information need (see Table~\ref{table:navigation_support}). 
+A navigation is descriptional when the user describes the information need. Most commonly is implemented as search-based navigation since it allows users to enter the search query and describe their information need. 
 
 There exist numerous ways in which descriptional navigation supports information discovery. With fact discovery, an information need is known ~\cite{kellar2006, kellar2007}. Therefore, descriptional navigation provides a way of for the user to express her information need. 
 
@@ -112,9 +110,7 @@ A navigation is referential when the user finds a reference to the term that she
 
 Referential navigation methods can take many different forms. Some common ones are searching categories, facets, and filters. Often, Web applications implement tag-based navigation. In some applications, users can search by a given resource (see Table~\ref{table:navigation}).
 
-To further support referential navigation, applications can either personalize search results (similarly to descriptional navigation) or personalize reference suggestions (see Table~\ref{table:navigation_support}). 
-
-rentialRefe navigation is used to direct the user to relevant resources ~\cite{levene}. In the case of fact discovery, such navigation should narrow the results to a specific type of resource so that further fact discovery is bounded by that type. For example, TripAdvisor lets the user choose among flights, hotels, vacation rentals, restaurants, and destinations.
+Referential navigation is used to direct the user to relevant resources ~\cite{levene}. In the case of fact discovery, such navigation should narrow the results to a specific type of resource so that further fact discovery is bounded by that type. For example, TripAdvisor lets the user choose among flights, hotels, vacation rentals, restaurants, and destinations.
 
 For serendipitous discovery, referential navigation should provide a way to narrow the results to those related to one topic. In addition, categories, facets, filters, and tags can help the user formulate an information need by suggesting topics ~\cite{levene}. For example, when using Google Images, every search query suggests related categories of images to help users define an information need.
 
@@ -123,13 +119,13 @@ For serendipitous discovery, referential navigation should provide a way to narr
 {\subsubsection{Random Navigation}
 In order to browse diverse information, an information discovery tool needs to provide a way to randomly navigate among resources, thereby supporting serendipitous information discovery ~\cite{foster}. Many applications, such as StumbleUpon, support random navigation to allow for opportunistic jumping from one resource to another. This method is useful when the information need is undefined.
 
-To further enhance random navigation, Web tools sometimes allow users to personalize this type of navigation, which makes it less 'random'. However, this way the user can discover new information within a specific category, for example.
+
 } % end subsection
 
 {\subsubsection{Direct Navigation}
 In a broad sense of Web-based navigation, direct navigation is associated with entering an address of a site and being redirected directly to it. In the context of Web applications for information discovery, direct navigation means displaying certain content to the user without user's active participation.  
 
-Often, applications display certain information as soon the user visits the site. It can be news feed, featured content, context-dependent information, or other types of information. Displayed content can also be personalized to improve information discovery with direct navigation.
+Often, applications display certain information as soon the user visits the site. It can be news feed, featured content, context-dependent information, or other types of information. 
 
 } % end subsection
 
@@ -152,25 +148,29 @@ Similar to link representation, spatial visualization of numerous links is anoth
 \textbf{Spatial arrangement.} Similar to serendipitous information discovery, spatial arrangement of resources is important ~\cite{abrams} as a poor semantic to the arrangement can make it difficult to visually navigate to the facts of interest.
 
 \begin{table}[ht!]
-\caption{Exploration Mechanisms}
-\label{table:exploration}
-\begin{tabular}{{|p{0.35\linewidth}|p{0.60\linewidth}|}}
+\caption{Visual and Spatial Exploration Mechanisms}
+\begin{tabular}{{|p{0.33\linewidth}|p{0.62\linewidth}|}}
 \hline
-
-Method of exploration                       & Questions to be posed during the design or evaluation of tools                                                    \\
+Exploration mechanisms & Questions to be posed during the design or evaluation of discovery and curation tools  \\
 \hline
-\textbf{Visual exploration}                 &                                                                                       \\
-Visual exploration of a single resource     & Does the system visual exploration of a single resource?                        \\
-Visual exploration of multiple resources    & Does the system allow visual exploration of multiple resources? \\
-\textbf{Spatial exploration}                &                                                                                       \\
-Spatial exploration of a single resource    & Does the system provide means for spatial resource exploration?                       \\
-Spatial exploration of a multiple resources & Does the system provide means for spatial exploration for multiple resources?        \\                                                       
+\textbf{Visual and textual cues of multiple resources} & \\
+Visual preview  & Are there visual previews of resources to help identify resources of value? \\
+Textual preview & Are there textual previews of resources to help identify resources of value? \\
+\textbf{Visual and textual cues of a single resource} & \\
+Visual cues                 & Are there visual cues to help identify the value of information within a resource? \\
+Textual cues                & Are there textual cues to help identify the value of information within a resource? \\
+\textbf{Spatial proximal cues of multiple resources} & \\
+List  						& Are resources presented in a list? \\
+Grid   						& Are resources presented in a grid? \\
+Gallery  					& Are resources presented in a gallery layout? \\
+Spatial semantic            & Is there a semantic to the spatial arrangement of multiple resources? \\ 
+Consistency				 	& Are resources presented in a consistent way? \\                                                    
+\textbf{Spatial proximal cues of a single resource} & \\
+Spatial semantic            & Is there a semantic to the spatial arrangement of information within a resource? \\
+Consistency   				& Are same types of resources presented in a consistent way?\\                                                       
 \hline
-
 \end{tabular}
 \end{table}
-
-
 
 
 } % end section
@@ -179,21 +179,6 @@ Spatial exploration of a multiple resources & Does the system provide means for 
 Similar to serendipitous discovery, if an information discovery application provides access to resources from other Websites, the user should be able to navigate to those sites as they may contain the facts of interest. Integration for fact finding is especially important when it gives an opportunity to display specific information about resources that otherwise would not be accessible. For example, Google Maps displays business ratings as a result of its integration with Google+.
 
 To users with ambiguous information needs, one information portal might not provide access to all information of interest. If an information discovery application gives access to resources from various sources, such as other Websites, the user should be able to navigate back to those sources.  
-
-\begin{table}[ht!]
-\caption{Integration}
-\begin{tabular}{{|p{0.35\linewidth}|p{0.60\linewidth}|}}
-\hline
-Integration mechanism  & Questions to be posed during the design or evaluation of tools \\
-\hline
-\textbf{Integration} &                                                    \\
-Linking   & Is application linked to another application?\\                                                       
-\hline
-
-\end{tabular}
-\end{table}
-
-
 } % end section
 
 {\subsection{Curation}
@@ -207,27 +192,28 @@ By definition, digital information curation is the notion of managing, preservin
 \begin{table}[ht!]
 \caption{Curation Mechanisms}
 \label{table:curation}
-\begin{tabular}{{|p{0.35\linewidth}|p{0.65\linewidth}|}}
+\begin{tabular}{{|p{0.30\linewidth}|p{0.65\linewidth}|}}
 \hline
-Curation support  & Questions to be posed during the design or evaluation of tools  \\
+Curation mechanisms  & Questions to be posed during the design or evaluation of  discovery and curation tools  \\
 \hline
-\textbf{Management}                   &                                                                                                           \\
-Collection-based categorization       & Does the application support sorting information into collection-like structures, either privately or publicly?                                                  \\
-Tag-based categorization               & Does the application support tagging, either privately or publicly?                                                \\
-
-\textbf{Preservation}                  &                                                                                                           \\
-Internal preservation of internal resources       & Does the application support mechanism(s) for preserving internal information within the application?        \\
-Internal preservation of external resources       & Does the application support mechanism(s) for preserving external information within the application?        \\
-External preservation of internal resources      & Does the application support mechanism(s) for preserving internal information outside of the application? \\ 
-
-\textbf{Augmentation}            &                                                                                                           \\
-Evaluation                   & Can the resource evaluations be recorded privately or publicly? \\
-Annotation                   & Can resources be annotated privately or publicly?                                                                               \\    
-       
-\textbf{Sharing}           &                                                                                                           \\
-Adding resources             & Can resources be publicly added to the collection of information within the application from other Web pages?     \\
-Internal sharing         & Can internal resources be publicly reshared within the application?         \\ 
-External sharing          & Can internal resources be publicly reshared outside of the application?         \\ 
+\textbf{Management} & \\
+Collection-based categorization     & Is it possible to sort information into collection-like structures, either privately or publicly? \\
+Tag-based categorization          	& Is it possible to tag information, either privately or publicly? \\
+\textbf{Preservation} & \\
+Internal preservation of internal resources		& Is it possible to preserve internal information within the application? \\
+Internal preservation of external resources     & Is it possible to preserve external information within the application? \\
+External preservation of internal resources     & Is it possible to preserve internal information outside of the application? \\ 
+\textbf{Augmentation} & \\
+Annotation & Is it possible to annotate resources, either privately or publicly? \\ 
+Evaluation & Is it possible to evaluate resources, either privately or publicly? \\       
+\textbf{Sharing} & \\
+Adding resources        & Is it possible to add resources to the collection of information within the application from other websites? \\
+Internal sharing        & Is it possible to publicly reshare internal resources within the application? \\ 
+External sharing        & Is it possible to publicly reshare internal resources outside of the application? \\ 
+\textbf{Channel-picking}  	& \\
+User subscription       & Is it possible to subscribe to activities of other users? \\
+Site subscription       & Is it possible to subscribe to site updates? \\
+Artifact subscription  	& Is it possible to subscribe to artifact updates?\\
 \hline        
 \end{tabular}
 \end{table}
@@ -302,24 +288,7 @@ Information discovery tools can have different implementations depending on the 
 
 } % end subsubsection
 
-\begin{table}[ht!]
-\caption{Chenneling Mechanisms}
-\begin{tabular}{{|p{0.35\linewidth}|p{0.60\linewidth}|}}
-\hline
-Channelling mechanisms     & Questions to be posed during the design or evaluation of tools \\
-\hline
-\textbf{Subscriptions}     &                                                         \\
-User subscription          & Can the user subscribe to activities of other users?    \\
-Site subscription          & Can the user subscribe to site updates?                 \\
-Artifact subscription      & Can the user subscribe to artifact updates?             \\
-\textbf{Notifications}     &                                                         \\
-User activity overview     & Does the application display activities of other users? \\
-Site activity overview     & Does the application display site updates?              \\
-Artifact activity overview & Does the application display activities of other users?\\                                                       
-\hline
 
-\end{tabular}
-\end{table}
 
 
 
