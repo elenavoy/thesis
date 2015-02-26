@@ -44,11 +44,10 @@
 \contentsline {subsubsection}{\numberline {5.2.3.3} Augmentation}{35}
 \contentsline {subsubsection}{\numberline {5.2.3.4} Sharing}{35}
 \contentsline {subsubsection}{\numberline {5.2.3.5} Channel-picking}{35}
-\contentsline {chapter}{\numberline {6}Improving Information Discovery and Curation Activities}{37}
-\contentsline {section}{\numberline {6.1} Improving Navigation}{37}
-\contentsline {section}{\numberline {6.2} Improving Exploration}{39}
-\contentsline {section}{\numberline {6.3} Improving Curation}{39}
-\contentsline {section}{\numberline {6.4} Personalization Strategies}{41}
+\contentsline {chapter}{\numberline {6}Enhancing Information Discovery and Curation Experience}{37}
+\contentsline {section}{\numberline {6.1} Enhancing Navigation}{38}
+\contentsline {section}{\numberline {6.2} Enhancing Exploration}{38}
+\contentsline {section}{\numberline {6.3} Enhancing Curation}{40}
 \contentsline {chapter}{\numberline {7}Framework Evaluation and Application}{42}
 \contentsline {section}{\numberline {7.1} Application}{42}
 \contentsline {subsection}{\numberline {7.1.1} KeePlaces}{42}

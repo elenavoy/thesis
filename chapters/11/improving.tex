@@ -1,23 +1,28 @@
-\chapter{Improving Information Discovery and Curation Activities}
+\chapter{Enhancing Information Discovery and Curation Experience}
 \label{chapter:improving}
 
+Information discovery and curation enablers presented in the previous chapter are design elements that afford various operations. For example, the search feature affords typing in a query and searching. These operations can be further aided by another set of design elements. These design elements compose the second part of the conceptual framework for information discovery and curation titled \textit{``Enhancing Information Discovery and Curation Experience''} (see Figure~\ref{fig:framework_part2}). The primary goal of this part of the framework is to highlight opportunities for improvement over various information discovery and curation enablers.
 
+Strategies for improvement include providing additional cognitive support for a given operation, personalizing user experience, and automating an operation. Not all of the strategies are feasible for every single operation. Some operations can be supported in multiple ways. The following sections outline some of the possibilities for for advancing information discovery and curation features. 
+ 
 \begin{figure}[ht!]
 	\noindent
 	\centering
 	\includegraphics[width=\linewidth]{framework_part2.png}
-	\caption{Framework Overview (Part II): Improving Information Discovery and Curation}
+	\caption{Framework Overview (Part II): Enhancing Information Discovery and Curation Experience}
 	\label{fig:framework_part2} 
 \end{figure}
 
-{\section{Improving Navigation}
-There are two common ways of aiding information discovery when search-based navigation is used. The first method entails returning personalized results when the user enters a search query. There are a number of ways to accomplish personalization, but this chapter only focuses on which features can can support information discovery and curation have rather than their implementations. The second method is to suggest search terms to make it easier for the user to formulate the information need (see Table~\ref{table:navigation_support}).
+{\section{Enhancing Navigation}
+There are two common methods of enhancing information discovery when search-based navigation is used (see Table~\ref{table:navigation_support}). The first method entails returning personalized results when the user enters a search query. Personalization can be accomplished using a variety of techniques, including predefined user preferences, social interactions, context, browsing history, etc. The second method is to suggest search terms to make it easier for the user to formulate the information need. For example, Yelp suggests search terms as the user enters their query.
 
-To further support referential navigation, applications can either personalize search results (similarly to descriptional navigation) or personalize reference suggestions (see Table~\ref{table:navigation_support}). 
+To further support referential navigation, applications can personalize reference suggestions, such as categories, tags, and topics of interest. They can also suggest relevant resources based on the one that the user already picked. As an example, Pinterest showcases similar `pins' once the user clicks on any of them.
 
-To further enhance random navigation, Web tools sometimes allow users to personalize this type of navigation, which makes it less 'random'. However, this way the user can discover new information within a specific category, for example.
+For opportunistic navigation, Web tools sometimes allow users to personalize types or categories of information that they the users would like to discover. StambleUpon allows to not only choose topics of interests, but it can also help discover new topics that might be promising for the user.
 
-Displayed content can also be personalized to improve information discovery with direct navigation.
+Featured content can also be personalized to improve information discovery with system-regulated navigation. For example, Yelp showcases restaurants from a predefined area, such as the city where the user is from.
+
+Finally, to make better use of subscribed content and reduce human efforts in information search, an application can support various notification mechanisms. These mechanisms can advise the user about updates on the website content, various artifacts, and activities of other users.  
 
 \begin{table}[ht!]
 \caption{Cognitive Support, Automation, and Personalization for Navigation}
@@ -28,7 +33,6 @@ Support, automation, and personalization elements & Questions to be posed during
 \hline
 \textbf{Descriptional}       & \\
 Personalized results         & Does the search mechanism return personalized results? \\
-Filtered search mechanism    & Is it possible to apply filters to the search criteria? \\
 Guided search                & Does the system suggest search terms to the user? \\
 \textbf{Referential}         & \\
 Suggesting categories & Does the system suggest categories of interest? \\
@@ -49,7 +53,10 @@ Artifact update notification & Is it possible to receive notifications about art
 
 
 } % end subsection
-{\section{Improving Exploration}
+{\section{Enhancing Exploration}
+Personalization in spatial information representation usually has limited support in Web applications. Presumably, it is because consistency is more welcomed within information discovery applications than spatial personalization. However, it is still a possibility to personalize how multiple resources or information within a single resource are arranged. For instance, users can rearrange songs in a YouTube playlist although this operation has mostly functional nature.
+
+Visual and textual personalizations are more common, especially when the content within the application is curated by its users.  For example, a Web application for tracking personal goals, BucketList, allows its users to personalize how their goals look, so that it is easier to rediscover information. Similarly, `pinboards' on Pinterest can have personalized cover images.
 
 \begin{table}[ht!]
 \caption{Visual and Spatial Exploration Cognitive Support and Personalization}
@@ -57,27 +64,22 @@ Artifact update notification & Is it possible to receive notifications about art
 \hline
 Cognitive support and personalization design elements & Questions to be posed during the design or evaluation of discovery and curation tools  \\
 \hline
-&\\
 \textbf{Visual and textual cues of multiple resources} & \\
 Personalized visual preview  & Is it possible to personalize visual previews of resources? \\
 Personalized textual preview & Is it possible to personalize textual previews of resources? \\
-&\\
 \textbf{Visual and textual cues of a single resource} & \\
 Personalized visual cues                 & Is it possible to personalize the visual cues within a resource? \\
 Personalized textual cues                & Is it possible to personalize the textual cues within a resource? \\
-&\\
 \textbf{Spatial proximal cues of multiple resources} & \\
-Personalized arrangement of multiple resources & Is it possible to personalize the arrangement of resources? \\   
-&\\                                                 
+Personalized arrangement of multiple resources & Is it possible to personalize the arrangement of resources? \\                                                    
 \textbf{Spatial proximal cues of a single resource} & \\
 Personalized arrangement of information within a resource          & Is it possible to personalize the arrangement of information within a resource? \\                                                       
 \hline
 \end{tabular}
 \end{table}
-
 } % end subsection
 
-{\section{Improving Curation}
+{\section{Enhancing Curation}
 
 \begin{table}[ht!]
 \caption{Cognitive Support, Personalization, and Automation for Curation}
@@ -109,9 +111,6 @@ Automatic subscription  & Can the system subscribe the user automatically to the
 \end{table}
 
 Notification mechanisms enable user awareness about new content on the subscribed channel ~\cite{millen}. Different applications provide various notification mechanisms including messages within the application, informative emails, and smartphone notifications.
-} % end subsection
-
-{\section{Personalization Strategies}
 } % end subsection
 
 Providing cognitive support, personalization, and automation dramatically improves user experience when they interact with information discovery and curation systems. Using the information discovery factors in my framework, I described and evaluated currently existing tools. Similarly, the framework can be used for identifying gaps in information discovery support and developing new technologies (see Chapters~\ref{chapter:application} and~\ref{chapter:evaluation}).  
