@@ -54,12 +54,13 @@ Artifact update notification & Is it possible to receive notifications about art
 
 } % end subsection
 {\section{Enhancing Exploration}
-Personalization in spatial information representation usually has limited support in Web applications. Presumably, it is because consistency is more welcomed within information discovery applications than spatial personalization. However, it is still a possibility to personalize how multiple resources or information within a single resource are arranged. For instance, users can rearrange songs in a YouTube playlist although this operation has mostly functional nature.
+Personalization in spatial information representation usually has limited support in Web applications. Presumably, it is because consistency is more welcomed within information discovery applications than spatial personalization. However, it is still a possibility to personalize how multiple resources or information within a single resource are arranged (see Table~\ref{table:exploration_support}). For instance, users can rearrange songs in a YouTube playlist although this operation has mostly functional nature.
 
 Visual and textual personalizations are more common, especially when the content within the application is curated by its users.  For example, a Web application for tracking personal goals, BucketList, allows its users to personalize how their goals look, so that it is easier to rediscover information. Similarly, `pinboards' on Pinterest can have personalized cover images.
 
 \begin{table}[ht!]
 \caption{Visual and Spatial Exploration Cognitive Support and Personalization}
+\label{table:exploration_support}
 \begin{tabular}{{|p{0.33\linewidth}|p{0.62\linewidth}|}}
 \hline
 Cognitive support and personalization design elements & Questions to be posed during the design or evaluation of discovery and curation tools  \\
@@ -100,17 +101,26 @@ Suggested preservation  & Does the system suggest preservation channels to the u
 Automated augmentation  & Does the system automatically annotate resources? \\
 Suggested augmentation  & Does the system suggest annotation options to the user? \\    
 \textbf{Sharing}        & \\
-Automated sharing		&  Does the system support automatic sharing? \\
+Automated sharing		& Does the system support automatic sharing? \\
+Suggested sharing		& Does the system suggest sharing channels to the user? \\
 \textbf{Subscription}   & \\
 Suggesting users for subscription & Does the system suggest which users to subscribe to? \\
-Suggesting artifacts for subscription   & Does the system suggest which artifacts to subscribe to? \\
-Automatic subscription  & Can the system subscribe the user automatically to the website activity? \\
-
+Suggesting artifacts for subscription   & Does the system suggest which artifacts to subscribe to? \\ 
+Automated subscription  & Can the system subscribe the user automatically to the website activity? \\
+&\\
 \hline  
 \end{tabular}
 \end{table}
 
-Notification mechanisms enable user awareness about new content on the subscribed channel ~\cite{millen}. Different applications provide various notification mechanisms including messages within the application, informative emails, and smartphone notifications.
+Management of information can be improved if the system helps the user make decisions about information categorization or tagging (see Table~\ref{table:curation_support}). Alternatively, information can be categorized or tagged automatically. For example, when the user bookmarks a restaurant on Yelp, it is automatically categorized. The user can filter bookmarks by category whenever they go into the embedded bookmark manager. \\
+
+Preservation operations can also be automated. An example of the most common automatic preservation mechanism is history. Many applications, such as YouTube and Google Maps, preserve users' browsing history so that they can review it later. Additionally, preservation mechanisms can be suggested to the user.
+
+YouTube allows users to automatically share information about their activities, such as comments,  added videos, liked or disliked videos, and created playlists. In general, socially curated spaces offer sharing channels to support convenient information communication.
+ 
+Augmentation is another aspect of information curation that can be either automated or suggested to the user. For example, Yelp asks to rate places which the application identifies as visited by the user. 
+
+Notification mechanisms enable user awareness about new content on the subscribed channel~\cite{millen2005social}. Web applications, that facilitate rapidly updating content, support various notification mechanisms, such as messages within the application, informative emails, and smartphone notifications. Many types of notifications include suggestions of users or artifacts to follow. Some Web tools subscribe users to their notifications automatically, usually along with registration.\\
 } % end subsection
 
 Providing cognitive support, personalization, and automation dramatically improves user experience when they interact with information discovery and curation systems. Using the information discovery factors in my framework, I described and evaluated currently existing tools. Similarly, the framework can be used for identifying gaps in information discovery support and developing new technologies (see Chapters~\ref{chapter:application} and~\ref{chapter:evaluation}).  
