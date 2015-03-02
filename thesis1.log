@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.9)  27 FEB 2015 15:59
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.24)  1 MAR 2015 21:05
 entering extended mode
 **thesis1.tex
-(C:\Users\elenavoyl\git\thesis\thesis1.tex
+(C:\Users\Elena\git\thesis\thesis1.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -13,10 +13,10 @@ german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-(C:\Users\elenavoyl\git\thesis\vthesis.cls
+(C:\Users\Elena\git\thesis\vthesis.cls
 Document Class: vthesis 1995/10/30 R.2.0, V.V. Dimakopoulos
 \pure@baselineskip=\dimen102
-(C:\Users\elenavoyl\git\thesis\vthesis12.clo
+(C:\Users\Elena\git\thesis\vthesis12.clo
 File: vthesis12.clo 1995/10/30
 )
 \c@part=\count79
@@ -134,19 +134,17 @@ Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \everycr=\toks24
 \minrowclearance=\skip48
 )
-(C:\Users\elenavoyl\git\thesis\thesis1.aux
-(C:\Users\elenavoyl\git\thesis\chapters/1/chapter_intro.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/3/methodology.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/2/chapter_related_work.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/4/old_framework.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/5/framework.aux
-
-LaTeX Warning: Label `table:curation' multiply defined.
-
-) (C:\Users\elenavoyl\git\thesis\chapters/11/improving.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/6/application.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/7/implications.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/9/future_work.aux))
+(C:\Users\Elena\git\thesis\thesis1.aux
+(C:\Users\Elena\git\thesis\chapters/1/chapter_intro.aux)
+(C:\Users\Elena\git\thesis\chapters/3/methodology.aux)
+(C:\Users\Elena\git\thesis\chapters/2/chapter_related_work.aux)
+(C:\Users\Elena\git\thesis\chapters/4/old_framework.aux)
+(C:\Users\Elena\git\thesis\chapters/5/framework.aux)
+(C:\Users\Elena\git\thesis\chapters/11/improving.aux)
+(C:\Users\Elena\git\thesis\chapters/6/application.aux)
+(C:\Users\Elena\git\thesis\chapters/12/evaluation.aux)
+(C:\Users\Elena\git\thesis\chapters/7/implications.aux)
+(C:\Users\Elena\git\thesis\chapters/9/future_work.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
 LaTeX Font Info:    ... okay on input line 46.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
@@ -160,7 +158,7 @@ LaTeX Font Info:    ... okay on input line 46.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
 LaTeX Font Info:    ... okay on input line 46.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+(C:\Users\Elena\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count92
 \scratchdimen=\dimen110
@@ -187,7 +185,8 @@ Non-PDF special ignored!
 
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+Non-PDF special ignored!{C:/Users/Elena/AppData/Local/MiKTeX/2.9/pdftex/config/
+pdftex.map}
 Non-PDF special ignored!
 Non-PDF special ignored!] [2
 Non-PDF special ignored!
@@ -199,7 +198,7 @@ Non-PDF special ignored!] [3
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!] (C:\Users\elenavoyl\git\thesis\thesis1.toc
+Non-PDF special ignored!] (C:\Users\Elena\git\thesis\thesis1.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -356,8 +355,6 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
 Non-PDF special ignored!])
 \tf@toc=\write3
  [7
@@ -392,7 +389,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!] (C:\Users\elenavoyl\git\thesis\thesis1.lof)
+Non-PDF special ignored!] (C:\Users\Elena\git\thesis\thesis1.lof)
 \tf@lof=\write4
  [8
 Non-PDF special ignored!
@@ -410,7 +407,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!] (C:\Users\elenavoyl\git\thesis\thesis1.lot)
+Non-PDF special ignored!] (C:\Users\Elena\git\thesis\thesis1.lot)
 \tf@lot=\write5
  [9
 Non-PDF special ignored!
@@ -447,7 +444,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
-(C:\Users\elenavoyl\git\thesis\chapters/1/chapter_intro.tex
+(C:\Users\Elena\git\thesis\chapters/1/chapter_intro.tex
 Chapter 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 16.
@@ -474,8 +471,7 @@ LaTeX Warning: Reference `chapter:goals' on page 3 undefined on input line 24.
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!]
-(C:\Users\elenavoyl\git\thesis\chapters/3/methodology.tex
+Non-PDF special ignored!] (C:\Users\Elena\git\thesis\chapters/3/methodology.tex
 Chapter 2.
 
 Underfull \hbox (badness 10000) in paragraph at lines 4--6
@@ -500,8 +496,8 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored! <C:/Users/elenavoyl/git/thesis/images/Methodology.png>
-] [5
+Non-PDF special ignored! <C:/Users/Elena/git/thesis/images/Methodology.png>]
+[5
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -537,7 +533,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
-(C:\Users\elenavoyl\git\thesis\chapters/2/chapter_related_work.tex
+(C:\Users\Elena\git\thesis\chapters/2/chapter_related_work.tex
 Chapter 3.
 [10
 Non-PDF special ignored!
@@ -572,7 +568,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
-(C:\Users\elenavoyl\git\thesis\chapters/4/old_framework.tex
+(C:\Users\Elena\git\thesis\chapters/4/old_framework.tex
 Chapter 4.
 [17
 Non-PDF special ignored!
@@ -607,8 +603,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!]
-(C:\Users\elenavoyl\git\thesis\chapters/5/framework.tex
+Non-PDF special ignored!] (C:\Users\Elena\git\thesis\chapters/5/framework.tex
 Chapter 5.
 <images/framework_part1.png, id=117, 436.63126pt x 109.1578pt>
 File: images/framework_part1.png Graphic file (type png)
@@ -628,8 +623,8 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored! <C:/Users/elenavoyl/git/thesis/images/framework_part1.
-png>] [23
+Non-PDF special ignored! <C:/Users/Elena/git/thesis/images/framework_part1.png>
+] [23
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -678,8 +673,8 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored! <C:/Users/elenavoyl/git/thesis/images/framework_enable
-rs.png>]
+Non-PDF special ignored! <C:/Users/Elena/git/thesis/images/framework_enablers.p
+ng>]
 
 LaTeX Warning: Text page 28 contains only floats.
 
@@ -766,8 +761,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!]
-(C:\Users\elenavoyl\git\thesis\chapters/11/improving.tex
+Non-PDF special ignored!] (C:\Users\Elena\git\thesis\chapters/11/improving.tex
 Chapter 6.
 <images/framework_part2.png, id=168, 426.84468pt x 95.6072pt>
 File: images/framework_part2.png Graphic file (type png)
@@ -787,8 +781,8 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored! <C:/Users/elenavoyl/git/thesis/images/framework_part2.
-png>]
+Non-PDF special ignored! <C:/Users/Elena/git/thesis/images/framework_part2.png>
+]
 Underfull \hbox (badness 5189) in paragraph at lines 32--32
 []|\OT1/cmr/m/n/12 Support, au-toma-tion, and
  []
@@ -884,22 +878,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 123--125
 
  []
 
-
-LaTeX Warning: Reference `chapter:evaluation' on page 42 undefined on input lin
-e 126.
-
 ) [42
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!]
-(C:\Users\elenavoyl\git\thesis\chapters/6/application.tex
+Non-PDF special ignored!] (C:\Users\Elena\git\thesis\chapters/6/application.tex
 Chapter 7.
 <images/keeplaces.png, id=189, 433.62pt x 194.22563pt>
 File: images/keeplaces.png Graphic file (type png)
 
 <use images/keeplaces.png>
-Package pdftex.def Info: images/keeplaces.png used on input line 12.
+Package pdftex.def Info: images/keeplaces.png used on input line 14.
 (pdftex.def)             Requested size: 433.62pt x 194.23402pt.
  [43
 Non-PDF special ignored!
@@ -913,14 +902,20 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored! <C:/Users/elenavoyl/git/thesis/images/keeplaces.png>]
+Non-PDF special ignored! <C:/Users/Elena/git/thesis/images/keeplaces.png>])
 [44
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!] [45
+Non-PDF special ignored!] (C:\Users\Elena\git\thesis\chapters/12/evaluation.tex
+Chapter 8.
+[45
 Non-PDF special ignored!
 Non-PDF special ignored!
+
+
+
+
 Non-PDF special ignored!
 Non-PDF special ignored!] [46
 Non-PDF special ignored!
@@ -942,23 +937,16 @@ Non-PDF special ignored!] [50
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!]) [51
+Non-PDF special ignored!] [51
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]) [52
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
-(C:\Users\elenavoyl\git\thesis\chapters/7/implications.tex
-Chapter 8.
-) [52
-Non-PDF special ignored!
-Non-PDF special ignored!
-
-
-
-
-Non-PDF special ignored!
-Non-PDF special ignored!]
-(C:\Users\elenavoyl\git\thesis\chapters/9/future_work.tex
+(C:\Users\Elena\git\thesis\chapters/7/implications.tex
 Chapter 9.
 ) [53
 Non-PDF special ignored!
@@ -968,7 +956,17 @@ Non-PDF special ignored!
 
 
 Non-PDF special ignored!
-Non-PDF special ignored!] (C:\Users\elenavoyl\git\thesis\thesis1.bbl [54
+Non-PDF special ignored!] (C:\Users\Elena\git\thesis\chapters/9/future_work.tex
+Chapter 10.
+) [54
+Non-PDF special ignored!
+Non-PDF special ignored!
+
+
+
+
+Non-PDF special ignored!
+Non-PDF special ignored!] (C:\Users\Elena\git\thesis\thesis1.bbl [55
 Non-PDF special ignored!
 Non-PDF special ignored!
 
@@ -999,7 +997,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!] [55
+Non-PDF special ignored!] [56
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -1031,7 +1029,7 @@ Non-PDF special ignored!]
 Missing character: There is no â in font cmti12!
 Missing character: There is no € in font cmti12!
 Missing character: There is no ” in font cmti12!
- [56
+ [57
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -1057,7 +1055,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!] [57
+Non-PDF special ignored!] [58
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -1083,7 +1081,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!]) [58
+Non-PDF special ignored!]) [59
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -1099,18 +1097,18 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!] [59
+Non-PDF special ignored!] [60
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
-Overfull \hbox (1.50052pt too wide) in paragraph at lines 234--234
+Overfull \hbox (1.50052pt too wide) in paragraph at lines 235--235
 []\OT1/cmr/m/sc/12 TOWARDS UN-DER-STAND-ING DIG-I-TAL IN-FOR-MA-TION
  []
 
-[60
+[61
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -1118,21 +1116,19 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!] (C:\Users\elenavoyl\git\thesis\thesis1.aux
-(C:\Users\elenavoyl\git\thesis\chapters/1/chapter_intro.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/3/methodology.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/2/chapter_related_work.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/4/old_framework.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/5/framework.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/11/improving.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/6/application.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/7/implications.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/9/future_work.aux))
+Non-PDF special ignored!] (C:\Users\Elena\git\thesis\thesis1.aux
+(C:\Users\Elena\git\thesis\chapters/1/chapter_intro.aux)
+(C:\Users\Elena\git\thesis\chapters/3/methodology.aux)
+(C:\Users\Elena\git\thesis\chapters/2/chapter_related_work.aux)
+(C:\Users\Elena\git\thesis\chapters/4/old_framework.aux)
+(C:\Users\Elena\git\thesis\chapters/5/framework.aux)
+(C:\Users\Elena\git\thesis\chapters/11/improving.aux)
+(C:\Users\Elena\git\thesis\chapters/6/application.aux)
+(C:\Users\Elena\git\thesis\chapters/12/evaluation.aux)
+(C:\Users\Elena\git\thesis\chapters/7/implications.aux)
+(C:\Users\Elena\git\thesis\chapters/9/future_work.aux))
 
 LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: There were multiply-defined labels.
 
  )
 (\end occurred inside a group at level 1)
@@ -1140,10 +1136,10 @@ LaTeX Warning: There were multiply-defined labels.
 ### simple group (level 1) entered at line 6 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 2664 strings out of 493921
- 39836 string characters out of 3144865
- 108463 words of memory out of 3000000
- 5862 multiletter control sequences out of 15000+200000
+ 2674 strings out of 493921
+ 39929 string characters out of 3144876
+ 108742 words of memory out of 3000000
+ 5863 multiletter control sequences out of 15000+200000
  12750 words of font info for 43 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  34i,12n,35p,1590b,476s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1158,9 +1154,9 @@ r10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12
 /Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/P
 rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Pro
 gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis1.pdf (71 pages, 688655 bytes).
+Output written on thesis1.pdf (72 pages, 689747 bytes).
 PDF statistics:
- 285 PDF objects out of 1000 (max. 8388607)
+ 288 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
