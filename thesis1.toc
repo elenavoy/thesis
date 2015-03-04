@@ -49,15 +49,16 @@
 \contentsline {section}{\numberline {6.2} Enhancing Exploration}{38}
 \contentsline {section}{\numberline {6.3} Enhancing Curation}{40}
 \contentsline {chapter}{\numberline {7}Framework Application for Design}{43}
-\contentsline {section}{\numberline {7.1} KeePlaces}{43}
-\contentsline {section}{\numberline {7.2} Design Process}{44}
-\contentsline {section}{\numberline {7.3} Directions for Future Development}{44}
-\contentsline {chapter}{\numberline {8}Framework Evaluation}{45}
-\contentsline {section}{\numberline {8.1} Pinterest}{45}
-\contentsline {section}{\numberline {8.2} Google Maps}{46}
-\contentsline {section}{\numberline {8.3} Wikipedia}{48}
-\contentsline {section}{\numberline {8.4} Delicious}{49}
-\contentsline {section}{\numberline {8.5} Yelp}{49}
-\contentsline {chapter}{\numberline {9}Implications}{51}
-\contentsline {section}{\numberline {9.1} Research and Design \\ Implications}{51}
-\contentsline {chapter}{\numberline {10}Future Work and Conclusions }{52}
+\contentsline {section}{\numberline {7.1} Applying the Conceptual Framework to Design an Application}{43}
+\contentsline {section}{\numberline {7.2} KeePlaces and Its Features}{44}
+\contentsline {section}{\numberline {7.3} Directions for Future Development}{45}
+\contentsline {section}{\numberline {7.4} Discussion}{45}
+\contentsline {chapter}{\numberline {8}Framework Validation}{46}
+\contentsline {section}{\numberline {8.1} Pinterest}{46}
+\contentsline {section}{\numberline {8.2} Google Maps}{47}
+\contentsline {section}{\numberline {8.3} Wikipedia}{49}
+\contentsline {section}{\numberline {8.4} Delicious}{50}
+\contentsline {section}{\numberline {8.5} Yelp}{50}
+\contentsline {chapter}{\numberline {9}Implications}{52}
+\contentsline {section}{\numberline {9.1} Research and Design \\ Implications}{52}
+\contentsline {chapter}{\numberline {10}Future Work and Conclusions }{53}
