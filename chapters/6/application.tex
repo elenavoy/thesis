@@ -14,27 +14,33 @@ It is common for users to discover place photographs on Pinterest, and Pinterest
 
 When it comes to place discovery, the Google Maps application provides the ultimate support for finding place and business locations. It is also possible to see what a place looks like based on associated image. However, since the application is oriented towards finding specific information, visual and spatial photo exploration mechanisms are not well-developed. The user can preserve a given place but cannot preserve or organize photographs of places. Google Maps also lacks category-based navigation mechanisms which can help defining an information need.  
 
-The findings above helped me define a motive for a place photo discovery application, which is to find inspirational (underdefined) place photographs, to collect and manage found information for future use and retrieval, as well as to provide access to more defined information about the place, such as its location. After formalizing the motive for the application use, I referred back to the framework to choose options for supporting various aspects of information discovery and curation while developing the application.
+The findings above helped me define a motive for a place photo discovery application, which is \textit{to find inspirational (underdefined) place photographs, to collect and manage found information for future use and retrieval, as well as to provide access to more defined information about the place}, such as its location. After formalizing the motive for the application use, I referred back to the framework to choose options for supporting various aspects of information discovery and curation while developing the application.
 }
 
-{\section{KeePlaces and Its Features}
-The resulting application, KeePlaces\footnote[1]{A prototype of KeePlaces is available at www.keeplaces.com}, supports discovery and curation of place photographs, and it is integrated with Google Maps. This section outlines the main features of KeePlaces in accordance with the conceptual framework. 
+{\section{KeePlaces Features and Future Prospects}
+The resulting Web application, KeePlaces\footnote[1]{A prototype of KeePlaces is available at www.keeplaces.com} (see Figure~\ref{fig:keeplaces}), supports discovery and curation of place photographs, and it is integrated with Google Maps. This section outlines the main features of KeePlaces in accordance with the conceptual framework. 
 
-Descriptional navigation is possible using search. The search feature is not guided, and so far, results are not personalized. 
+KeePlaces supports descriptional, referential, and partially system-regulated navigation methods. It is possible to perform descriptional navigation using \textbf{integrated search} that in turn utilizes Google Maps APIs to search for photographs of different places. The search feature is not \textbf{guided}, and at this time, results are not \textbf{personalized}. However, descriptional navigation could be improved by suggesting search terms to the user once they start typing as well as personalizing the results of searching. 
 
+Users can navigate using \textbf{categories} which enable referential navigation. Currently, categories that users might be interested in are only approximately estimated, and no other traditional referential mechanism is employed for navigating within the application. However, the users can navigate to Google Maps by clicking "View Google Maps" link beside every photograph to see where the place is located and perform any other actions within the Google Maps application. This feature enables \textbf{integrated referential navigation}. 
 
-Spatial exploration of multiple resources is enabled through the gallery view. 
-Resources are represented as photos, so visual exploration of multiple resources is enabled. However, there is no way of exploring each resource individually, therefore, exploration of a single resource is not supported. 
+Which the preliminary prototype, as the user first visits Keeplaces, the system displays predefined tourist attraction photographs, and therefore, it supports system regulated navigation by displaying \textbf{featured content}. System-regulated navigation could be further improved by \textbf{personalizing featured content} and delivering \textbf{notifications} about content updates to the user. 
 
-KeePlaces is integrated with Google Maps.
+Currently, \textbf{opportunistic navigation} is not enabled in KeePlaces although users with undefined information needs could benefit from this method.
 
-Curation in Keeplaces is supported through management and preservation.
+Spatial exploration of multiple resources is enabled using \textbf{gallery layout}. 
+Resources are represented as photographs, and these photographs serve as \textbf{visual cues} to what the places they represent look like. In addition to visual cues, \textbf{textual cues} provide names of different places delivering additional exploration support.
 
-Management is implemented using collection-based classification.
-Every photo discovered on the site can be bookmarked, or 'kept', in a collection.
+KeePlaces does not support exploration of individual resources as of today; however, enabling it could improve future information discovery. Furthermore, allowing users to \textbf{personalizate} of visual or textual cues can help them rediscover place photographs and collections. 
 
-Channeling has not yet been enabled within the application, but it is an important aspect behind the conceptual model of the application.
+Curation in Keeplaces is supported through management and preservation. Management is implemented using \textbf{collection-based classification}.
+Every photo discovered on the site can be bookmarked by clicking 'Keep' button and choosing a collection. This bookmarking mechanism enables \textbf{internal preservation of internal resources} since it allows to save information found within KeePlaces. 
 
+Some aspects of curation, such as information sharing, augmentation, and channel-picking have not been enabled yet. These activities are important because they contribute to collaborative and creative environment as well as help building community around the Web application. In Keeplaces, having the users to add new photographs and share them among themselves could scale the application usage up and enrich the quality of the content provided to the users. 
+
+In order to support channel-picking, a Web application must regularly update its content, which can be done by either moderators or general users. Then, adding \textbf{subscription mechanisms} and \textbf{notifications} can further empower channel-based discovery.  For place photo discovery, a tool, such as KeePlaces, can provide updates about photographs preserved by other users, new photographs added to the pool of information, spatial featured photographs, etc.
+
+Although KeePlaces has not been released as a stable Web application yet, it supports the discovery and curation of place photographs from all over the world. Using the evaluation of this application presented above can guide its future development.
 
 \begin{figure}[ht!]
 	\noindent
@@ -43,15 +49,15 @@ Channeling has not yet been enabled within the application, but it is an importa
 	\caption{KeePlaces Interface}
 	\label{fig:keeplaces} 
 \end{figure}
-}
-{\section{Directions for Future Development}
-As mentioned above, channeling is the first aspect that needs to be implemented along with enhancing management mechanisms.
 
 } % end section
 
 {\section{Discussion}
+The conceptual framework for information discovery and curation guided the design of the place photo discovery application, KeePlaces. Similarly, the framework can be applied to design other applications. 
 
+When the desired motive for an application use is known, one can evaluate Web applications from similar domains to identify gaps in provided tooling.  
 
+Ongoing reevaluation of the tool using the framework can help discover gaps in the tool's design and guide the development process. 
 } % end section
 
 
