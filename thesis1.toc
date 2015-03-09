@@ -57,7 +57,7 @@
 \contentsline {section}{\numberline {8.2} Google Maps}{49}
 \contentsline {section}{\numberline {8.3} Wikipedia}{51}
 \contentsline {section}{\numberline {8.4} Delicious}{52}
-\contentsline {section}{\numberline {8.5} Yelp}{52}
+\contentsline {section}{\numberline {8.5} Yelp}{53}
 \contentsline {chapter}{\numberline {9}Implications}{54}
 \contentsline {section}{\numberline {9.1} Research and Design \\ Implications}{54}
 \contentsline {chapter}{\numberline {10}Future Work and Conclusions }{55}
