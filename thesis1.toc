@@ -57,7 +57,7 @@
 \contentsline {section}{\numberline {8.2} Google Maps}{50}
 \contentsline {section}{\numberline {8.3} Wikipedia}{51}
 \contentsline {section}{\numberline {8.4} Delicious}{53}
-\contentsline {section}{\numberline {8.5} Yelp}{53}
-\contentsline {section}{\numberline {8.6} Discussion}{54}
-\contentsline {chapter}{\numberline {9}Research and Design Implications}{56}
-\contentsline {chapter}{\numberline {10}Future Work and Conclusions }{57}
+\contentsline {section}{\numberline {8.5} Yelp}{54}
+\contentsline {section}{\numberline {8.6} Discussion}{55}
+\contentsline {chapter}{\numberline {9}Research and Design Implications}{57}
+\contentsline {chapter}{\numberline {10}Future Work and Conclusions }{58}
