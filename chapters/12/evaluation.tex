@@ -1,34 +1,39 @@
 \chapter{Framework Validation}
 \label{chapter:evaluation}
 
-In order to validate the conceptual framework (see Chapter~\ref{chapter:framework}) and verify its stability, I applied it to evaluate five of the applications that were used in the construction of the preliminary framework (see Chapter~\ref{chapter:old_framework}): Pinterest, Google Maps, Wikipedia, Delicious, and Yelp. This chapter outlines evaluations of the tools with proposed directions for development. 
+In order to validate the conceptual framework (see Chapter~\ref{chapter:framework}) and verify its stability, I applied it to evaluate five of the applications that were used in the construction of the preliminary framework (see Chapter~\ref{chapter:old_framework}): Pinterest, Google Maps, Wikipedia, Delicious, and Yelp. In this chapter, I summarize evaluations of the tools and propose directions for development. 
 
 {\section{Pinterest}
 Pinterest is a Web application designed for image discovery and curation, which are oriented towards finding inspiration and collecting knowledge about hobbies and interests.  Users of Pinterest are commonly referred to as `pinners'. Resources on Pinterest are called `pins', and each `pin' consists of an image, short description, user's name, and name of a collection that the pin belongs to. More information is available once the user clicks on one of those `pins'.
 
 Motivated by the desire to gain inspiration and knowledge, as noted above, users of Pinterest have either underdefined or absent information needs. Other motives for using Pinterest, that follow from the main purpose of the tool, could be to rediscover previously found information (and possibly use it), to be oriented about new `pins' that emerge from subscribed channels, and to collect information for the purposes of future rediscovery and collection itself.
 
-Navigation in Pinterest can be accomplished in a few different ways. Descriptional navigation is enabled with a guided search mechanism. However, results of searching are not personalized. Referential navigation is accomplished through various implementations. The user can navigate using categories. Through clicking on any of the resources, the user can see related resources. When the user navigates using categories, the system makes further suggestions on subcategories. However, there is no facet-guided navigation or filtering. Pinterest is integrated with many other Websites and Web applications through visual linking. Furthermore, results and suggestions are not personalized for the user. Although there is not an explicit opportunistic navigation mechanism, both descriptional and referential mechanisms usually return novice and serendipitous results to facilitate opportunistic browsing. Finally, Pinterest directly displays information to the users when they visit the site. Display is personalized and provides results of their own activity history or history and updates from the people they follow.
+Navigation in Pinterest is mostly supported by descriptional, referential, or system-regulated mechanisms. Although an explicit \textbf{opportunistic navigation mechanism} is absent, both descriptional and referential mechanisms usually return novice and serendipitous results to facilitate opportunistic browsing. Descriptional navigation is enabled with a \textbf{guided search} mechanism, which suggests search terms to the user. 
 
-Exploration mechanisms are extensively taken care of in Pinterest. Multiple resources are represented in a gallery view that, in Pinterest culture, is thought of as a 'pinboard'. Such layout provides good spatial support for exploration and makes it easier to build a mental model by drawing analogies with a real pinboard. Single resource does not have a lot of distinct spatial arrangements. However, visually it provides a glimpse into what can be found on he Website that the image came from. Textual preview, however, is limited to the address of the Website.
+Referential navigation is enabled in Pinterest using a range of techniques. To support articulation of an information need, \textbf{category-based} navigation mechanism makes further suggestions on subcategories, or interests. Through clicking on any of the `pins', the user can see related resources, which enables \textbf{resource-based} referential navigation. Most of the images in Pinterest are `pinned' from other Websites, and users are provided with links to their original sources. Therefore, Pinterest supports \textbf{integrated} referential navigation.
 
-Information management is accomplished through sorting 'pins' into different collections ('boards') thus enabling collection-based classification and internal preservation of internal and external resources. 
+System-regulated navigation within Pinterest is highly personalized. When the user enters the site, they see the history of their own information gathering activities and updates from the people they are subscribed to. Additionally, the application suggests \textbf{featured} `pins' selected based on the user's personal interests.
 
-Users can upload new 'pins', comment on existing ones, or add descriptions that enable information augmentation. Users can also share 'pins' among themselves. 
+To reinforce discovery of visual data, Pinterest extensively supports various exploration mechanisms. Multiple resources are represented in a \textbf{gallery layout} which is often referred to as a 'pinboard'. Such layout provides good spatial support for exploration and makes it easier to build a mental model of the tool by drawing analogies with a real pinboard. Users can create multiple `pinboards' (also known as `boards'), and they can \textbf{personalize} covers of all `boards' to enhance future exploration and rediscovery.
 
-Channeling on Pinterset is accomplished through Following users or individual boards, receiving notifications about their activities, and seeing updates that are directly displayed when users enter the site. 
+A single resource does not have a lot of distinct spatial arrangements; however, visually it provides a glimpse into what can be found on the Website that the image came from, with \textbf{textual preview} being limited to the address of the Website. 
 
-After applying the framework, it became evident that some of the navigation mechanisms could be supported by personalization of results and personal suggestions.
+Information management is accomplished through sorting `pins' into different collections (`pinboards') thus enabling \textbf{collection-based classification} and \textbf{internal preservation of internal and external resources}. All of user information collecting actions are \textbf{automatically} preserved and displayed. Users can augment the information pool by uploading new `pins', commenting on existing `pins', or adding descriptions. Users can also \textbf{internally share} 'pins' among themselves. Channel-picking actions are carried out through following or \textbf{subscribing} to users or individual `pinboards'. The system also `automatically' sends `notifications' though emails and `suggests' new `boards' to follow.
 
+Applying the framework to evaluate Pinterest revealed that the tool employs a  variety of techniques to facilitate information discovery and curation. However, individual mechanisms could be further improved. For example, \textbf{textual previews} of multiple and individual resources is rather limited, and provides little insight to what information source Websites actually contain. As another example, Pinterest could benefit from \textbf{automatically classifying} `pins' into `boards' because finding an appropriate `board' for a `pin' can be difficult with a large number of existing `boards'. Overall, Pinterest provides rich support for information disocvery and curation, and in some ways, enable each of the discovery or curation actions of the conceptual framework. 
 } % end section
 
 
 {\section{Google Maps}
-Google maps is a Web application oriented towards place discovery. It provides services for finding information about places as well as directions.  By answering the questions from the framework, we get the following description of Google Maps.
+Google maps is a Web application oriented towards navigation and place discovery. It provides services for finding directions to places, their addresses, and other information. By answering the questions from the conceptual framework for information discovery and curation and analyzing the application, I get the following description of Google Maps.
 
-  Any other information discovery must be initiated by search, and thus, the user needs to formulate their information need---the application lacks category-based navigation, so there is nothing that aids users in the formulation of an information need. Once the application returns search results, the possibility for serendipitous information discovery increases.  
+The primary motivation behind using Google Maps is usually to a find specific information, most commonly directions.  
 
-Fact finding is well supported in Google Maps. Since the application provides access to only one type of resource (places), there is no need for category-based navigation. Direct navigation is not always possible, but some places are visible on the map so the user can click on a place and the application will display relevant information. Search-based navigation within Google Maps is usually precise and returns accurate search results for specific places. 
+Any other information discovery must be initiated by search, and thus, the user needs to formulate their information need---the application lacks category-based navigation, so there is nothing that aids users in the formulation of an information need. Once the application returns search results, the possibility for serendipitous information discovery increases.  
+
+Fact finding is well supported in Google Maps. Since the application provides access to only one type of resource (places), there is no need for category-based navigation. 
+
+Direct navigation is not always possible, but some places are visible on the map so the user can click on a place and the application will display relevant information. Search-based navigation within Google Maps is usually precise and returns accurate search results for specific places. 
 
 However, the 'reviews' link doesn't have a visual preview to indicate that there are more than just reviews on the linked page. Considering the nature of Google Maps, the semantic of the spatial arrangement of resources is defined by the locations of actual places on the map. More information is presented as a list. 
 
@@ -112,7 +117,7 @@ Users can bookmark businesses they like within the system.
 
 Evaluation is possible by rating the businesses. Reviews can also be evaluated by choosing between 'Useful', 'Funny', and 'Cool' metrics.
 
-Users can add resources by writing reviews which also contributes to information augmentation. Users can also ad images of the business. 
+Users can add resources by writing reviews which also contributes to information augmentation. Users can also add images of the business. 
 
 On Yelp, the user can see latest updates from activities of other users. 
 
@@ -120,5 +125,14 @@ Identified gaps include lack of management mechanisms when businesses are bookma
 } % end section
 
 {\section{Discussion}
+The evaluations of existing Web tools, provided in this chapter, using the conceptual framework for information discovery and curation demonstrate applicability of the framework. A set of questions, provided by the framework, can help in the process of tool evaluation, and they can also be applied in drawing distinctions between different tools. 
+
+The framework associates different information discovery and curation actions with concrete mechanisms. However, it is not always clear which actions in the framework the tool needs to support. With help of the framework, some of the requirements (but not all) can be derived from the analysis of other applications, which might be in a similar domain or possess desired properties. 
+
+Another source that can hint on which actions need support is the motive for discovery and curation activities in an application. For example, if the motive is to discover information with an undefined information need, the application  can either be tailored to support serendipitous discovery by providing opportunistic navigation mechanisms, or it can help the user to formulate the information need by suggesting search terms and categories.
+
+Finally, the need for a given discovery or curation-supporting mechanism can be evaluated using intuition and experience of the designer. In some cases, it is especially difficult to estimate the importance of a mechanism in a specific application using known measures; however, as with many other decisions when it comes to develop or improve an application, the designer can use their judgment along with subsequent studies and evaluation. 
+
+Evaluation and comparison of different Web applications can reveal useful insights about the mechanics of how the system induces user experience, and they can expose certain unadressed needs. The next Chapter illustrates the design process on an application that emerged from evaluation of other tools using the conceptual framework. 
 
 } % end section

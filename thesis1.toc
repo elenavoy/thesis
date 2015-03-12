@@ -54,10 +54,10 @@
 \contentsline {section}{\numberline {7.3} Discussion}{46}
 \contentsline {chapter}{\numberline {8}Framework Validation}{48}
 \contentsline {section}{\numberline {8.1} Pinterest}{48}
-\contentsline {section}{\numberline {8.2} Google Maps}{49}
-\contentsline {section}{\numberline {8.3} Wikipedia}{51}
+\contentsline {section}{\numberline {8.2} Google Maps}{50}
+\contentsline {section}{\numberline {8.3} Wikipedia}{52}
 \contentsline {section}{\numberline {8.4} Delicious}{52}
 \contentsline {section}{\numberline {8.5} Yelp}{53}
-\contentsline {section}{\numberline {8.6} Discussion}{53}
-\contentsline {chapter}{\numberline {9}Research and Design Implications}{54}
-\contentsline {chapter}{\numberline {10}Future Work and Conclusions }{55}
+\contentsline {section}{\numberline {8.6} Discussion}{54}
+\contentsline {chapter}{\numberline {9}Research and Design Implications}{56}
+\contentsline {chapter}{\numberline {10}Future Work and Conclusions }{57}
