@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.24)  15 MAR 2015 04:25
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.24)  15 MAR 2015 05:45
 entering extended mode
 **thesis1.tex
 (C:\Users\Elena\git\thesis\thesis1.tex
@@ -919,7 +919,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!] (C:\Users\Elena\git\thesis\chapters/9/future_work.tex
 Chapter 10.
-) [59
+[59
 Non-PDF special ignored!
 Non-PDF special ignored!
 
@@ -927,7 +927,11 @@ Non-PDF special ignored!
 
 
 Non-PDF special ignored!
-Non-PDF special ignored!] (C:\Users\Elena\git\thesis\thesis1.bbl [60
+Non-PDF special ignored!]) [60
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!] (C:\Users\Elena\git\thesis\thesis1.bbl [61
 Non-PDF special ignored!
 Non-PDF special ignored!
 
@@ -958,7 +962,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!] [61
+Non-PDF special ignored!] [62
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -992,7 +996,7 @@ Non-PDF special ignored!]
 Missing character: There is no â in font cmti12!
 Missing character: There is no € in font cmti12!
 Missing character: There is no ” in font cmti12!
- [62
+ [63
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -1018,7 +1022,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!] [63
+Non-PDF special ignored!] [64
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -1046,7 +1050,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!]) [64
+Non-PDF special ignored!]) [65
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -1058,7 +1062,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!] [65
+Non-PDF special ignored!] [66
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -1069,7 +1073,7 @@ Overfull \hbox (1.50052pt too wide) in paragraph at lines 235--235
 []\OT1/cmr/m/sc/12 TOWARDS UN-DER-STAND-ING DIG-I-TAL IN-FOR-MA-TION
  []
 
-[66
+[67
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -1116,9 +1120,9 @@ r10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12
 /Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/P
 rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Pro
 gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis1.pdf (76 pages, 702301 bytes).
+Output written on thesis1.pdf (77 pages, 703704 bytes).
 PDF statistics:
- 302 PDF objects out of 1000 (max. 8388607)
+ 305 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

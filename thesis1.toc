@@ -60,4 +60,4 @@
 \contentsline {section}{\numberline {8.5} Yelp}{54}
 \contentsline {section}{\numberline {8.6} Discussion}{55}
 \contentsline {chapter}{\numberline {9}Research and Design Implications}{57}
-\contentsline {chapter}{\numberline {10}Future Work and Conclusions }{59}
+\contentsline {chapter}{\numberline {10}Future Work and Conclusions}{59}
