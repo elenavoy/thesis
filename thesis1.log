@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.9)  16 MAR 2015 14:25
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.9)  16 MAR 2015 16:19
 entering extended mode
 **thesis1.tex
 (C:\Users\elenavoyl\git\thesis\thesis1.tex
@@ -1027,8 +1027,6 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
 Non-PDF special ignored!]
 Missing character: There is no â in font cmti12!
 Missing character: There is no € in font cmti12!
@@ -1085,10 +1083,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!]) [66
-Non-PDF special ignored!
+Non-PDF special ignored!] [66
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -1099,7 +1094,34 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!] [67
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]) [67
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!] [68
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -1110,7 +1132,7 @@ Overfull \hbox (1.50052pt too wide) in paragraph at lines 234--234
 []\OT1/cmr/m/sc/12 TOWARDS UN-DER-STAND-ING DIG-I-TAL IN-FOR-MA-TION
  []
 
-[68
+[69
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -1134,13 +1156,13 @@ Non-PDF special ignored!] (C:\Users\elenavoyl\git\thesis\thesis1.aux
 ### simple group (level 1) entered at line 6 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 2680 strings out of 493921
- 40155 string characters out of 3144865
- 109296 words of memory out of 3000000
- 5876 multiletter control sequences out of 15000+200000
+ 2708 strings out of 493921
+ 40835 string characters out of 3144865
+ 108663 words of memory out of 3000000
+ 5904 multiletter control sequences out of 15000+200000
  12750 words of font info for 43 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 34i,12n,35p,1590b,419s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,12n,35p,1590b,556s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
@@ -1152,9 +1174,9 @@ r10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12
 /Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/P
 rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Pro
 gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis1.pdf (78 pages, 772989 bytes).
+Output written on thesis1.pdf (79 pages, 776824 bytes).
 PDF statistics:
- 312 PDF objects out of 1000 (max. 8388607)
+ 316 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
