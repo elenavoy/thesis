@@ -21,43 +21,46 @@
 \contentsline {subsection}{\numberline {3.1.5} Information Discovery}{12}
 \contentsline {subsection}{\numberline {3.1.6} Digital Curation}{13}
 \contentsline {section}{\numberline {3.2} Web Tasks and Modes of Web Use}{13}
-\contentsline {section}{\numberline {3.3} Collaborative Information \\Discovery and Curation}{16}
+\contentsline {section}{\numberline {3.3} Collaborative Information Discovery and Curation}{16}
 \contentsline {chapter}{\numberline {4}A Preliminary Framework for Information Discovery and Curation}{17}
 \contentsline {section}{\numberline {4.1} Preliminary Framework Composition}{17}
 \contentsline {section}{\numberline {4.2} Limitations of the Preliminary Framework}{19}
 \contentsline {chapter}{\numberline {5}A Conceptual Framework for Information Discovery and Curation on the Web}{22}
-\contentsline {section}{\numberline {5.1} Motives Behind Information Discovery and \\ Curation}{23}
-\contentsline {subsection}{\numberline {5.1.1} Closing Knowledge Gap}{23}
-\contentsline {subsection}{\numberline {5.1.2} Future Use and Reaccess}{24}
-\contentsline {subsection}{\numberline {5.1.3} Improving Collection}{25}
-\contentsline {subsection}{\numberline {5.1.4} Communication}{25}
-\contentsline {section}{\numberline {5.2} Discovery and Curation Activities, Actions, and Their Enablers}{26}
-\contentsline {subsection}{\numberline {5.2.1} Navigation in Discovery: Following Information Scent}{26}
-\contentsline {subsubsection}{\numberline {5.2.1.1} Descriptional Navigation}{26}
-\contentsline {subsubsection}{\numberline {5.2.1.2} Referential Navigation}{29}
-\contentsline {subsubsection}{\numberline {5.2.1.3} Opportunistic Navigation}{29}
-\contentsline {subsubsection}{\numberline {5.2.1.4} System-regulated Navigation}{30}
-\contentsline {subsection}{\numberline {5.2.2} Exploration in Discovery: Examining Information Patches}{30}
-\contentsline {subsection}{\numberline {5.2.3} Curation}{32}
+\contentsline {section}{\numberline {5.1} Motives Behind Information Discovery and Curation}{24}
+\contentsline {subsection}{\numberline {5.1.1} Closing a Knowledge Gap}{24}
+\contentsline {subsection}{\numberline {5.1.2} Supporting Future Use and Reaccess}{26}
+\contentsline {subsection}{\numberline {5.1.3} Improving Collections}{26}
+\contentsline {subsection}{\numberline {5.1.4} Facilitating Communication}{26}
+\contentsline {subsection}{\numberline {5.1.5} Summary}{27}
+\contentsline {section}{\numberline {5.2} Discovery and Curation Activities, Actions, and Their Enablers}{27}
+\contentsline {subsection}{\numberline {5.2.1} Navigation in Discovery: Following Information Scent}{29}
+\contentsline {subsubsection}{\numberline {5.2.1.1} Descriptional Navigation}{29}
+\contentsline {subsubsection}{\numberline {5.2.1.2} Referential Navigation}{31}
+\contentsline {subsubsection}{\numberline {5.2.1.3} Opportunistic Navigation}{31}
+\contentsline {subsubsection}{\numberline {5.2.1.4} System-regulated Navigation}{32}
+\contentsline {subsection}{\numberline {5.2.2} Exploration in Discovery: Examining Information Patches}{32}
+\contentsline {subsection}{\numberline {5.2.3} Curation}{34}
 \contentsline {subsubsection}{\numberline {5.2.3.1} Management}{34}
-\contentsline {subsubsection}{\numberline {5.2.3.2} Preservation}{34}
-\contentsline {subsubsection}{\numberline {5.2.3.3} Augmentation}{35}
-\contentsline {subsubsection}{\numberline {5.2.3.4} Sharing}{35}
-\contentsline {subsubsection}{\numberline {5.2.3.5} Channel-picking}{35}
-\contentsline {chapter}{\numberline {6}Enhancing Information Discovery and Curation Experience}{37}
-\contentsline {section}{\numberline {6.1} Enhancing Navigation}{38}
-\contentsline {section}{\numberline {6.2} Enhancing Exploration}{38}
-\contentsline {section}{\numberline {6.3} Enhancing Curation}{40}
-\contentsline {chapter}{\numberline {7}Framework Application for Design}{43}
-\contentsline {section}{\numberline {7.1} Applying the Conceptual Framework to Design an Application}{43}
-\contentsline {section}{\numberline {7.2} KeePlaces Features and Future Prospects}{44}
-\contentsline {section}{\numberline {7.3} Discussion}{46}
-\contentsline {chapter}{\numberline {8}Framework Validation}{48}
-\contentsline {section}{\numberline {8.1} Pinterest}{48}
-\contentsline {section}{\numberline {8.2} Google Maps}{50}
-\contentsline {section}{\numberline {8.3} Wikipedia}{51}
-\contentsline {section}{\numberline {8.4} Delicious}{53}
-\contentsline {section}{\numberline {8.5} Yelp}{54}
-\contentsline {section}{\numberline {8.6} Discussion}{55}
-\contentsline {chapter}{\numberline {9}Research and Design Implications}{57}
-\contentsline {chapter}{\numberline {10}Future Work and Conclusions}{59}
+\contentsline {subsubsection}{\numberline {5.2.3.2} Preservation}{36}
+\contentsline {subsubsection}{\numberline {5.2.3.3} Augmentation}{36}
+\contentsline {subsubsection}{\numberline {5.2.3.4} Sharing}{37}
+\contentsline {subsubsection}{\numberline {5.2.3.5} Channel-picking}{37}
+\contentsline {subsection}{\numberline {5.2.4} Summary}{38}
+\contentsline {section}{\numberline {5.3} Enhancing Information Discovery and Curation Experience}{38}
+\contentsline {subsection}{\numberline {5.3.1} Enhancing Navigation}{39}
+\contentsline {subsection}{\numberline {5.3.2} Enhancing Exploration}{39}
+\contentsline {subsection}{\numberline {5.3.3} Enhancing Curation}{40}
+\contentsline {subsection}{\numberline {5.3.4} Summary}{43}
+\contentsline {chapter}{\numberline {6}Framework Validation}{44}
+\contentsline {section}{\numberline {6.1} Pinterest}{44}
+\contentsline {section}{\numberline {6.2} Google Maps}{46}
+\contentsline {section}{\numberline {6.3} Wikipedia}{48}
+\contentsline {section}{\numberline {6.4} Delicious}{49}
+\contentsline {section}{\numberline {6.5} Yelp}{50}
+\contentsline {section}{\numberline {6.6} Discussion}{51}
+\contentsline {chapter}{\numberline {7}Framework Application for Design}{53}
+\contentsline {section}{\numberline {7.1} Applying the Conceptual Framework to Design an Application}{53}
+\contentsline {section}{\numberline {7.2} KeePlaces Features and Future Prospects}{54}
+\contentsline {section}{\numberline {7.3} Discussion}{56}
+\contentsline {chapter}{\numberline {8}Research and Design Implications}{58}
+\contentsline {chapter}{\numberline {9}Future Work and Conclusions}{60}
