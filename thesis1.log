@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.9)  16 MAR 2015 18:00
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.9)  16 MAR 2015 19:33
 entering extended mode
 **thesis1.tex
 (C:\Users\elenavoyl\git\thesis\thesis1.tex
@@ -525,22 +525,30 @@ Non-PDF special ignored!] [18
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
+Non-PDF special ignored!] [19
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
 Non-PDF special ignored!]
-Overfull \hbox (3.51764pt too wide) in paragraph at lines 45--83
+Overfull \hbox (3.51764pt too wide) in paragraph at lines 47--85
  [][] 
  []
 
-) [19
+) [20
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!] [20
+Non-PDF special ignored!]
+
+LaTeX Warning: Text page 21 contains only floats.
+
+[21
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!] [21
+Non-PDF special ignored!] [22
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -549,13 +557,13 @@ Non-PDF special ignored!
 Non-PDF special ignored!]
 (C:\Users\elenavoyl\git\thesis\chapters/5/framework.tex
 Chapter 5.
-<images/framework_overview.png, id=114, 460.72125pt x 361.35pt>
+<images/framework_overview.png, id=117, 460.72125pt x 361.35pt>
 File: images/framework_overview.png Graphic file (type png)
 
 <use images/framework_overview.png>
 Package pdftex.def Info: images/framework_overview.png used on input line 17.
 (pdftex.def)             Requested size: 433.62pt x 340.09361pt.
- [22
+ [23
 Non-PDF special ignored!
 Non-PDF special ignored!
 
@@ -563,7 +571,7 @@ Non-PDF special ignored!
 
 
 Non-PDF special ignored!
-Non-PDF special ignored!] [23
+Non-PDF special ignored!] [24
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -577,13 +585,13 @@ Overfull \hbox (5.8458pt too wide) in paragraph at lines 23--23
 []\OT1/cmr/bx/n/17.28 Motives Be-hind In-for-ma-tion Dis-cov-ery and Cu-
  []
 
-<images/motives.png, id=122, 241.65282pt x 104.64093pt>
+<images/motives.png, id=125, 241.65282pt x 104.64093pt>
 File: images/motives.png Graphic file (type png)
 
 <use images/motives.png>
 Package pdftex.def Info: images/motives.png used on input line 29.
 (pdftex.def)             Requested size: 241.65222pt x 104.64066pt.
- [24
+ [25
 Non-PDF special ignored!
 Non-PDF special ignored!
 
@@ -594,29 +602,29 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored! <C:/Users/elenavoyl/git/thesis/images/motives.png>]
-[25
+[26
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!] [26
+Non-PDF special ignored!] [27
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
-<images/enablers.png, id=133, 238.64156pt x 105.39375pt>
+<images/enablers.png, id=137, 238.64156pt x 105.39375pt>
 File: images/enablers.png Graphic file (type png)
 
 <use images/enablers.png>
 Package pdftex.def Info: images/enablers.png used on input line 73.
 (pdftex.def)             Requested size: 238.64096pt x 105.39348pt.
 
-<images/framework_enablers.png, id=134, 394.47375pt x 489.32813pt>
+<images/framework_enablers.png, id=138, 394.47375pt x 489.32813pt>
 File: images/framework_enablers.png Graphic file (type png)
 
 <use images/framework_enablers.png>
 Package pdftex.def Info: images/framework_enablers.png used on input line 82.
 (pdftex.def)             Requested size: 433.62pt x 537.88927pt.
- [27
+ [28
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -626,13 +634,13 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored! <C:/Users/elenavoyl/git/thesis/images/enablers.png>]
 
-LaTeX Warning: Text page 28 contains only floats.
+LaTeX Warning: Text page 29 contains only floats.
 
 
 Overfull \vbox (7.45244pt too high) has occurred while \output is active []
 
 
-[28
+[29
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -651,25 +659,25 @@ Overfull \hbox (25.19997pt too wide) in paragraph at lines 96--122
 [][] 
  []
 
-[29
+[30
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
 
-LaTeX Warning: Text page 30 contains only floats.
+LaTeX Warning: Text page 31 contains only floats.
 
 
 Overfull \vbox (1.80763pt too high) has occurred while \output is active []
 
 
-[30
+[31
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!] [31
+Non-PDF special ignored!] [32
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -684,11 +692,11 @@ Overfull \hbox (3.51764pt too wide) in paragraph at lines 161--183
 [][] 
  []
 
-[32
+[33
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!] [33
+Non-PDF special ignored!] [34
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -714,21 +722,17 @@ Overfull \hbox (3.51764pt too wide) in paragraph at lines 207--231
 [][] 
  []
 
-[34
+[35
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
 
-LaTeX Warning: Text page 35 contains only floats.
+LaTeX Warning: Text page 36 contains only floats.
 
-[35
+[36
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!] [36
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -736,14 +740,18 @@ Non-PDF special ignored!] [37
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
+Non-PDF special ignored!] [38
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
 Non-PDF special ignored!]
-<images/enhancement.png, id=172, 316.18124pt x 111.41624pt>
+<images/enhancement.png, id=175, 316.18124pt x 111.41624pt>
 File: images/enhancement.png Graphic file (type png)
 
 <use images/enhancement.png>
 Package pdftex.def Info: images/enhancement.png used on input line 282.
 (pdftex.def)             Requested size: 316.18047pt x 111.41597pt.
- [38
+ [39
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -772,7 +780,7 @@ Overfull \hbox (3.52426pt too wide) in paragraph at lines 304--326
 [][] 
  []
 
-[39
+[40
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -816,13 +824,13 @@ Overfull \hbox (3.51764pt too wide) in paragraph at lines 362--387
 [][] 
  []
 
-[40
+[41
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!] [41
+Non-PDF special ignored!] [42
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -830,15 +838,15 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
 
-LaTeX Warning: Text page 42 contains only floats.
+LaTeX Warning: Text page 43 contains only floats.
 
-[42
+[43
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!]) [43
+Non-PDF special ignored!]) [44
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -851,17 +859,13 @@ Overfull \hbox (1.28244pt too wide) in paragraph at lines 11--12
 onal, ref-er-en-tial, or system-
  []
 
-[44
+[45
 Non-PDF special ignored!
 Non-PDF special ignored!
 
 
 
 
-Non-PDF special ignored!
-Non-PDF special ignored!] [45
-Non-PDF special ignored!
-Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!] [46
 Non-PDF special ignored!
@@ -887,43 +891,47 @@ Non-PDF special ignored!] [51
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!]) [52
+Non-PDF special ignored!] [52
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]) [53
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
 (C:\Users\elenavoyl\git\thesis\chapters/6/application.tex
 Chapter 7.
-[53
+[54
 Non-PDF special ignored!
 Non-PDF special ignored!
 
 
 
 
-Non-PDF special ignored!
-Non-PDF special ignored!] [54
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!] [55
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!] [56
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
 Non-PDF special ignored!]
-<images/keeplaces.png, id=231, 433.62pt x 194.22563pt>
+<images/keeplaces.png, id=234, 433.62pt x 194.22563pt>
 File: images/keeplaces.png Graphic file (type png)
 
 <use images/keeplaces.png>
 Package pdftex.def Info: images/keeplaces.png used on input line 48.
 (pdftex.def)             Requested size: 433.62pt x 194.23402pt.
- [56
+ [57
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!]) [57
+Non-PDF special ignored!]) [58
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -940,7 +948,7 @@ Overfull \hbox (5.90831pt too wide) in paragraph at lines 10--11
 -vel-op-ing ap-pli-ca-tions. There-
  []
 
-[58
+[59
 Non-PDF special ignored!
 Non-PDF special ignored!
 
@@ -948,14 +956,14 @@ Non-PDF special ignored!
 
 
 Non-PDF special ignored!
-Non-PDF special ignored!]) [59
+Non-PDF special ignored!]) [60
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
 (C:\Users\elenavoyl\git\thesis\chapters/9/future_work.tex
 Chapter 9.
-[60
+[61
 Non-PDF special ignored!
 Non-PDF special ignored!
 
@@ -963,11 +971,11 @@ Non-PDF special ignored!
 
 
 Non-PDF special ignored!
-Non-PDF special ignored!]) [61
+Non-PDF special ignored!]) [62
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!] (C:\Users\elenavoyl\git\thesis\thesis1.bbl [62
+Non-PDF special ignored!] (C:\Users\elenavoyl\git\thesis\thesis1.bbl [63
 Non-PDF special ignored!
 Non-PDF special ignored!
 
@@ -998,7 +1006,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!] [63
+Non-PDF special ignored!] [64
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -1030,33 +1038,7 @@ Non-PDF special ignored!]
 Missing character: There is no â in font cmti12!
 Missing character: There is no € in font cmti12!
 Missing character: There is no ” in font cmti12!
- [64
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!] [65
+ [65
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -1108,19 +1090,45 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!]) [67
-Non-PDF special ignored!
+Non-PDF special ignored!] [67
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!] [68
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]) [68
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!] [69
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -1131,7 +1139,7 @@ Overfull \hbox (1.50052pt too wide) in paragraph at lines 234--234
 []\OT1/cmr/m/sc/12 TOWARDS UN-DER-STAND-ING DIG-I-TAL IN-FOR-MA-TION
  []
 
-[69
+[70
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -1173,9 +1181,9 @@ r10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12
 /Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/P
 rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Pro
 gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis1.pdf (79 pages, 777458 bytes).
+Output written on thesis1.pdf (80 pages, 775022 bytes).
 PDF statistics:
- 316 PDF objects out of 1000 (max. 8388607)
+ 319 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
