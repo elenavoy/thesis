@@ -1,5 +1,5 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: thesis1.aux
-The style file: ieeetr.bst
+The style file: apa.bst
 A level-1 auxiliary file: chapters/1/chapter_intro.aux
 A level-1 auxiliary file: chapters/3/methodology.aux
 A level-1 auxiliary file: chapters/2/chapter_related_work.aux
@@ -15,4 +15,5 @@ Illegal, another \bibstyle command---line 18 of file thesis1.aux
 I'm skipping whatever remains of this command
 Database file #1: refs.bib
 Warning--empty journal in cockburn2003improving
+Warning--there's a number but no volume in luca2011reviews
 (There was 1 error message)
