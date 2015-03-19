@@ -15,8 +15,7 @@ Figure~\ref{fig:framework_overview} gives a high-level overview of the framework
 \begin{figure}[ht!]
 	\noindent
 	\centering
-	\includegraphics[width=\linewidth]{framework_overview.png}
-	\caption{Framework Composition}
+	\import{images/}{framework_overview.pdf_tex}	\caption{Framework Composition}
 	\label{fig:framework_overview} 
 \end{figure}
 \clearpage
@@ -80,15 +79,6 @@ The next part of the framework (see Figure~\ref{fig:enablers_overview}) deals wi
 {\subsection{Navigation in Discovery: Following Information Scent}
 In order to discover information, a user needs to have a way of navigating to it. Navigation in information discovery can be thought of as following an information scent. In general, information scent models deal with how users identify value, cost, or the access path of information sources based on proximal cues, such as links, icons, categories, etc.~\cite{pirolli1999information}. Common methods of navigation that facilitate information discovery include descriptional, referential, opportunistic, and system-regulated (see Table~\ref{table:navigation}). 
 
-\begin{figure}[ht!]
-	\noindent
-	\centering
-	\includegraphics[width=\linewidth]{framework_enablers.png}
-	\caption{Information Discovery and Curation Activities, Actions, and Corresponding Enablers}
-	\label{fig:enablers} 
-\end{figure}
-\clearpage
-
 {\subsubsection{Descriptional Navigation}
 A navigation is descriptional when the user has a means of describing their information need. It is often implemented as \textit{search-based navigation} since it allows users to enter a search query and describe what they want to find. Some of the modern descriptional navigation systems are voice-activated. 
 
@@ -98,6 +88,17 @@ There are numerous ways in which descriptional navigation supports information d
 
 Descriptional navigation can also help to rediscover information. However, it is not always a reliable way of refinding information ~\cite{cockburn2003improving}. In information portals that provide access to fairly ambiguous information and that have regularly updated information flow, the search feature is usually designed around retrieving information related to some general topic. In order to make search-based navigation a reliable way to rediscover information, it must return consistent results. 
 } % end subsection
+
+\pagebreak
+
+\begin{figure}[ht!]
+	\noindent
+	\centering
+	\includegraphics[width=\linewidth]{framework_enablers.png}
+	\caption{Information Discovery and Curation Activities, Actions, and Corresponding Enablers}
+	\label{fig:enablers} 
+\end{figure}
+
 
 {\subsubsection{Referential Navigation}
 A navigation is referential when the user finds a reference to the term that they are looking for, such as a link or icon. This reference represents an information scent. The underlying assumption of this method of navigation is that the user can recognize the needed information or a reference to it as they see it~\cite{waterworth1991model}. 
@@ -156,7 +157,7 @@ One example of an application that utilizes system-regulated navigation is Yelp.
 } % end subsection
 } % end section
 
-\pagebreak
+
 {\subsection{Exploration in Discovery: Examining Information Patches}
 Exploration of resources is another action that facilitates information discovery. Visual and spatial cues, which help representing single or multiple resources, enable this action by allowing users to conveniently examine information patches (see Table~\ref{table:exploration}). 
 
@@ -289,7 +290,7 @@ Information discovery and curation tools can have different implementations depe
 \begin{figure}[ht!]
 	\noindent
 	\centering
-	\includegraphics{enhancement.png}
+	\includegraphics[width=\linewidth]{enhancement.png}
 	\caption{Section Overview: Enhancing Information Discovery and Curation Experience}
 	\label{fig:enhancement} 
 \end{figure}
@@ -300,7 +301,6 @@ Strategies for improvement include providing additional cognitive support for a 
 {\subsection{Enhancing Navigation}
 There are two common methods of enhancing information discovery when search-based navigation is used (see Table~\ref{table:navigation_support}). The first method entails returning personalized results when the user enters a search query. \textbf{Personalization} can be accomplished using a variety of techniques, including predefined user preferences, social interactions, context, browsing history, etc. The second method is to \textbf{suggest search terms} to make it easier for the user to formulate their information need. For example, Yelp suggests search terms as the user enters their query.
 
-\pagebreak
 To further support referential navigation, applications can \textbf{personalize} reference suggestions, such as \textbf{categories}, \textbf{tags}, and \textbf{topics} of interest. They can also suggest relevant resources based on the one that the user already selected. As an example, after a user clicks a `pin', Pinterest showcases other similar `pins'.
 
 For opportunistic navigation, Web tools sometimes allow users to \textbf{personalize} types or categories of information that they the users would like to discover. StumbleUpon allows users to not only choose topics of interests, but it can also help them discover new promising topics.
