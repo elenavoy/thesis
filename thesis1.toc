@@ -1,66 +1,69 @@
-\contentsline {chapter}{Abstract}{ii}
+\contentsline {chapter}{Supervisory Committee}{ii}
+\contentsline {chapter}{Abstract}{iii}
 \contentsline {chapter}{Table of Contents}{iv}
-\contentsline {chapter}{List of Figures}{vii}
-\contentsline {chapter}{List of Tables}{viii}
-\contentsline {chapter}{Acknowledgement}{ix}
-\contentsline {chapter}{Dedication}{x}
+\contentsline {chapter}{List of Tables}{vii}
+\contentsline {chapter}{List of Figures}{viii}
 \contentsline {chapter}{\numberline {1}Introduction}{1}
 \contentsline {chapter}{\numberline {2}Methodology}{4}
-\contentsline {section}{\numberline {2.1} Research Questions}{5}
-\contentsline {section}{\numberline {2.2} Literature Review}{5}
-\contentsline {section}{\numberline {2.3} Building and Refining the Conceptual Framework}{5}
-\contentsline {section}{\numberline {2.4} Applying the Framework to the Design of an Information Discovery and Curation Application}{8}
-\contentsline {section}{\numberline {2.5} Framework Validation}{8}
-\contentsline {section}{\numberline {2.6} Limitations}{8}
+\contentsline {section}{\numberline {2.1}Research Questions}{4}
+\contentsline {section}{\numberline {2.2}Literature Review}{5}
+\contentsline {section}{\numberline {2.3}Building and Refining the Conceptual Framework}{6}
+\contentsline {section}{\numberline {2.4}Applying the Framework to the Design of an Information Discovery and Curation Application}{8}
+\contentsline {section}{\numberline {2.5}Framework Validation}{8}
+\contentsline {section}{\numberline {2.6}Limitations}{8}
 \contentsline {chapter}{\numberline {3}Web-based Information Discovery and Curation}{10}
-\contentsline {section}{\numberline {3.1} Information Behavior}{10}
-\contentsline {subsection}{\numberline {3.1.1} Information Seeking Models}{11}
-\contentsline {subsection}{\numberline {3.1.2} Information Exploration}{12}
-\contentsline {subsection}{\numberline {3.1.3} Information Foraging}{12}
-\contentsline {subsection}{\numberline {3.1.4} Information Discovery}{12}
-\contentsline {subsection}{\numberline {3.1.5} Digital Curation}{13}
-\contentsline {section}{\numberline {3.2} Web Tasks and Modes of Web Use}{13}
-\contentsline {section}{\numberline {3.3} Collaborative Information Discovery and Curation}{16}
-\contentsline {section}{\numberline {3.4} Summary}{16}
+\contentsline {section}{\numberline {3.1}Information Behavior}{10}
+\contentsline {subsection}{\numberline {3.1.1}Information Seeking Models}{11}
+\contentsline {subsection}{\numberline {3.1.2}Information Exploration}{12}
+\contentsline {subsection}{\numberline {3.1.3}Information Foraging}{12}
+\contentsline {subsection}{\numberline {3.1.4}Information Discovery}{12}
+\contentsline {subsection}{\numberline {3.1.5}Digital Curation}{13}
+\contentsline {section}{\numberline {3.2}Web Tasks and Modes of Web Use}{13}
+\contentsline {section}{\numberline {3.3}Collaborative Information Discovery and Curation}{16}
+\contentsline {section}{\numberline {3.4}Summary}{16}
 \contentsline {chapter}{\numberline {4}A Preliminary Framework for Information Discovery and Curation}{17}
-\contentsline {section}{\numberline {4.1} Preliminary Framework Composition}{17}
-\contentsline {section}{\numberline {4.2} Limitations of the Preliminary Framework}{19}
-\contentsline {chapter}{\numberline {5}A Conceptual Framework for Information Discovery and Curation on the Web}{23}
-\contentsline {section}{\numberline {5.1} Motives Behind Information Discovery and Curation}{25}
-\contentsline {subsection}{\numberline {5.1.1} Closing a Knowledge Gap}{25}
-\contentsline {subsection}{\numberline {5.1.2} Supporting Future Use and Reaccess}{27}
-\contentsline {subsection}{\numberline {5.1.3} Improving Collections}{27}
-\contentsline {subsection}{\numberline {5.1.4} Facilitating Communication}{27}
-\contentsline {subsection}{\numberline {5.1.5} Summary}{28}
-\contentsline {section}{\numberline {5.2} Discovery and Curation Activities, Actions, and Their Enablers}{28}
-\contentsline {subsection}{\numberline {5.2.1} Navigation in Discovery: Following Information Scent}{30}
-\contentsline {subsubsection}{\numberline {5.2.1.1} Descriptional Navigation}{30}
-\contentsline {subsubsection}{\numberline {5.2.1.2} Referential Navigation}{32}
-\contentsline {subsubsection}{\numberline {5.2.1.3} Opportunistic Navigation}{32}
-\contentsline {subsubsection}{\numberline {5.2.1.4} System-regulated Navigation}{33}
-\contentsline {subsection}{\numberline {5.2.2} Exploration in Discovery: Examining Information Patches}{33}
-\contentsline {subsection}{\numberline {5.2.3} Curation}{35}
-\contentsline {subsubsection}{\numberline {5.2.3.1} Management}{35}
-\contentsline {subsubsection}{\numberline {5.2.3.2} Preservation}{37}
-\contentsline {subsubsection}{\numberline {5.2.3.3} Augmentation}{37}
-\contentsline {subsubsection}{\numberline {5.2.3.4} Sharing}{38}
-\contentsline {subsubsection}{\numberline {5.2.3.5} Channel-picking}{38}
-\contentsline {subsection}{\numberline {5.2.4} Summary}{39}
-\contentsline {section}{\numberline {5.3} Enhancing Information Discovery and Curation Experience}{39}
-\contentsline {subsection}{\numberline {5.3.1} Enhancing Navigation}{40}
-\contentsline {subsection}{\numberline {5.3.2} Enhancing Exploration}{40}
-\contentsline {subsection}{\numberline {5.3.3} Enhancing Curation}{41}
-\contentsline {subsection}{\numberline {5.3.4} Summary}{44}
-\contentsline {chapter}{\numberline {6}Framework Validation}{45}
-\contentsline {section}{\numberline {6.1} Pinterest}{45}
-\contentsline {section}{\numberline {6.2} Google Maps}{47}
-\contentsline {section}{\numberline {6.3} Wikipedia}{49}
-\contentsline {section}{\numberline {6.4} Delicious}{50}
-\contentsline {section}{\numberline {6.5} Yelp}{51}
-\contentsline {section}{\numberline {6.6} Discussion}{52}
-\contentsline {chapter}{\numberline {7}Framework Application for Design}{54}
-\contentsline {section}{\numberline {7.1} Applying the Conceptual Framework to Design an Application}{54}
-\contentsline {section}{\numberline {7.2} KeePlaces Features and Future Prospects}{55}
-\contentsline {section}{\numberline {7.3} Discussion}{57}
-\contentsline {chapter}{\numberline {8}Research and Design Implications}{59}
-\contentsline {chapter}{\numberline {9}Future Work and Conclusions}{61}
+\contentsline {section}{\numberline {4.1}Preliminary Framework Composition}{17}
+\contentsline {section}{\numberline {4.2}Limitations of the Preliminary Framework}{19}
+\contentsline {chapter}{\numberline {5}A Conceptual Framework for Information Discovery and Curation on the Web}{22}
+\contentsline {section}{\numberline {5.1}Motives Behind Information Discovery and Curation}{24}
+\contentsline {subsection}{\numberline {5.1.1}Closing a Knowledge Gap}{24}
+\contentsline {subsection}{\numberline {5.1.2}Supporting Future Use and Reaccess}{25}
+\contentsline {subsection}{\numberline {5.1.3}Improving Collections}{26}
+\contentsline {subsection}{\numberline {5.1.4}Facilitating Communication}{26}
+\contentsline {subsection}{\numberline {5.1.5}Summary}{26}
+\contentsline {section}{\numberline {5.2}Discovery and Curation Activities, Actions, and Their Enablers}{27}
+\contentsline {subsection}{\numberline {5.2.1}Navigation in Discovery: Following Information Scent}{28}
+\contentsline {subsubsection}{Descriptional Navigation}{30}
+\contentsline {subsubsection}{Referential Navigation}{30}
+\contentsline {subsubsection}{Opportunistic Navigation}{31}
+\contentsline {subsubsection}{System-regulated Navigation}{31}
+\contentsline {subsection}{\numberline {5.2.2}Exploration in Discovery: Examining Information Patches}{32}
+\contentsline {subsection}{\numberline {5.2.3}Curation}{33}
+\contentsline {subsubsection}{Management}{34}
+\contentsline {subsubsection}{Preservation}{35}
+\contentsline {subsubsection}{Augmentation}{35}
+\contentsline {subsubsection}{Sharing}{36}
+\contentsline {subsubsection}{Channel-picking}{36}
+\contentsline {subsection}{\numberline {5.2.4}Summary}{36}
+\contentsline {section}{\numberline {5.3}Enhancing Information Discovery and Curation Experience}{37}
+\contentsline {subsection}{\numberline {5.3.1}Enhancing Navigation}{37}
+\contentsline {subsection}{\numberline {5.3.2}Enhancing Exploration}{38}
+\contentsline {subsection}{\numberline {5.3.3}Enhancing Curation}{38}
+\contentsline {subsection}{\numberline {5.3.4}Summary}{40}
+\contentsline {chapter}{\numberline {6}Framework Validation}{42}
+\contentsline {section}{\numberline {6.1}Pinterest}{42}
+\contentsline {section}{\numberline {6.2}Google Maps}{44}
+\contentsline {section}{\numberline {6.3}Wikipedia}{45}
+\contentsline {section}{\numberline {6.4}Delicious}{47}
+\contentsline {section}{\numberline {6.5}Yelp}{48}
+\contentsline {section}{\numberline {6.6}Discussion}{49}
+\contentsline {chapter}{\numberline {7}Framework Application for Design}{50}
+\contentsline {section}{\numberline {7.1}Applying the Conceptual Framework to Design an Application}{50}
+\contentsline {section}{\numberline {7.2}KeePlaces Features and Future Prospects}{51}
+\contentsline {section}{\numberline {7.3}Discussion}{54}
+\contentsline {chapter}{\numberline {8}Research and Design Implications}{55}
+\contentsline {chapter}{\numberline {9}Future Work and Conclusions}{57}
+\contentsline {chapter}{Bibliography}{59}
+\contentsline {chapter}{\numberline {A}Web-based Information Discovery and Curation Tools}{65}
+\contentsline {chapter}{\numberline {B}Sample Enabling Mechanisms of the Conceptual Framework for Information Discovery and Curation}{69}
+\contentsline {chapter}{\numberline {C}KeePlaces Mechanisms and Features}{82}

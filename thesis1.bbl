@@ -1,356 +1,359 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{10}
 
-\bibitem[\protect\astroncite{Abrams et~al.}{1998}]{abrams1998information}
-Abrams, D., Baecker, R., and Chignell, M. (1998).
+\bibitem{abrams1998information}
+David Abrams, Ron Baecker, and Mark Chignell.
 \newblock Information archiving with bookmarks: personal web space construction
   and organization.
 \newblock In {\em Proceedings of the SIGCHI conference on Human factors in
-  computing systems}, pages 41--48. ACM Press/Addison-Wesley Publishing Co.
+  computing systems}, pages 41--48. ACM Press/Addison-Wesley Publishing Co.,
+  1998.
 
-\bibitem[\protect\astroncite{Adar et~al.}{2008}]{adar2008large}
-Adar, E., Teevan, J., and Dumais, S.~T. (2008).
+\bibitem{adar2008large}
+Eytan Adar, Jaime Teevan, and Susan~T Dumais.
 \newblock Large scale analysis of web revisitation patterns.
 \newblock In {\em Proceedings of the SIGCHI conference on Human Factors in
-  Computing Systems}, pages 1197--1206. ACM.
+  Computing Systems}, pages 1197--1206. ACM, 2008.
 
-\bibitem[\protect\astroncite{Bates}{1986}]{bates1986exploratory}
-Bates, M.~J. (1986).
+\bibitem{bates1986exploratory}
+Marcia~J Bates.
 \newblock An exploratory paradigm for online information retrieval.
 \newblock {\em Intelligent Information Systems for the Information Society.
-  Amsterdam: North-Holland}, pages 91--99.
+  Amsterdam: North-Holland}, pages 91--99, 1986.
 
-\bibitem[\protect\astroncite{Bates}{2002}]{bates2002toward}
-Bates, M.~J. (2002).
+\bibitem{bates2002toward}
+Marcia~J Bates.
 \newblock Toward an integrated model of information seeking and searching.
-\newblock {\em The New Review of Information Behaviour Research}, 3:1--15.
+\newblock {\em The New Review of Information Behaviour Research}, 3:1--15,
+  2002.
 
-\bibitem[\protect\astroncite{Beagrie}{2008}]{beagrie2008digital}
-Beagrie, N. (2008).
+\bibitem{beagrie2008digital}
+Neil Beagrie.
 \newblock Digital curation for science, digital libraries, and individuals.
-\newblock {\em International Journal of Digital Curation}, 1(1):3--16.
+\newblock {\em International Journal of Digital Curation}, 1(1):3--16, 2008.
 
-\bibitem[\protect\astroncite{Bruner}{1961}]{bruner1961act}
-Bruner, J.~S. (1961).
+\bibitem{bruner1961act}
+Jerome~S Bruner.
 \newblock The act of discovery.
-\newblock {\em Harvard educational review}.
+\newblock {\em Harvard educational review}, 1961.
 
-\bibitem[\protect\astroncite{Choo et~al.}{2000}]{choo2000information}
-Choo, C.~W., Detlor, B., and Turnbull, D. (2000).
+\bibitem{choo2000information}
+Chun~Wei Choo, Brian Detlor, and Dan Turnbull.
 \newblock Information seeking on the web: An integrated model of browsing and
   searching.
-\newblock {\em first monday}, 5(2).
+\newblock {\em first monday}, 5(2), 2000.
 
-\bibitem[\protect\astroncite{Cockburn et~al.}{2003}]{cockburn2003improving}
-Cockburn, A., Greenberg, S., Jones, S., McKenzie, B., and Moyle, M. (2003).
+\bibitem{cockburn2003improving}
+Andy Cockburn, Saul Greenberg, Steve Jones, Bruce McKenzie, and Michael Moyle.
 \newblock Improving web page revisitation: Analysis, design, and evaluation.
+\newblock 2003.
 
-\bibitem[\protect\astroncite{Cockburn and McKenzie}{2001}]{cockburn2001web}
-Cockburn, A. and McKenzie, B. (2001).
+\bibitem{cockburn2001web}
+Andy Cockburn and Bruce McKenzie.
 \newblock What do web users do? an empirical analysis of web use.
 \newblock {\em International Journal of human-computer studies},
-  54(6):903--922.
+  54(6):903--922, 2001.
 
-\bibitem[\protect\astroncite{Conaway et~al.}{2010}]{conaway2010designing}
-Conaway, A., Pikas, C., McLean, U., Morris, S., Palmer, L., Rosman, L., Sears,
-  S., Uzelac, E., and Woodson, S. (2010).
+\bibitem{conaway2010designing}
+AM~Conaway, CK~Pikas, UE~McLean, SD~Morris, LA~Palmer, L~Rosman, SA~Sears,
+  E~Uzelac, and SM~Woodson.
 \newblock Designing for information discovery: User needs analysis.
-\newblock {\em Johns Hopkins Applied Technical Digest}, 28(3):290--291.
+\newblock {\em Johns Hopkins Applied Technical Digest}, 28(3):290--291, 2010.
 
-\bibitem[\protect\astroncite{Ellis}{1989}]{ellis1989behavioural}
-Ellis, D. (1989).
+\bibitem{ellis1989behavioural}
+David Ellis.
 \newblock A behavioural model for information retrieval system design.
-\newblock {\em Journal of information science}, 15(4-5):237--247.
+\newblock {\em Journal of information science}, 15(4-5):237--247, 1989.
 
-\bibitem[\protect\astroncite{Ellis et~al.}{1993}]{ellis1993comparison}
-Ellis, D., Cox, D., and Hall, K. (1993).
+\bibitem{ellis1993comparison}
+David Ellis, Deborah Cox, and Katherine Hall.
 \newblock A comparison of the information seeking patterns of researchers in
   the physical and social sciences.
-\newblock {\em Journal of documentation}, 49(4):356--369.
+\newblock {\em Journal of documentation}, 49(4):356--369, 1993.
 
-\bibitem[\protect\astroncite{Ellis and Haugan}{1997}]{ellis1997modelling}
-Ellis, D. and Haugan, M. (1997).
+\bibitem{ellis1997modelling}
+David Ellis and Merete Haugan.
 \newblock Modelling the information seeking patterns of engineers and research
   scientists in an industrial environment.
-\newblock {\em Journal of documentation}, 53(4):384--403.
+\newblock {\em Journal of documentation}, 53(4):384--403, 1997.
 
-\bibitem[\protect\astroncite{Estell{\'e}s et~al.}{2010}]{estelles2010social}
-Estell{\'e}s, E., Del~Moral, E., and Gonz{\'a}lez, F. (2010).
+\bibitem{estelles2010social}
+Enrique Estell{\'e}s, Esther Del~Moral, and Fernando Gonz{\'a}lez.
 \newblock Social bookmarking tools as facilitators of learning and research
   collaborative processes: The diigo case.
 \newblock {\em Interdisciplinary Journal of E-Learning and Learning Objects},
-  6(1):175--191.
+  6(1):175--191, 2010.
 
-\bibitem[\protect\astroncite{Foster and Ford}{2003}]{foster2003serendipity}
-Foster, A. and Ford, N. (2003).
+\bibitem{foster2003serendipity}
+Allen Foster and Nigel Ford.
 \newblock Serendipity and information seeking: an empirical study.
-\newblock {\em Journal of Documentation}, 59(3):321--340.
+\newblock {\em Journal of Documentation}, 59(3):321--340, 2003.
 
-\bibitem[\protect\astroncite{Fu}{2008}]{fu2008microstructures}
-Fu, W.-T. (2008).
+\bibitem{fu2008microstructures}
+Wai-Tat Fu.
 \newblock The microstructures of social tagging: a rational model.
 \newblock In {\em Proceedings of the 2008 ACM conference on Computer supported
-  cooperative work}, pages 229--238. ACM.
+  cooperative work}, pages 229--238. ACM, 2008.
 
-\bibitem[\protect\astroncite{Fu and Pirolli}{2007}]{fu2007snif}
-Fu, W.-T. and Pirolli, P. (2007).
+\bibitem{fu2007snif}
+Wai-Tat Fu and Peter Pirolli.
 \newblock Snif-act: A cognitive model of user navigation on the world wide web.
-\newblock {\em Human--Computer Interaction}, 22(4):355--412.
+\newblock {\em Human--Computer Interaction}, 22(4):355--412, 2007.
 
-\bibitem[\protect\astroncite{Giaretta}{2006}]{giaretta2006dcc}
-Giaretta, D. (2006).
-\newblock Dcc approach to digital curation.
+\bibitem{giaretta2006dcc}
+D~Giaretta.
+\newblock Dcc approach to digital curation, 2006.
 
-\bibitem[\protect\astroncite{Gibson and Erle}{2006}]{gibson2006google}
-Gibson, R. and Erle, S. (2006).
+\bibitem{gibson2006google}
+Rich Gibson and Schuyler Erle.
 \newblock {\em Google maps hacks}.
-\newblock " O'Reilly Media, Inc.".
+\newblock " O'Reilly Media, Inc.", 2006.
 
-\bibitem[\protect\astroncite{Gilbert et~al.}{2013}]{gilbert2013need}
-Gilbert, E., Bakhshi, S., Chang, S., and Terveen, L. (2013).
+\bibitem{gilbert2013need}
+Eric Gilbert, Saeideh Bakhshi, Shuo Chang, and Loren Terveen.
 \newblock I need to try this?: a statistical overview of pinterest.
 \newblock In {\em Proceedings of the SIGCHI conference on human factors in
-  computing systems}, pages 2427--2436. ACM.
+  computing systems}, pages 2427--2436. ACM, 2013.
 
-\bibitem[\protect\astroncite{Golder and Huberman}{2006}]{golder2006usage}
-Golder, S.~A. and Huberman, B.~A. (2006).
+\bibitem{golder2006usage}
+Scott~A Golder and Bernardo~A Huberman.
 \newblock Usage patterns of collaborative tagging systems.
-\newblock {\em Journal of information science}, 32(2):198--208.
+\newblock {\em Journal of information science}, 32(2):198--208, 2006.
 
-\bibitem[\protect\astroncite{Gruber}{2007}]{gruber2007ontology}
-Gruber, T. (2007).
+\bibitem{gruber2007ontology}
+Thomas Gruber.
 \newblock Ontology of folksonomy: A mash-up of apples and oranges.
 \newblock {\em International Journal on Semantic Web and Information Systems
-  (IJSWIS)}, 3(1):1--11.
+  (IJSWIS)}, 3(1):1--11, 2007.
 
-\bibitem[\protect\astroncite{Ingwersen}{1996}]{ingwersen1996cognitive}
-Ingwersen, P. (1996).
+\bibitem{ingwersen1996cognitive}
+Peter Ingwersen.
 \newblock Cognitive perspectives of information retrieval interaction: elements
   of a cognitive ir theory.
-\newblock {\em Journal of documentation}, 52(1):3--50.
+\newblock {\em Journal of documentation}, 52(1):3--50, 1996.
 
-\bibitem[\protect\astroncite{Janiszewski}{1998}]{janiszewski1998influence}
-Janiszewski, C. (1998).
+\bibitem{janiszewski1998influence}
+Chris Janiszewski.
 \newblock The influence of display characteristics on visual exploratory search
   behavior.
-\newblock {\em Journal of Consumer Research}, 25(3):290--301.
+\newblock {\em Journal of Consumer Research}, 25(3):290--301, 1998.
 
-\bibitem[\protect\astroncite{Java et~al.}{2007}]{java2007feeds}
-Java, A., Kolari, P., Finin, T., Joshi, A., and Oates, T. (2007).
+\bibitem{java2007feeds}
+Akshay Java, Pranam Kolari, Tim Finin, Anupam Joshi, and Tim Oates.
 \newblock Feeds that matter: A study of bloglines subscriptions.
-\newblock In {\em ICWSM}.
+\newblock In {\em ICWSM}, 2007.
 
-\bibitem[\protect\astroncite{Kellar et~al.}{2006}]{kellar2006goal}
-Kellar, M., Watters, C., and Shepherd, M. (2006).
+\bibitem{kellar2006goal}
+Melanie Kellar, Carolyn Watters, and Michael Shepherd.
 \newblock A goal-based classification of web information tasks.
 \newblock {\em Proceedings of the American Society for Information Science and
-  Technology}, 43(1):1--22.
+  Technology}, 43(1):1--22, 2006.
 
-\bibitem[\protect\astroncite{Kellar et~al.}{2007}]{kellar2007field}
-Kellar, M., Watters, C., and Shepherd, M. (2007).
+\bibitem{kellar2007field}
+Melanie Kellar, Carolyn Watters, and Michael Shepherd.
 \newblock A field study characterizing web-based information-seeking tasks.
 \newblock {\em Journal of the American Society for Information Science and
-  Technology}, 58(7):999--1018.
+  Technology}, 58(7):999--1018, 2007.
 
-\bibitem[\protect\astroncite{Kerne and Smith}{2004}]{kerne2004information}
-Kerne, A. and Smith, S.~M. (2004).
+\bibitem{kerne2004information}
+Andruid Kerne and Steven~M Smith.
 \newblock The information discovery framework.
 \newblock In {\em Proceedings of the 5th conference on Designing interactive
-  systems: processes, practices, methods, and techniques}, pages 357--360. ACM.
+  systems: processes, practices, methods, and techniques}, pages 357--360. ACM,
+  2004.
 
-\bibitem[\protect\astroncite{Kitajima et~al.}{2000}]{kitajima2000comprehension}
-Kitajima, M., Blackmon, M.~H., and Polson, P.~G. (2000).
+\bibitem{kitajima2000comprehension}
+Muneo Kitajima, Marilyn~H Blackmon, and Peter~G Polson.
 \newblock A comprehension-based model of web navigation and its application to
   web usability analysis.
 \newblock In {\em People and Computers XIV—Usability or Else!}, pages
-  357--373. Springer.
+  357--373. Springer, 2000.
 
-\bibitem[\protect\astroncite{Kittur et~al.}{2007}]{kittur2007power}
-Kittur, A., Chi, E., Pendleton, B., Suh, B., and Mytkowicz, T. (2007).
+\bibitem{kittur2007power}
+Aniket Kittur, Ed~Chi, B~Pendleton, Bongwon Suh, and Todd Mytkowicz.
 \newblock Power of the few vs. wisdom of the crowd: Wikipedia and the rise of
   the bourgeoisie.
-\newblock {\em World wide web}, 1(2):19.
+\newblock {\em World wide web}, 1(2):19, 2007.
 
-\bibitem[\protect\astroncite{Kuhlthau}{1991}]{kuhlthau1991inside}
-Kuhlthau, C.~C. (1991).
+\bibitem{kuhlthau1991inside}
+Carol~C Kuhlthau.
 \newblock Inside the search process: Information seeking from the user's
   perspective.
-\newblock {\em JASIS}, 42(5):361--371.
+\newblock {\em JASIS}, 42(5):361--371, 1991.
 
-\bibitem[\protect\astroncite{Kuutti}{1996}]{kuutti1996activity}
-Kuutti, K. (1996).
+\bibitem{kuutti1996activity}
+Kari Kuutti.
 \newblock Activity theory as a potential framework for human-computer
   interaction research.
 \newblock {\em Context and consciousness: Activity theory and human-computer
-  interaction}, pages 17--44.
+  interaction}, pages 17--44, 1996.
 
-\bibitem[\protect\astroncite{Levene}{2011}]{levene2011introduction}
-Levene, M. (2011).
+\bibitem{levene2011introduction}
+Mark Levene.
 \newblock {\em An introduction to search engines and web navigation}.
-\newblock John Wiley \& Sons.
+\newblock John Wiley \& Sons, 2011.
 
-\bibitem[\protect\astroncite{Lindley et~al.}{2012}]{lindley2012s}
-Lindley, S.~E., Meek, S., Sellen, A., and Harper, R. (2012).
+\bibitem{lindley2012s}
+Si{\^a}n~E Lindley, Sam Meek, Abigail Sellen, and Richard Harper.
 \newblock It's simply integral to what i do: enquiries into how the web is
   weaved into everyday life.
 \newblock In {\em Proceedings of the 21st international conference on World
-  Wide Web}, pages 1067--1076. ACM.
+  Wide Web}, pages 1067--1076. ACM, 2012.
 
-\bibitem[\protect\astroncite{Luca}{2011}]{luca2011reviews}
-Luca, M. (2011).
+\bibitem{luca2011reviews}
+Michael Luca.
 \newblock Reviews, reputation, and revenue: The case of yelp. com.
 \newblock {\em Com (September 16, 2011). Harvard Business School NOM Unit
-  Working Paper}, (12-016).
+  Working Paper}, (12-016), 2011.
 
-\bibitem[\protect\astroncite{Lynch}{1995}]{lynch1995networked}
-Lynch, C.~A. (1995).
+\bibitem{lynch1995networked}
+Clifford~A. Lynch.
 \newblock Networked information resource discovery: an overview of current
   issues.
 \newblock {\em Selected Areas in Communications, IEEE Journal on},
-  13(8):1505--1522.
+  13(8):1505--1522, 1995.
 
-\bibitem[\protect\astroncite{Marchionini}{2006}]{marchionini2006exploratory}
-Marchionini, G. (2006).
+\bibitem{marchionini2006exploratory}
+Gary Marchionini.
 \newblock Exploratory search: from finding to understanding.
-\newblock {\em Communications of the ACM}, 49(4):41--46.
+\newblock {\em Communications of the ACM}, 49(4):41--46, 2006.
 
-\bibitem[\protect\astroncite{Millen et~al.}{2005}]{millen2005social}
-Millen, D., Feinberg, J., and Kerr, B. (2005).
+\bibitem{millen2005social}
+David Millen, Jonathan Feinberg, and Bernard Kerr.
 \newblock Social bookmarking in the enterprise.
-\newblock {\em Queue}, 3(9):28--35.
+\newblock {\em Queue}, 3(9):28--35, 2005.
 
-\bibitem[\protect\astroncite{Morris}{2008}]{morris2008survey}
-Morris, M.~R. (2008).
+\bibitem{morris2008survey}
+Meredith~Ringel Morris.
 \newblock A survey of collaborative web search practices.
 \newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
-  Computing Systems}, pages 1657--1660. ACM.
+  Computing Systems}, pages 1657--1660. ACM, 2008.
 
-\bibitem[\protect\astroncite{Morrison et~al.}{2001}]{morrison2001taxonomic}
-Morrison, J.~B., Pirolli, P., and Card, S.~K. (2001).
+\bibitem{morrison2001taxonomic}
+Julie~B Morrison, Peter Pirolli, and Stuart~K Card.
 \newblock A taxonomic analysis of what world wide web activities significantly
   impact people's decisions and actions.
 \newblock In {\em CHI'01 extended abstracts on Human factors in computing
-  systems}, pages 163--164. ACM.
+  systems}, pages 163--164. ACM, 2001.
 
-\bibitem[\protect\astroncite{Norman}{2002}]{norman2002design}
-Norman, D.~A. (2002).
+\bibitem{norman2002design}
+Donald~A Norman.
 \newblock {\em The design of everyday things}.
-\newblock Basic books.
+\newblock Basic books, 2002.
 
-\bibitem[\protect\astroncite{Oravec}{2002}]{oravec2002bookmarking}
-Oravec, J.~A. (2002).
+\bibitem{oravec2002bookmarking}
+Jo~Ann Oravec.
 \newblock Bookmarking the world: Weblog applications in education.
-\newblock {\em Journal of Adolescent \& Adult Literacy}, pages 616--621.
+\newblock {\em Journal of Adolescent \& Adult Literacy}, pages 616--621, 2002.
 
-\bibitem[\protect\astroncite{Ottoni et~al.}{2013}]{ottoni2013ladies}
-Ottoni, R., Pesce, J.~P., Las~Casas, D.~B., Franciscani~Jr, G., Meira~Jr, W.,
-  Kumaraguru, P., and Almeida, V. (2013).
+\bibitem{ottoni2013ladies}
+Raphael Ottoni, Joao~Paulo Pesce, Diego~B Las~Casas, Geraldo Franciscani~Jr,
+  Wagner Meira~Jr, Ponnurangam Kumaraguru, and Virgilio Almeida.
 \newblock Ladies first: Analyzing gender roles and behaviors in pinterest.
-\newblock In {\em ICWSM}.
+\newblock In {\em ICWSM}, 2013.
 
-\bibitem[\protect\astroncite{Pirolli}{2009}]{pirolli2009elementary}
-Pirolli, P. (2009).
+\bibitem{pirolli2009elementary}
+Peter Pirolli.
 \newblock An elementary social information foraging model.
 \newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
-  Computing Systems}, pages 605--614. ACM.
+  Computing Systems}, pages 605--614. ACM, 2009.
 
-\bibitem[\protect\astroncite{Pirolli and Card}{1999}]{pirolli1999information}
-Pirolli, P. and Card, S. (1999).
+\bibitem{pirolli1999information}
+Peter Pirolli and Stuart Card.
 \newblock Information foraging.
-\newblock {\em Psychological review}, 106(4):643.
+\newblock {\em Psychological review}, 106(4):643, 1999.
 
-\bibitem[\protect\astroncite{Proper and Bruza}{1999}]{proper1999information}
-Proper, H.~A. and Bruza, P. (1999).
+\bibitem{proper1999information}
+Henderik~Alex Proper and PD~Bruza.
 \newblock What is information discovery about?
 \newblock {\em Journal of the American Society for Information Science},
-  50(9):737--750.
+  50(9):737--750, 1999.
 
-\bibitem[\protect\astroncite{Rader and Wash}{2008}]{rader2008influences}
-Rader, E. and Wash, R. (2008).
+\bibitem{rader2008influences}
+Emilee Rader and Rick Wash.
 \newblock Influences on tag choices in del. icio. us.
 \newblock In {\em Proceedings of the 2008 ACM conference on Computer supported
-  cooperative work}, pages 239--248. ACM.
+  cooperative work}, pages 239--248. ACM, 2008.
 
-\bibitem[\protect\astroncite{Saracevic}{1996}]{saracevic1996modeling}
-Saracevic, T. (1996).
+\bibitem{saracevic1996modeling}
+Tefko Saracevic.
 \newblock Modeling interaction in information retrieval (ir): A review and
   proposal.
 \newblock In {\em Proceedings of the ASIS annual meeting}, volume~33, pages
-  3--9. ERIC.
+  3--9. ERIC, 1996.
 
-\bibitem[\protect\astroncite{Sellen et~al.}{2002}]{sellen2002knowledge}
-Sellen, A.~J., Murphy, R., and Shaw, K.~L. (2002).
+\bibitem{sellen2002knowledge}
+Abigail~J Sellen, Rachel Murphy, and Kate~L Shaw.
 \newblock How knowledge workers use the web.
 \newblock In {\em Proceedings of the SIGCHI conference on Human factors in
-  computing systems}, pages 227--234. ACM.
+  computing systems}, pages 227--234. ACM, 2002.
 
-\bibitem[\protect\astroncite{Tauscher and Greenberg}{1997}]{tauscher1997people}
-Tauscher, L. and Greenberg, S. (1997).
+\bibitem{tauscher1997people}
+Linda Tauscher and Saul Greenberg.
 \newblock How people revisit web pages: Empirical findings and implications for
   the design of history systems.
-\newblock {\em International Journal of Human-Computer Studies}, 47(1):97--137.
+\newblock {\em International Journal of Human-Computer Studies}, 47(1):97--137,
+  1997.
 
-\bibitem[\protect\astroncite{Tesconi et~al.}{2008}]{tesconi2008semantify}
-Tesconi, M., Ronzano, F., Marchetti, A., and Minutoli, S. (2008).
+\bibitem{tesconi2008semantify}
+Maurizio Tesconi, Francesco Ronzano, Andrea Marchetti, and Salvatore Minutoli.
 \newblock Semantify del. icio. us: Automatically turn your tags into senses.
 \newblock In {\em The 7th International Semantic Web Conference}, page~67.
-  Citeseer.
+  Citeseer, 2008.
 
-\bibitem[\protect\astroncite{V{\"o}lkel et~al.}{2006}]{volkel2006semantic}
-V{\"o}lkel, M., Kr{\"o}tzsch, M., Vrandecic, D., Haller, H., and Studer, R.
-  (2006).
+\bibitem{volkel2006semantic}
+Max V{\"o}lkel, Markus Kr{\"o}tzsch, Denny Vrandecic, Heiko Haller, and Rudi
+  Studer.
 \newblock Semantic wikipedia.
 \newblock In {\em Proceedings of the 15th international conference on World
-  Wide Web}, pages 585--594. ACM.
+  Wide Web}, pages 585--594. ACM, 2006.
 
-\bibitem[\protect\astroncite{Voyloshnikova and
-  Storey}{2014}]{voyloshnikova2014}
-Voyloshnikova, E. and Storey, M.-A. (2014).
+\bibitem{voyloshnikova2014}
+Elena Voyloshnikova and Margaret-Anne Storey.
 \newblock Towards understanding digital information discovery and curation.
 \newblock In {\em Proceedings of the 2014 Conference of the Center for Advanced
-  Studies on Collaborative Research}, pages 247--261. ACM.
+  Studies on Collaborative Research}, pages 247--261. ACM, 2014.
 
-\bibitem[\protect\astroncite{Waterworth and
-  Chignell}{1991}]{waterworth1991model}
-Waterworth, J.~A. and Chignell, M.~H. (1991).
+\bibitem{waterworth1991model}
+John~A. Waterworth and Mark~H. Chignell.
 \newblock A model of information exploration.
-\newblock {\em Hypermedia}, 3(1):35--58.
+\newblock {\em Hypermedia}, 3(1):35--58, 1991.
 
-\bibitem[\protect\astroncite{Whittaker}{2011}]{whittaker2011personal}
-Whittaker, S. (2011).
+\bibitem{whittaker2011personal}
+Steve Whittaker.
 \newblock Personal information management: from information consumption to
   curation.
 \newblock {\em Annual review of information science and technology},
-  45(1):1--62.
+  45(1):1--62, 2011.
 
-\bibitem[\protect\astroncite{Wilson}{1981}]{wilson1981user}
-Wilson, T.~D. (1981).
-\newblock On user studies and information needs.
-\newblock {\em Journal of documentation}, 37(1):3--15.
-
-\bibitem[\protect\astroncite{Wilson}{1997}]{wilson1997information}
-Wilson, T.~D. (1997).
-\newblock Information behaviour: an interdisciplinary perspective.
-\newblock {\em Information processing \& management}, 33(4):551--572.
-
-\bibitem[\protect\astroncite{Wilson}{1999}]{wilson1999models}
-Wilson, T.~D. (1999).
-\newblock Models in information behaviour research.
-\newblock {\em Journal of documentation}, 55(3):249--270.
-
-\bibitem[\protect\astroncite{Wilson}{2000}]{wilson2000human}
-Wilson, T.~D. (2000).
+\bibitem{wilson2000human}
+Thomas~D Wilson.
 \newblock Human information behavior.
-\newblock {\em Informing science}, 3(2):49--56.
+\newblock {\em Informing science}, 3(2):49--56, 2000.
 
-\bibitem[\protect\astroncite{Yin}{2014}]{yin2014case}
-Yin, R.~K. (2014).
+\bibitem{wilson1981user}
+Tom~D Wilson.
+\newblock On user studies and information needs.
+\newblock {\em Journal of documentation}, 37(1):3--15, 1981.
+
+\bibitem{wilson1997information}
+Tom~D Wilson.
+\newblock Information behaviour: an interdisciplinary perspective.
+\newblock {\em Information processing \& management}, 33(4):551--572, 1997.
+
+\bibitem{wilson1999models}
+Tom~D Wilson.
+\newblock Models in information behaviour research.
+\newblock {\em Journal of documentation}, 55(3):249--270, 1999.
+
+\bibitem{yin2014case}
+Robert~K Yin.
 \newblock {\em Case study research: Design and methods}.
-\newblock Sage publications.
+\newblock Sage publications, 2014.
 
-\bibitem[\protect\astroncite{Zarro and Hall}{2012}]{zarro2012pinterest}
-Zarro, M. and Hall, C. (2012).
+\bibitem{zarro2012pinterest}
+Michael Zarro and Catherine Hall.
 \newblock Pinterest: Social collecting for\# linking\# using\# sharing.
 \newblock In {\em Proceedings of the 12th ACM/IEEE-CS joint conference on
-  Digital Libraries}, pages 417--418. ACM.
+  Digital Libraries}, pages 417--418. ACM, 2012.
 
 \end{thebibliography}

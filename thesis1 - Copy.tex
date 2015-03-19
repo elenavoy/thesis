@@ -1,0 +1,237 @@
+%- THESIS.TEX
+%-
+%- An example file on how to use vthesis.cls
+%- Vassilis Dimakopoulos, 1995 & 1996
+%-
+%- Use it as you would use report.sty (or .cls).
+%-
+%- The differences/additions are:
+%   - the page layout is set according to Uvic Dec. 1994 rules
+%-  - the construction of the `special' pages (titlepage, abstract,
+%-       withhold form, etc) is automatic
+%-  - the numbering (arabic & roman) of pages is also automatic
+%-  - there are aesthetic changes (I call them improvements :-) to
+%-       page headers, figure and table captions, etc.
+%-  - a few simple entities have been defined
+%     o  A \begin{proof} ... \end{proof} environment
+%     o  Two simple lists: alphalist and numlist. numlist
+%-       (\begin{numlist} \item .. \end{numlist}) is the same
+%-       as `enumerate' but puts the numbers in boldface which
+%-       looks good to me. Same goes for alphalist but instead of
+%-       numbers you get (a), (b), etc.
+%-
+%- Please double check with the official thesis guidelines.
+%- Report problems/questions to dimako@ece.uvic.ca
+%-
+
+\documentclass[12pt]{vthesis}   %- If no size given, 11pt is the default
+                                %- Uvic now accepts as low as 10pt
+\bibliographystyle{apa}
+
+\usepackage{graphics}           %- Or whatever else you need
+\usepackage{graphicx}
+\usepackage{epsfig}
+\usepackage[dvips]{color}
+\usepackage[numbers]{natbib}
+\graphicspath{ {images/} }
+
+
+\usepackage{xcolor,colortbl}
+\definecolor{Gray}{gray}{0.85}
+
+
+%-----------------------------------------------------
+%- Start the text already
+%-----------------------------------------------------
+\begin{document}
+
+%-
+%- Numbering is automatic: arabic & roman page numbers are put in the
+%- appropriate pages. Roman paging starts at the first \chapter command.
+%-
+
+%-----------------------------------------------------
+%- Stuff needed for title page and for other pages too
+%-----------------------------------------------------
+
+%\thesistype{Dissertation}       %- If not used, it defaults to "Thesis"
+\thesistitle{TOWARDS UNDERSTANDING DIGITAL INFORMATION DISCOVERY AND CURATION}  %- Use capital letters
+\name{ELENA VOYLOSHNIKOVA} %- Candidate's name, uppercase is good
+\degree{Master of Science}    %- What you're after
+
+%-
+%- If you are in a department other than ECE, use the command
+%- \department{..}, e.g.
+%-
+\department{Department of Computer Science}
+
+
+%- Here give previous degrees
+
+%\prevdegree{M.A.Sc, University of Victoria, 1992}
+\prevdegree{B.Sc., University of Victoria, 2012}
+
+%- Let latex know about the committee members,
+%-    in the order you want them
+
+\committeemember{Dr.~Margaret-Anne Storey, Supervisor,\\ Dept.~of
+Computer Science}
+\committeemember{Dr.~Melanie Tory, Member,\\
+Dept.~of Computer Science} 
+\committeemember{Dr.~Ray Siemens, External Examiner}
+
+%- Let latex know the supervisor's name
+
+\supervisor{Dr.~Margaret-Anne Storey}
+
+%-
+%- NOW, make the title page
+%-
+
+\maketitlepage
+
+%-----------------------------------------------------
+%- Do your abstract as normal
+%-----------------------------------------------------
+
+\begin{abstract}
+Everyday life revolves around the discovery and curation of digital information. People search the Web continuously, from quickly looking up the information needed to complete a task, to endlessly searching for inspiration and knowledge. A variety of studies have modeled information seeking strategies and characterized information seeking and curation activities on the Web. However, there is a lack of research on how existing Web applications support the discovery and curation of information, especially concerning the motivations behind them and how different approaches can be compared.
+
+In this thesis, I present a study of information discovery tools and how they relate to the nature of information seeking. I propose a conceptual framework that deals with Web application design elements that support different aspects of information discovery and curation. This framework can be used when designing, evaluating or updating Web applications.
+\end{abstract}
+
+%--------------------------------------------------------------
+%- Add table of contents, list of figures, tables etc as normal
+%--------------------------------------------------------------
+
+\tableofcontents
+\listoffigures
+\listoftables
+
+
+%--------------------------------------------------------------
+%- Here is how to add three (optional) pages
+%- If you do not like what you get, do it manually
+%--------------------------------------------------------------
+
+%\begin{notation}
+%\end{notation}
+
+\begin{acknowledgement}
+\end{acknowledgement}
+
+\begin{dedication}
+\end{dedication}
+
+%--------------------------------
+%- From now on you're on your own
+%--------------------------------
+
+%
+\include{chapters/1/chapter_intro} 
+\include{chapters/3/methodology}
+\include{chapters/2/chapter_related_work}       
+\include{chapters/4/old_framework}
+\include{chapters/5/framework}
+\include{chapters/12/evaluation}
+\include{chapters/6/application}
+\include{chapters/7/implications}
+\include{chapters/9/future_work}
+
+
+\bibliographystyle{apa}
+\bibliography{refs}
+
+\appendix              %- maybe some appendices
+%\include{app1}
+%\include{app2}
+
+%--------------------------------------------------------------
+%- Here is a semi-automatic VITA page construction.
+%- If you don't like the page layout you have to make your own.
+%--------------------------------------------------------------
+
+\vita                  %- This commands starts the vita page(s)
+
+%- Now call \fullinfo with four arguments:
+%-    lastname, givenname, birthplace, and birthdate.
+%- I think that the birthdate is according to Dec. 1994 rules
+%-    is optional.
+%- So, I also provide the command:
+%-    \halfinfo{lastname}{givenname}{birthplace}
+
+
+\halfinfo{Voyloshnikova}{Elena}{Nikolaev, Ukraine}
+
+%-
+%- Next, the education:
+%- \begin{education} ... \end{education}
+%- Each entry must be entered as \entry{university}{years}}
+%-
+
+\begin{education}
+\entry{University of Victoria}{2008 to 2012}
+\end{education}
+
+%-
+%- Next the degrees:
+%- \begin{degrees} ... \end{degrees}
+%- Now \entry has 3 arguments: \entry{title}{university}{year}
+%-
+
+\begin{degrees}
+\entry{B.Sc.}{University of Victoria}{2012}
+\end{degrees}
+
+%-
+%- Next the awards:
+%- \begin{awards} ... \end{awards}
+%- Entries look like: \entry{award}{year}
+%-
+
+\begin{awards}
+\entry{award}{date}
+\end{awards}
+
+%-
+%- Now the publications.
+%- I broke it 3 parts: journal, conference, and `submitted_to'.
+%- Use as:   \begin{jpubs} \item ... \item ... \end{jpubs}
+%-           \begin{cpubs} \item ... \item ... \end{cpubs}
+%-           \begin{spubs} \item ... \item ... \end{spubs}
+%- Example:
+%-
+
+%\begin{jpubs}
+%\item V.V. Dimakopoulos, G. Sourtziotis, A. Paschalis and D. Nikolos,
+%   ``On TSC Checkers for $m$-out-of-$n$ Codes'',
+%   {\it IEEE Transactions on Computers\/},
+%   Vol.\ 44, No.\ 8, pp.\ 1055--1059, Aug.\ 1995.
+%\item Another one, ...
+%\end{jpubs}
+
+%\begin{cpubs}
+%\item V.V. Dimakopoulos and N.J. Dimopoulos, ``Optimal Total Exchange
+%   in Cayley Graphs'', {\itshape submitted to\/} SIAM Journal on
+%   Computing.
+%\end{cpubs}
+
+%\begin{spubs}
+%\item V.V. Dimakopoulos and N.J. Dimopoulos, ``Optimal Total Exchange
+%   in Cayley Graphs'', {\itshape submitted to\/} SIAM Journal on
+%   Computing.
+%\end{spubs}
+
+
+%--------------------------------------------------------------
+%- We can also produce the copyright and the withhold page.
+%- These pages are unnumbered and should be printed at the
+%- end. To construct the withhold page we need to know when
+%- the successful defence was held. Also need the date for
+%- the copyright page.
+%--------------------------------------------------------------
+
+\makecopyrightpage{21 April 2015}   %- Date below signature
+%\makewithholdpage{30 Jan 2002}  %- When we defended
+
+\end{document}
