@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.9)  18 MAR 2015 18:27
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.9)  18 MAR 2015 19:51
 entering extended mode
 **thesis1.tex
 (C:\Users\elenavoyl\git\thesis\thesis1.tex
@@ -274,11 +274,8 @@ Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 (C:\Users\elenavoyl\git\thesis\chapters/3/methodology.aux)
 (C:\Users\elenavoyl\git\thesis\chapters/2/chapter_related_work.aux)
 (C:\Users\elenavoyl\git\thesis\chapters/4/old_framework.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/5/framework.aux
-
-LaTeX Warning: Label `table:curation_support' multiply defined.
-
-) (C:\Users\elenavoyl\git\thesis\chapters/12/evaluation.aux)
+(C:\Users\elenavoyl\git\thesis\chapters/5/framework.aux)
+(C:\Users\elenavoyl\git\thesis\chapters/12/evaluation.aux)
 (C:\Users\elenavoyl\git\thesis\chapters/6/application.aux)
 (C:\Users\elenavoyl\git\thesis\chapters/7/implications.aux)
 (C:\Users\elenavoyl\git\thesis\chapters/9/future_work.aux)
@@ -413,23 +410,18 @@ Chapter 1.
 
 ] [2]) [3] (C:\Users\elenavoyl\git\thesis\chapters/3/methodology.tex
 Chapter 2.
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--6
-
- []
-
 <images/Methodology.png, id=43, 485.56406pt x 264.99pt>
 File: images/Methodology.png Graphic file (type png)
 
 <use images/Methodology.png>
-Package pdftex.def Info: images/Methodology.png used on input line 10.
+Package pdftex.def Info: images/Methodology.png used on input line 8.
 (pdftex.def)             Requested size: 433.62001pt x 236.64095pt.
  [4
 
 
 
 ] [5 <C:/Users/elenavoyl/git/thesis/images/Methodology.png>] [6]
-Overfull \hbox (15.91763pt too wide) in paragraph at lines 51--98
+Overfull \hbox (15.91763pt too wide) in paragraph at lines 50--97
 [][] 
  []
 
@@ -446,163 +438,169 @@ Chapter 4.
 
 
 
-] [18] [19]
-Overfull \hbox (3.51765pt too wide) in paragraph at lines 47--86
+] [18] [19] [20]
+Overfull \hbox (3.51765pt too wide) in paragraph at lines 49--89
  [][] 
  []
 
-) [20] [21] (C:\Users\elenavoyl\git\thesis\chapters/5/framework.tex
+) [21] [22] (C:\Users\elenavoyl\git\thesis\chapters/5/framework.tex
 Chapter 5.
-[22
+[23
 
 
 
-] <images/framework_overview.png, id=108, 460.72125pt x 361.35pt>
+] <images/framework_overview.png, id=112, 460.72125pt x 361.35pt>
 File: images/framework_overview.png Graphic file (type png)
 
 <use images/framework_overview.png>
-Package pdftex.def Info: images/framework_overview.png used on input line 17.
+Package pdftex.def Info: images/framework_overview.png used on input line 18.
 (pdftex.def)             Requested size: 433.62001pt x 340.09361pt.
- [23 <C:/Users/elenavoyl/git/thesis/images/framework_overview.png>]
-Overfull \hbox (5.84578pt too wide) in paragraph at lines 23--23
+ [24 <C:/Users/elenavoyl/git/thesis/images/framework_overview.png>]
+Overfull \hbox (5.84578pt too wide) in paragraph at lines 24--24
 []\OT1/cmr/bx/n/17.28 Motives Be-hind In-for-ma-tion Dis-cov-ery and Cu-
  []
 
-<images/motives.png, id=114, 241.65282pt x 104.64093pt>
+<images/motives.png, id=117, 241.65282pt x 104.64093pt>
 File: images/motives.png Graphic file (type png)
 
 <use images/motives.png>
-Package pdftex.def Info: images/motives.png used on input line 29.
+Package pdftex.def Info: images/motives.png used on input line 30.
 (pdftex.def)             Requested size: 241.65222pt x 104.64066pt.
- [24
+ [25
 
- <C:/Users/elenavoyl/git/thesis/images/motives.png>] [25] <images/enablers.png,
- id=122, 238.64156pt x 105.39375pt>
+ <C:/Users/elenavoyl/git/thesis/images/motives.png>] [26] <images/enablers.png,
+ id=125, 238.64156pt x 105.39375pt>
 File: images/enablers.png Graphic file (type png)
 
 <use images/enablers.png>
-Package pdftex.def Info: images/enablers.png used on input line 73.
+Package pdftex.def Info: images/enablers.png used on input line 74.
 (pdftex.def)             Requested size: 238.64096pt x 105.39348pt.
- [26]
-<images/framework_enablers.png, id=126, 394.47375pt x 489.32813pt>
+ [27]
+<images/framework_enablers.png, id=129, 394.47375pt x 489.32813pt>
 File: images/framework_enablers.png Graphic file (type png)
 
 <use images/framework_enablers.png>
-Package pdftex.def Info: images/framework_enablers.png used on input line 82.
+Package pdftex.def Info: images/framework_enablers.png used on input line 86.
 (pdftex.def)             Requested size: 433.62001pt x 537.88927pt.
- [27 <C:/Users/elenavoyl/git/thesis/images/enablers.png>]
-Overfull \vbox (22.21272pt too high) has occurred while \output is active []
+ [28 <C:/Users/elenavoyl/git/thesis/images/enablers.png>] [29 <C:/Users/elenavo
+yl/git/thesis/images/framework_enablers.png>] [30
 
-
-[28 <C:/Users/elenavoyl/git/thesis/images/framework_enablers.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 112--112
+]
+Underfull \hbox (badness 10000) in paragraph at lines 131--131
 []|\OT1/cmr/m/n/12 Integrated op-por-tunis-tic
  []
 
 
-Overfull \hbox (25.19997pt too wide) in paragraph at lines 96--122
+Overfull \hbox (25.19997pt too wide) in paragraph at lines 114--143
 [][] 
  []
 
-[29] [30]
-Overfull \hbox (20.5261pt too wide) in paragraph at lines 156--156
+[31] [32]
+Overfull \hbox (20.5261pt too wide) in paragraph at lines 159--159
 []\OT1/cmr/bx/n/14.4 Exploration in Dis-cov-ery: Ex-am-in-ing In-for-ma-tion Pa
 tches 
  []
 
 
-Overfull \hbox (3.51764pt too wide) in paragraph at lines 161--183
+Overfull \hbox (3.51764pt too wide) in paragraph at lines 174--198
 [][] 
  []
 
-[31] [32]
-Underfull \hbox (badness 2027) in paragraph at lines 212--212
+[33] [34] [35
+
+] [36]
+Underfull \hbox (badness 2027) in paragraph at lines 248--248
 []|\OT1/cmr/m/n/12 Collection-based cat-e-go-
  []
 
 
-Underfull \hbox (badness 1616) in paragraph at lines 215--215
+Underfull \hbox (badness 1616) in paragraph at lines 251--251
 []|\OT1/cmr/m/n/12 Internal preser-va-tion of
  []
 
 
-Underfull \hbox (badness 1616) in paragraph at lines 216--216
+Underfull \hbox (badness 1616) in paragraph at lines 252--252
 []|\OT1/cmr/m/n/12 Internal preser-va-tion of
  []
 
 
-Overfull \hbox (3.51765pt too wide) in paragraph at lines 207--231
+Overfull \hbox (3.51765pt too wide) in paragraph at lines 242--269
 [][] 
  []
 
-[33] [34] [35] [36]
-<images/enhancement.png, id=161, 316.18124pt x 111.41624pt>
+[37] [38
+
+] <images/enhancement.png, id=167, 316.18124pt x 111.41624pt>
 File: images/enhancement.png Graphic file (type png)
 
 <use images/enhancement.png>
-Package pdftex.def Info: images/enhancement.png used on input line 282.
+Package pdftex.def Info: images/enhancement.png used on input line 291.
 (pdftex.def)             Requested size: 316.18047pt x 111.41597pt.
- [37 <C:/Users/elenavoyl/git/thesis/images/enhancement.png>]
-Underfull \hbox (badness 5189) in paragraph at lines 306--306
+ [39
+
+ <C:/Users/elenavoyl/git/thesis/images/enhancement.png>]
+Underfull \hbox (badness 5189) in paragraph at lines 311--311
 []|\OT1/cmr/m/n/12 Support, au-toma-tion, and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 317--317
+Underfull \hbox (badness 10000) in paragraph at lines 325--325
 []|\OT1/cmr/m/n/12 Personalized op-por-tunis-tic
  []
 
 
-Underfull \hbox (badness 1558) in paragraph at lines 321--321
+Underfull \hbox (badness 1558) in paragraph at lines 330--330
 []|\OT1/cmr/m/n/12 Application ac-tiv-ity up-date
  []
 
 
-Overfull \hbox (3.52426pt too wide) in paragraph at lines 304--326
+Overfull \hbox (3.52426pt too wide) in paragraph at lines 309--335
 [][] 
  []
 
-
-Underfull \hbox (badness 5519) in paragraph at lines 344--344
+[40]
+Underfull \hbox (badness 5519) in paragraph at lines 358--358
 []|\OT1/cmr/m/n/12 Personalized tex-tual pre-
  []
 
 
-Underfull \hbox (badness 3590) in paragraph at lines 351--351
+Underfull \hbox (badness 3590) in paragraph at lines 367--367
 \OT1/cmr/m/n/12 in-for-ma-tion within a re-
  []
 
 
-Overfull \hbox (3.51764pt too wide) in paragraph at lines 338--354
+Overfull \hbox (3.51764pt too wide) in paragraph at lines 351--371
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 364--364
+Underfull \hbox (badness 10000) in paragraph at lines 381--381
 []|\OT1/cmr/m/n/12 Cognitive sup-port,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 364--364
+Underfull \hbox (badness 10000) in paragraph at lines 381--381
 \OT1/cmr/m/n/12 per-son-al-iza-tion, and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 375--375
+Underfull \hbox (badness 10000) in paragraph at lines 394--394
 []|\OT1/cmr/m/n/12 Automated aug-men-ta-
  []
 
 
-Underfull \hbox (badness 2302) in paragraph at lines 382--382
+Underfull \hbox (badness 2302) in paragraph at lines 403--403
 []|\OT1/cmr/m/n/12 Suggesting ar-ti-facts for
  []
 
 
-Overfull \hbox (3.51765pt too wide) in paragraph at lines 362--387
+Overfull \hbox (3.51765pt too wide) in paragraph at lines 379--408
 [][] 
  []
 
-[38] [39] [40]) [41] (C:\Users\elenavoyl\git\thesis\chapters/12/evaluation.tex
+[41
+
+] [42] [43]) [44] (C:\Users\elenavoyl\git\thesis\chapters/12/evaluation.tex
 Chapter 6.
 
 Overfull \hbox (1.28242pt too wide) in paragraph at lines 11--12
@@ -610,24 +608,24 @@ Overfull \hbox (1.28242pt too wide) in paragraph at lines 11--12
 onal, ref-er-en-tial, or system-
  []
 
-[42
+[45
 
 
 
-] [43] [44] [45] [46] [47] [48]) [49]
+] [46] [47] [48] [49] [50] [51]) [52]
 (C:\Users\elenavoyl\git\thesis\chapters/6/application.tex
 Chapter 7.
-[50
+[53
 
 
 
-] [51] [52] <images/keeplaces.png, id=213, 433.62pt x 194.22563pt>
+] [54] [55] <images/keeplaces.png, id=223, 433.62pt x 194.22563pt>
 File: images/keeplaces.png Graphic file (type png)
 
 <use images/keeplaces.png>
-Package pdftex.def Info: images/keeplaces.png used on input line 48.
+Package pdftex.def Info: images/keeplaces.png used on input line 50.
 (pdftex.def)             Requested size: 433.62001pt x 194.23402pt.
- [53 <C:/Users/elenavoyl/git/thesis/images/keeplaces.png>]) [54] (C:\Users\elen
+ [56 <C:/Users/elenavoyl/git/thesis/images/keeplaces.png>]) [57] (C:\Users\elen
 avoyl\git\thesis\chapters/7/implications.tex
 Chapter 8.
 
@@ -636,54 +634,39 @@ Overfull \hbox (5.9083pt too wide) in paragraph at lines 10--11
 -vel-op-ing ap-pli-ca-tions. There-
  []
 
-[55
+[58
 
 
 
-]) [56] (C:\Users\elenavoyl\git\thesis\chapters/9/future_work.tex
+]) [59] (C:\Users\elenavoyl\git\thesis\chapters/9/future_work.tex
 Chapter 9.
-[57
+[60
 
 
 
-]) [58] (C:\Users\elenavoyl\git\thesis\thesis1.bbl [59
+]) [61] (C:\Users\elenavoyl\git\thesis\thesis1.bbl [62
 
 
-] [60]
+] [63]
 Missing character: There is no â in font cmti12!
 Missing character: There is no € in font cmti12!
 Missing character: There is no ” in font cmti12!
- [61] [62]
-[63]) [64] (C:\Users\elenavoyl\git\thesis\chapters/appendix/appendix_tools.tex
+ [64] [65]
+[66]) [67] (C:\Users\elenavoyl\git\thesis\chapters/appendix/appendix_tools.tex
 Appendix A.
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
 []|\OT1/cmr/m/n/12 - Sup-ports serendip-i-tous brows-ing,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
 \OT1/cmr/m/n/12 bookmark-based re-dis-cov-ery, channel-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--19
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
 []|\OT1/cmr/m/n/12 - Sup-ports channel-based dis-cov-ery,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--23
-[]|\OT1/cmr/m/n/12 - Sup-ports serendip-i-tous brows-ing,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--23
-\OT1/cmr/m/n/12 bookmark-based re-dis-cov-ery, channel-
- []
-
-
-Overfull \hbox (0.78793pt too wide) in paragraph at lines 26--26
-[]|\OT1/cmr/m/n/12 StumbleUpon| 
  []
 
 
@@ -692,48 +675,53 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--27
  []
 
 
-Underfull \hbox (badness 7468) in paragraph at lines 26--27
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+\OT1/cmr/m/n/12 bookmark-based re-dis-cov-ery, channel-
+ []
+
+
+Overfull \hbox (0.78793pt too wide) in paragraph at lines 30--30
+[]|\OT1/cmr/m/n/12 StumbleUpon| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+[]|\OT1/cmr/m/n/12 - Sup-ports serendip-i-tous brows-ing,
+ []
+
+
+Underfull \hbox (badness 7468) in paragraph at lines 30--31
 \OT1/cmr/m/n/12 re-dis-cov-ery, channel-based in-for-ma-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
 \OT1/cmr/m/n/12 bookmark-based re-dis-cov-ery, per-sonal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
 []|\OT1/cmr/m/n/12 Rotten
  []
 
 
-Overfull \hbox (0.53215pt too wide) in paragraph at lines 40--40
+Overfull \hbox (0.53215pt too wide) in paragraph at lines 44--44
 \OT1/cmr/m/n/12 www.rottentomatoes.com|  
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 45--46
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
 []|\OT1/cmr/m/n/12 - Sup-ports serendip-i-tous brows-ing,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 45--46
-\OT1/cmr/m/n/12 channel-based dis-cov-ery, and so-cial
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 49--50
+\OT1/cmr/m/n/12 channel-based dis-cov-ery, and so-cial
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
 []|\OT1/cmr/m/n/12 - Sup-ports serendip-i-tous dis-cov-ery,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--54
-[]|\OT1/cmr/m/n/12 - Sup-ports serendip-i-tous brows-ing,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--54
-\OT1/cmr/m/n/12 bookmark-based re-dis-cov-ery, channel-
  []
 
 
@@ -742,92 +730,102 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--58
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--61
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+\OT1/cmr/m/n/12 bookmark-based re-dis-cov-ery, channel-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+[]|\OT1/cmr/m/n/12 - Sup-ports serendip-i-tous brows-ing,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
 []|\OT1/cmr/m/n/12 Google Im-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--66
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
 []|\OT1/cmr/m/n/12 - Sup-ports serendip-i-tous dis-cov-ery,
  []
 
 
-Underfull \hbox (badness 7704) in paragraph at lines 73--74
+Underfull \hbox (badness 7704) in paragraph at lines 77--78
 []|\OT1/cmr/m/n/12 - Al-lows for serendip-i-tous dis-cov-ery,
  []
 
 
-Underfull \hbox (badness 6559) in paragraph at lines 73--74
+Underfull \hbox (badness 6559) in paragraph at lines 77--78
 \OT1/cmr/m/n/12 channel-based dis-cov-ery, history- and
  []
 
 
-Underfull \hbox (badness 2469) in paragraph at lines 77--78
+Underfull \hbox (badness 2469) in paragraph at lines 81--82
 []|\OT1/cmr/m/n/12 - Sup-ports fact find-ing, serendip-i-tous
  []
 
 
-Overfull \hbox (20.25807pt too wide) in alignment at lines 3--88
+Overfull \hbox (20.25807pt too wide) in alignment at lines 6--92
  [] [] [] 
  []
 
 
-Overfull \hbox (20.25807pt too wide) in alignment at lines 88--97
+Overfull \hbox (20.25807pt too wide) in alignment at lines 92--101
  [] [] [] 
  []
 
-[65
+[68
 
 
-] [66] [67]) [68]
+] [69] [70]) [71]
 (C:\Users\elenavoyl\git\thesis\chapters/appendix/appendix_features.tex
 Appendix B.
-<images/search.png, id=266, 611.28375pt x 54.9553pt>
+<images/search.png, id=276, 611.28375pt x 54.9553pt>
 File: images/search.png Graphic file (type png)
  <use images/search.png>
 Package pdftex.def Info: images/search.png used on input line 12.
 (pdftex.def)             Requested size: 390.25536pt x 35.08405pt.
 
-<images/integrated_search.png, id=267, 1021.56656pt x 121.95563pt>
+<images/integrated_search.png, id=277, 1021.56656pt x 121.95563pt>
 File: images/integrated_search.png Graphic file (type png)
 
 <use images/integrated_search.png>
 Package pdftex.def Info: images/integrated_search.png used on input line 16.
 (pdftex.def)             Requested size: 390.25536pt x 46.58739pt.
 
-<images/categories.png, id=268, 325.96782pt x 281.55188pt>
+<images/categories.png, id=278, 325.96782pt x 281.55188pt>
 File: images/categories.png Graphic file (type png)
 
 <use images/categories.png>
 Package pdftex.def Info: images/categories.png used on input line 25.
 (pdftex.def)             Requested size: 273.17755pt x 235.97353pt.
 
-<images/facets.png, id=269, 167.12437pt x 134.00063pt>
+<images/facets.png, id=279, 167.12437pt x 134.00063pt>
 File: images/facets.png Graphic file (type png)
  <use images/facets.png>
 Package pdftex.def Info: images/facets.png used on input line 29.
 (pdftex.def)             Requested size: 156.09975pt x 125.17133pt.
 
-<images/filters.png, id=270, 96.36pt x 103.13531pt>
+<images/filters.png, id=280, 96.36pt x 103.13531pt>
 File: images/filters.png Graphic file (type png)
  <use images/filters.png>
 Package pdftex.def Info: images/filters.png used on input line 36.
 (pdftex.def)             Requested size: 117.07779pt x 125.31026pt.
 
-<images/tags.png, id=271, 161.85469pt x 135.50626pt>
+<images/tags.png, id=281, 161.85469pt x 135.50626pt>
 File: images/tags.png Graphic file (type png)
  <use images/tags.png>
 Package pdftex.def Info: images/tags.png used on input line 40.
 (pdftex.def)             Requested size: 117.07779pt x 98.01929pt.
 
-<images/resource.png, id=272, 102.3825pt x 54.2025pt>
+<images/resource.png, id=282, 102.3825pt x 54.2025pt>
 File: images/resource.png Graphic file (type png)
 
 <use images/resource.png>
 Package pdftex.def Info: images/resource.png used on input line 44.
 (pdftex.def)             Requested size: 117.07779pt x 61.98666pt.
 
-<images/integrated_reference.png, id=273, 293.59688pt x 107.65219pt>
+<images/integrated_reference.png, id=283, 293.59688pt x 107.65219pt>
 File: images/integrated_reference.png Graphic file (type png)
 
 <use images/integrated_reference.png>
@@ -835,19 +833,19 @@ Package pdftex.def Info: images/integrated_reference.png used on input line 49.
 
 (pdftex.def)             Requested size: 312.20547pt x 114.47543pt.
 
-<images/opportunistic.png, id=274, 117.43875pt x 112.16907pt>
+<images/opportunistic.png, id=284, 117.43875pt x 112.16907pt>
 File: images/opportunistic.png Graphic file (type png)
 
 <use images/opportunistic.png>
 Package pdftex.def Info: images/opportunistic.png used on input line 59.
 (pdftex.def)             Requested size: 117.07779pt x 111.82475pt.
- [69
+ [72
 
 
 
  <C:/Users/elenavoyl/git/thesis/images/search.png> <C:/Users/elenavoyl/git/thes
 is/images/integrated_search.png>]
-<images/integrated_opportunistic.png, id=280, 213.79875pt x 30.1125pt>
+<images/integrated_opportunistic.png, id=290, 213.79875pt x 30.1125pt>
 File: images/integrated_opportunistic.png Graphic file (type png)
 
 <use images/integrated_opportunistic.png>
@@ -855,259 +853,259 @@ Package pdftex.def Info: images/integrated_opportunistic.png used on input line
  63.
 (pdftex.def)             Requested size: 195.12767pt x 27.4828pt.
 
-<images/static_display.png, id=281, 670.75594pt x 295.85532pt>
+<images/static_display.png, id=291, 670.75594pt x 295.85532pt>
 File: images/static_display.png Graphic file (type png)
 
 <use images/static_display.png>
 Package pdftex.def Info: images/static_display.png used on input line 70.
 (pdftex.def)             Requested size: 390.25536pt x 172.1334pt.
 
-<images/featured.png, id=282, 485.56406pt x 257.46187pt>
+<images/featured.png, id=292, 485.56406pt x 257.46187pt>
 File: images/featured.png Graphic file (type png)
 
 <use images/featured.png>
 Package pdftex.def Info: images/featured.png used on input line 77.
 (pdftex.def)             Requested size: 390.25536pt x 206.9244pt.
- <images/news.png, id=283, 426.09187pt x 233.37187pt>
+ <images/news.png, id=293, 426.09187pt x 233.37187pt>
 File: images/news.png Graphic file (type png)
 
 <use images/news.png>
 Package pdftex.def Info: images/news.png used on input line 81.
 (pdftex.def)             Requested size: 273.17755pt x 149.62811pt.
- [70 <C:/Users/elenavoyl/git/thesis/images/categories.png> <C:/Users/elenavoyl/
-git/thesis/images/facets.png>] [71 <C:/Users/elenavoyl/git/thesis/images/filter
+ [73 <C:/Users/elenavoyl/git/thesis/images/categories.png> <C:/Users/elenavoyl/
+git/thesis/images/facets.png>] [74 <C:/Users/elenavoyl/git/thesis/images/filter
 s.png> <C:/Users/elenavoyl/git/thesis/images/tags.png> <C:/Users/elenavoyl/git/
 thesis/images/resource.png> <C:/Users/elenavoyl/git/thesis/images/integrated_re
-ference.png>] [72 <C:/Users/elenavoyl/git/thesis/images/opportunistic.png> <C:/
+ference.png>] [75 <C:/Users/elenavoyl/git/thesis/images/opportunistic.png> <C:/
 Users/elenavoyl/git/thesis/images/integrated_opportunistic.png> <C:/Users/elena
-voyl/git/thesis/images/static_display.png>] [73 <C:/Users/elenavoyl/git/thesis/
+voyl/git/thesis/images/static_display.png>] [76 <C:/Users/elenavoyl/git/thesis/
 images/featured.png> <C:/Users/elenavoyl/git/thesis/images/news.png>] <images/v
-isual_preview.png, id=308, 581.92406pt x 368.1253pt>
+isual_preview.png, id=317, 581.92406pt x 368.1253pt>
 File: images/visual_preview.png Graphic file (type png)
 
 <use images/visual_preview.png>
 Package pdftex.def Info: images/visual_preview.png used on input line 95.
 (pdftex.def)             Requested size: 312.20547pt x 197.504pt.
 
-<images/textual_preview.png, id=309, 343.2825pt x 266.49562pt>
+<images/textual_preview.png, id=318, 343.2825pt x 266.49562pt>
 File: images/textual_preview.png Graphic file (type png)
 
 <use images/textual_preview.png>
 Package pdftex.def Info: images/textual_preview.png used on input line 99.
 (pdftex.def)             Requested size: 312.20547pt x 242.36906pt.
 
-<images/visual_cue.png, id=310, 472.76625pt x 124.96687pt>
+<images/visual_cue.png, id=319, 472.76625pt x 124.96687pt>
 File: images/visual_cue.png Graphic file (type png)
 
 <use images/visual_cue.png>
 Package pdftex.def Info: images/visual_cue.png used on input line 108.
 (pdftex.def)             Requested size: 390.25536pt x 103.15996pt.
 
-<images/textual_cue.png, id=311, 297.36093pt x 79.04532pt>
+<images/textual_cue.png, id=320, 297.36093pt x 79.04532pt>
 File: images/textual_cue.png Graphic file (type png)
 
 <use images/textual_cue.png>
 Package pdftex.def Info: images/textual_cue.png used on input line 113.
 (pdftex.def)             Requested size: 234.1556pt x 62.24367pt.
 
-<images/list.png, id=312, 286.06876pt x 213.79875pt>
+<images/list.png, id=321, 286.06876pt x 213.79875pt>
 File: images/list.png Graphic file (type png)
  <use images/list.png>
 Package pdftex.def Info: images/list.png used on input line 120.
 (pdftex.def)             Requested size: 234.1556pt x 175.00291pt.
 
-<images/grid.png, id=313, 481.04718pt x 350.81062pt>
+<images/grid.png, id=322, 481.04718pt x 350.81062pt>
 File: images/grid.png Graphic file (type png)
  <use images/grid.png>
 Package pdftex.def Info: images/grid.png used on input line 127.
 (pdftex.def)             Requested size: 390.25536pt x 284.60468pt.
 
-<images/gallery.png, id=314, 968.11688pt x 452.4403pt>
+<images/gallery.png, id=323, 968.11688pt x 452.4403pt>
 File: images/gallery.png Graphic file (type png)
 
 <use images/gallery.png>
 Package pdftex.def Info: images/gallery.png used on input line 131.
 (pdftex.def)             Requested size: 390.25536pt x 182.38127pt.
 
-<images/semantic_multiple.png, id=315, 800.23969pt x 539.76656pt>
+<images/semantic_multiple.png, id=324, 800.23969pt x 539.76656pt>
 File: images/semantic_multiple.png Graphic file (type png)
 
 <use images/semantic_multiple.png>
 Package pdftex.def Info: images/semantic_multiple.png used on input line 137.
 (pdftex.def)             Requested size: 234.1556pt x 157.93668pt.
- [74
+ [77
 
  <C:/Users/elenavoyl/git/thesis/images/visual_preview.png> <C:/Users/elenavoyl/
 git/thesis/images/textual_preview.png>]
-<images/semantic_single.png, id=321, 855.195pt x 444.15938pt>
+<images/semantic_single.png, id=331, 855.195pt x 444.15938pt>
 File: images/semantic_single.png Graphic file (type png)
 
 <use images/semantic_single.png>
 Package pdftex.def Info: images/semantic_single.png used on input line 142.
 (pdftex.def)             Requested size: 390.25536pt x 202.68245pt.
- [75 <C:/Users/elenavoyl/git/thesis/images/visual_cue.png> <C:/Users/elenavoyl/
+ [78 <C:/Users/elenavoyl/git/thesis/images/visual_cue.png> <C:/Users/elenavoyl/
 git/thesis/images/textual_cue.png> <C:/Users/elenavoyl/git/thesis/images/list.p
-ng>] [76 <C:/Users/elenavoyl/git/thesis/images/grid.png> <C:/Users/elenavoyl/gi
-t/thesis/images/gallery.png>] [77 <C:/Users/elenavoyl/git/thesis/images/semanti
+ng>] [79 <C:/Users/elenavoyl/git/thesis/images/grid.png> <C:/Users/elenavoyl/gi
+t/thesis/images/gallery.png>] [80 <C:/Users/elenavoyl/git/thesis/images/semanti
 c_multiple.png> <C:/Users/elenavoyl/git/thesis/images/semantic_single.png>]
-<images/collection.png, id=339, 752.8125pt x 231.86626pt>
+<images/collection.png, id=348, 752.8125pt x 231.86626pt>
 File: images/collection.png Graphic file (type png)
 
 <use images/collection.png>
 Package pdftex.def Info: images/collection.png used on input line 156.
 (pdftex.def)             Requested size: 390.25536pt x 120.20319pt.
 
-<images/tagging.png, id=340, 240.9pt x 203.25937pt>
+<images/tagging.png, id=349, 240.9pt x 203.25937pt>
 File: images/tagging.png Graphic file (type png)
  <use images/tagging.png>
 Package pdftex.def Info: images/tagging.png used on input line 160.
 (pdftex.def)             Requested size: 156.09975pt x 131.71382pt.
 
-<images/internal_internal.png, id=341, 250.68657pt x 42.1575pt>
+<images/internal_internal.png, id=350, 250.68657pt x 42.1575pt>
 File: images/internal_internal.png Graphic file (type png)
 
 <use images/internal_internal.png>
 Package pdftex.def Info: images/internal_internal.png used on input line 167.
 (pdftex.def)             Requested size: 273.17755pt x 45.94495pt.
 
-<images/internal_external.png, id=342, 169.38281pt x 155.83218pt>
+<images/internal_external.png, id=351, 169.38281pt x 155.83218pt>
 File: images/internal_external.png Graphic file (type png)
 
 <use images/internal_external.png>
 Package pdftex.def Info: images/internal_external.png used on input line 174.
 (pdftex.def)             Requested size: 156.09975pt x 143.61702pt.
 
-<images/external_internal.png, id=343, 460.72125pt x 278.54062pt>
+<images/external_internal.png, id=352, 460.72125pt x 278.54062pt>
 File: images/external_internal.png Graphic file (type png)
 
 <use images/external_internal.png>
 Package pdftex.def Info: images/external_internal.png used on input line 178.
 (pdftex.def)             Requested size: 273.17755pt x 165.15356pt.
 
-<images/annotation.png, id=344, 490.83376pt x 180.675pt>
+<images/annotation.png, id=353, 490.83376pt x 180.675pt>
 File: images/annotation.png Graphic file (type png)
 
 <use images/annotation.png>
 Package pdftex.def Info: images/annotation.png used on input line 185.
 (pdftex.def)             Requested size: 273.17755pt x 100.55975pt.
 
-<images/EVALUATION.png, id=345, 179.16937pt x 77.53969pt>
+<images/EVALUATION.png, id=354, 179.16937pt x 77.53969pt>
 File: images/EVALUATION.png Graphic file (type png)
 
 <use images/EVALUATION.png>
 Package pdftex.def Info: images/EVALUATION.png used on input line 191.
 (pdftex.def)             Requested size: 156.09975pt x 67.55952pt.
 
-<images/adding.png, id=346, 183.68625pt x 29.35968pt>
+<images/adding.png, id=355, 183.68625pt x 29.35968pt>
 File: images/adding.png Graphic file (type png)
  <use images/adding.png>
 Package pdftex.def Info: images/adding.png used on input line 199.
 (pdftex.def)             Requested size: 195.12767pt x 31.19052pt.
 
-[78
+[81
 
  <C:/Users/elenavoyl/git/thesis/images/collection.png> <C:/Users/elenavoyl/git/
 thesis/images/tagging.png> <C:/Users/elenavoyl/git/thesis/images/internal_inter
-nal.png>] <images/internal_sharing.png, id=353, 175.40532pt x 58.71938pt>
+nal.png>] <images/internal_sharing.png, id=362, 175.40532pt x 58.71938pt>
 File: images/internal_sharing.png Graphic file (type png)
 
 <use images/internal_sharing.png>
 Package pdftex.def Info: images/internal_sharing.png used on input line 203.
 (pdftex.def)             Requested size: 195.12767pt x 65.32619pt.
 
-<images/external_sharing.png, id=354, 448.67625pt x 158.09062pt>
+<images/external_sharing.png, id=363, 448.67625pt x 158.09062pt>
 File: images/external_sharing.png Graphic file (type png)
 
 <use images/external_sharing.png>
 Package pdftex.def Info: images/external_sharing.png used on input line 207.
 (pdftex.def)             Requested size: 351.22743pt x 123.75885pt.
 
-<images/user.png, id=355, 91.84312pt x 37.64063pt>
+<images/user.png, id=364, 91.84312pt x 37.64063pt>
 File: images/user.png Graphic file (type png)
  <use images/user.png>
 Package pdftex.def Info: images/user.png used on input line 216.
 (pdftex.def)             Requested size: 117.07779pt x 47.98625pt.
 
-<images/site.png, id=356, 491.58656pt x 46.67438pt>
+<images/site.png, id=365, 491.58656pt x 46.67438pt>
 File: images/site.png Graphic file (type png)
  <use images/site.png>
 Package pdftex.def Info: images/site.png used on input line 220.
 (pdftex.def)             Requested size: 351.22743pt x 33.3491pt.
 
-<images/artifact.png, id=357, 85.82062pt x 34.62938pt>
+<images/artifact.png, id=366, 85.82062pt x 34.62938pt>
 File: images/artifact.png Graphic file (type png)
 
 <use images/artifact.png>
 Package pdftex.def Info: images/artifact.png used on input line 223.
 (pdftex.def)             Requested size: 117.07779pt x 47.24167pt.
- [79 <C:/Users/elenavoyl/git/thesis/images/internal_external.png> <C:/Users/ele
+ [82 <C:/Users/elenavoyl/git/thesis/images/internal_external.png> <C:/Users/ele
 navoyl/git/thesis/images/external_internal.png> <C:/Users/elenavoyl/git/thesis/
-images/annotation.png>] [80 <C:/Users/elenavoyl/git/thesis/images/EVALUATION.pn
+images/annotation.png>] [83 <C:/Users/elenavoyl/git/thesis/images/EVALUATION.pn
 g> <C:/Users/elenavoyl/git/thesis/images/adding.png> <C:/Users/elenavoyl/git/th
 esis/images/internal_sharing.png> <C:/Users/elenavoyl/git/thesis/images/externa
-l_sharing.png>]) [81 <C:/Users/elenavoyl/git/thesis/images/user.png> <C:/Users/
+l_sharing.png>]) [84 <C:/Users/elenavoyl/git/thesis/images/user.png> <C:/Users/
 elenavoyl/git/thesis/images/site.png> <C:/Users/elenavoyl/git/thesis/images/art
 ifact.png>]
 (C:\Users\elenavoyl\git\thesis\chapters/appendix/appendix_keeplaces.tex
 Appendix C.
-<images/kp_search.png, id=377, 211.54031pt x 33.87656pt>
+<images/kp_search.png, id=387, 211.54031pt x 33.87656pt>
 File: images/kp_search.png Graphic file (type png)
 
 <use images/kp_search.png>
-Package pdftex.def Info: images/kp_search.png used on input line 10.
+Package pdftex.def Info: images/kp_search.png used on input line 11.
 (pdftex.def)             Requested size: 195.12767pt x 31.24898pt.
 
-<images/kp_categories.png, id=378, 133.24782pt x 146.79843pt>
+<images/kp_categories.png, id=388, 133.24782pt x 146.79843pt>
 File: images/kp_categories.png Graphic file (type png)
 
 <use images/kp_categories.png>
-Package pdftex.def Info: images/kp_categories.png used on input line 13.
+Package pdftex.def Info: images/kp_categories.png used on input line 14.
 (pdftex.def)             Requested size: 156.09975pt x 171.99089pt.
 
-<images/kp_reference.png, id=379, 94.85437pt x 24.09pt>
+<images/kp_reference.png, id=389, 94.85437pt x 24.09pt>
 File: images/kp_reference.png Graphic file (type png)
 
 <use images/kp_reference.png>
-Package pdftex.def Info: images/kp_reference.png used on input line 17.
+Package pdftex.def Info: images/kp_reference.png used on input line 18.
 (pdftex.def)             Requested size: 117.07779pt x 29.73451pt.
 
-<images/kp_featured.png, id=380, 1346.78156pt x 700.86844pt>
+<images/kp_featured.png, id=390, 1346.78156pt x 700.86844pt>
 File: images/kp_featured.png Graphic file (type png)
 
 <use images/kp_featured.png>
 Package pdftex.def Info: images/kp_featured.png used on input line 23.
 (pdftex.def)             Requested size: 390.25536pt x 203.08623pt.
 
-<images/kp_preview.png, id=381, 258.9675pt x 317.68687pt>
+<images/kp_preview.png, id=391, 258.9675pt x 317.68687pt>
 File: images/kp_preview.png Graphic file (type png)
 
 <use images/kp_preview.png>
 Package pdftex.def Info: images/kp_preview.png used on input line 27.
 (pdftex.def)             Requested size: 195.12767pt x 239.38432pt.
 
-<images/kp_collection.png, id=382, 470.50781pt x 245.41687pt>
+<images/kp_collection.png, id=392, 470.50781pt x 245.41687pt>
 File: images/kp_collection.png Graphic file (type png)
 
 <use images/kp_collection.png>
 Package pdftex.def Info: images/kp_collection.png used on input line 33.
 (pdftex.def)             Requested size: 312.20547pt x 162.84814pt.
 
-<images/kp_keep.png, id=383, 55.70813pt x 37.64063pt>
+<images/kp_keep.png, id=393, 55.70813pt x 37.64063pt>
 File: images/kp_keep.png Graphic file (type png)
  <use images/kp_keep.png>
 Package pdftex.def Info: images/kp_keep.png used on input line 37.
 (pdftex.def)             Requested size: 78.04987pt x 52.7407pt.
 
-[82
+[85
 
 
 
  <C:/Users/elenavoyl/git/thesis/images/kp_search.png> <C:/Users/elenavoyl/git/t
-hesis/images/kp_categories.png>] [83 <C:/Users/elenavoyl/git/thesis/images/kp_r
-eference.png>] [84 <C:/Users/elenavoyl/git/thesis/images/kp_featured.png> <C:/U
-sers/elenavoyl/git/thesis/images/kp_preview.png>]) [85 <C:/Users/elenavoyl/git/
-thesis/images/kp_collection.png> <C:/Users/elenavoyl/git/thesis/images/kp_keep.
-png>] (C:\Users\elenavoyl\git\thesis\thesis1.aux
+hesis/images/kp_categories.png> <C:/Users/elenavoyl/git/thesis/images/kp_refere
+nce.png>] [86 <C:/Users/elenavoyl/git/thesis/images/kp_featured.png> <C:/Users/
+elenavoyl/git/thesis/images/kp_preview.png>]) [87 <C:/Users/elenavoyl/git/thesi
+s/images/kp_collection.png> <C:/Users/elenavoyl/git/thesis/images/kp_keep.png>]
+ (C:\Users\elenavoyl\git\thesis\thesis1.aux
 (C:\Users\elenavoyl\git\thesis\chapters/1/chapter_intro.aux)
 (C:\Users\elenavoyl\git\thesis\chapters/3/methodology.aux)
 (C:\Users\elenavoyl\git\thesis\chapters/2/chapter_related_work.aux)
@@ -1119,24 +1117,20 @@ png>] (C:\Users\elenavoyl\git\thesis\thesis1.aux
 (C:\Users\elenavoyl\git\thesis\chapters/9/future_work.aux)
 (C:\Users\elenavoyl\git\thesis\chapters/appendix/appendix_tools.aux)
 (C:\Users\elenavoyl\git\thesis\chapters/appendix/appendix_features.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/appendix/appendix_keeplaces.aux))
-
-LaTeX Warning: There were multiply-defined labels.
-
- )
+(C:\Users\elenavoyl\git\thesis\chapters/appendix/appendix_keeplaces.aux)) )
 (\end occurred inside a group at level 2)
 
-### simple group (level 2) entered at line 40 ({)
+### simple group (level 2) entered at line 41 ({)
 ### simple group (level 1) entered at line 6 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 3951 strings out of 493921
- 59136 string characters out of 3144865
- 138665 words of memory out of 3000000
- 6997 multiletter control sequences out of 15000+200000
+ 3953 strings out of 493921
+ 59174 string characters out of 3144865
+ 138648 words of memory out of 3000000
+ 6999 multiletter control sequences out of 15000+200000
  17171 words of font info for 66 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 31i,12n,45p,1590b,423s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 31i,12n,46p,1590b,423s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
@@ -1146,9 +1140,9 @@ mr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
 b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/
 Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis1.pdf (93 pages, 8152676 bytes).
+Output written on thesis1.pdf (95 pages, 8161573 bytes).
 PDF statistics:
- 436 PDF objects out of 1000 (max. 8388607)
+ 442 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  246 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -24,46 +24,46 @@
 \contentsline {chapter}{\numberline {4}A Preliminary Framework for Information Discovery and Curation}{17}
 \contentsline {section}{\numberline {4.1}Preliminary Framework Composition}{17}
 \contentsline {section}{\numberline {4.2}Limitations of the Preliminary Framework}{19}
-\contentsline {chapter}{\numberline {5}A Conceptual Framework for Information Discovery and Curation on the Web}{22}
-\contentsline {section}{\numberline {5.1}Motives Behind Information Discovery and Curation}{24}
-\contentsline {subsection}{\numberline {5.1.1}Closing a Knowledge Gap}{24}
-\contentsline {subsection}{\numberline {5.1.2}Supporting Future Use and Reaccess}{25}
-\contentsline {subsection}{\numberline {5.1.3}Improving Collections}{26}
-\contentsline {subsection}{\numberline {5.1.4}Facilitating Communication}{26}
-\contentsline {subsection}{\numberline {5.1.5}Summary}{26}
-\contentsline {section}{\numberline {5.2}Discovery and Curation Activities, Actions, and Their Enablers}{27}
+\contentsline {chapter}{\numberline {5}A Conceptual Framework for Information Discovery and Curation on the Web}{23}
+\contentsline {section}{\numberline {5.1}Motives Behind Information Discovery and Curation}{25}
+\contentsline {subsection}{\numberline {5.1.1}Closing a Knowledge Gap}{25}
+\contentsline {subsection}{\numberline {5.1.2}Supporting Future Use and Reaccess}{26}
+\contentsline {subsection}{\numberline {5.1.3}Improving Collections}{27}
+\contentsline {subsection}{\numberline {5.1.4}Facilitating Communication}{27}
+\contentsline {subsection}{\numberline {5.1.5}Summary}{27}
+\contentsline {section}{\numberline {5.2}Discovery and Curation Activities, Actions, and Their Enablers}{28}
 \contentsline {subsection}{\numberline {5.2.1}Navigation in Discovery: Following Information Scent}{28}
 \contentsline {subsubsection}{Descriptional Navigation}{30}
 \contentsline {subsubsection}{Referential Navigation}{30}
-\contentsline {subsubsection}{Opportunistic Navigation}{31}
-\contentsline {subsubsection}{System-regulated Navigation}{31}
-\contentsline {subsection}{\numberline {5.2.2}Exploration in Discovery: Examining Information Patches}{32}
-\contentsline {subsection}{\numberline {5.2.3}Curation}{33}
-\contentsline {subsubsection}{Management}{34}
+\contentsline {subsubsection}{Opportunistic Navigation}{32}
+\contentsline {subsubsection}{System-regulated Navigation}{32}
+\contentsline {subsection}{\numberline {5.2.2}Exploration in Discovery: Examining Information Patches}{33}
+\contentsline {subsection}{\numberline {5.2.3}Curation}{35}
+\contentsline {subsubsection}{Management}{35}
 \contentsline {subsubsection}{Preservation}{35}
-\contentsline {subsubsection}{Augmentation}{35}
+\contentsline {subsubsection}{Augmentation}{36}
 \contentsline {subsubsection}{Sharing}{36}
-\contentsline {subsubsection}{Channel-picking}{36}
-\contentsline {subsection}{\numberline {5.2.4}Summary}{36}
-\contentsline {section}{\numberline {5.3}Enhancing Information Discovery and Curation Experience}{37}
-\contentsline {subsection}{\numberline {5.3.1}Enhancing Navigation}{37}
-\contentsline {subsection}{\numberline {5.3.2}Enhancing Exploration}{38}
-\contentsline {subsection}{\numberline {5.3.3}Enhancing Curation}{38}
-\contentsline {subsection}{\numberline {5.3.4}Summary}{40}
-\contentsline {chapter}{\numberline {6}Framework Validation}{42}
-\contentsline {section}{\numberline {6.1}Pinterest}{42}
-\contentsline {section}{\numberline {6.2}Google Maps}{44}
-\contentsline {section}{\numberline {6.3}Wikipedia}{45}
-\contentsline {section}{\numberline {6.4}Delicious}{47}
-\contentsline {section}{\numberline {6.5}Yelp}{48}
-\contentsline {section}{\numberline {6.6}Discussion}{49}
-\contentsline {chapter}{\numberline {7}Framework Application for Design}{50}
-\contentsline {section}{\numberline {7.1}Applying the Conceptual Framework to Design an Application}{50}
-\contentsline {section}{\numberline {7.2}KeePlaces Features and Future Prospects}{51}
-\contentsline {section}{\numberline {7.3}Discussion}{54}
-\contentsline {chapter}{\numberline {8}Research and Design Implications}{55}
-\contentsline {chapter}{\numberline {9}Future Work and Conclusions}{57}
-\contentsline {chapter}{Bibliography}{59}
-\contentsline {chapter}{\numberline {A}Web-based Information Discovery and Curation Tools}{65}
-\contentsline {chapter}{\numberline {B}Sample Enabling Mechanisms of the Conceptual Framework for Information Discovery and Curation}{69}
-\contentsline {chapter}{\numberline {C}KeePlaces Mechanisms and Features}{82}
+\contentsline {subsubsection}{Channel-picking}{38}
+\contentsline {subsection}{\numberline {5.2.4}Summary}{38}
+\contentsline {section}{\numberline {5.3}Enhancing Information Discovery and Curation Experience}{39}
+\contentsline {subsection}{\numberline {5.3.1}Enhancing Navigation}{39}
+\contentsline {subsection}{\numberline {5.3.2}Enhancing Exploration}{41}
+\contentsline {subsection}{\numberline {5.3.3}Enhancing Curation}{41}
+\contentsline {subsection}{\numberline {5.3.4}Summary}{44}
+\contentsline {chapter}{\numberline {6}Framework Validation}{45}
+\contentsline {section}{\numberline {6.1}Pinterest}{45}
+\contentsline {section}{\numberline {6.2}Google Maps}{47}
+\contentsline {section}{\numberline {6.3}Wikipedia}{48}
+\contentsline {section}{\numberline {6.4}Delicious}{50}
+\contentsline {section}{\numberline {6.5}Yelp}{51}
+\contentsline {section}{\numberline {6.6}Discussion}{52}
+\contentsline {chapter}{\numberline {7}Framework Application for Design}{53}
+\contentsline {section}{\numberline {7.1}Applying the Conceptual Framework to Design an Application}{53}
+\contentsline {section}{\numberline {7.2}KeePlaces Features and Future Prospects}{54}
+\contentsline {section}{\numberline {7.3}Discussion}{57}
+\contentsline {chapter}{\numberline {8}Research and Design Implications}{58}
+\contentsline {chapter}{\numberline {9}Future Work and Conclusions}{60}
+\contentsline {chapter}{Bibliography}{62}
+\contentsline {chapter}{\numberline {A}Web-based Information Discovery and Curation Tools}{68}
+\contentsline {chapter}{\numberline {B}Sample Mechanisms and Features}{72}
+\contentsline {chapter}{\numberline {C}KeePlaces Mechanisms}{85}
