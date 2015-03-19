@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.9)  18 MAR 2015 19:51
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.24)  19 MAR 2015 02:31
 entering extended mode
 **thesis1.tex
-(C:\Users\elenavoyl\git\thesis\thesis1.tex
+(C:\Users\Elena\git\thesis\thesis1.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -32,7 +32,7 @@ File: bk12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \bibindent=\dimen102
 )
 \@input{macros/style.aux}
-(C:\Users\elenavoyl\git\thesis\macros/style.tex
+(C:\Users\Elena\git\thesis\macros/style.tex
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
@@ -120,7 +120,7 @@ Package tocloft Info: The document has chapter divisions on input line 44.
 \cfttabnumwidth=\skip85
 ))
 \@input{macros/use_packages.aux}
-(C:\Users\elenavoyl\git\thesis\macros/use_packages.tex
+(C:\Users\Elena\git\thesis\macros/use_packages.tex
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\dcolumn.sty"
 Package: dcolumn 2001/05/28 v1.06 decimal alignment package (DPC)
 
@@ -269,19 +269,19 @@ Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 \Gin@req@height=\dimen123
 \Gin@req@width=\dimen124
 ))
-(C:\Users\elenavoyl\git\thesis\thesis1.aux
-(C:\Users\elenavoyl\git\thesis\chapters/1/chapter_intro.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/3/methodology.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/2/chapter_related_work.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/4/old_framework.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/5/framework.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/12/evaluation.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/6/application.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/7/implications.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/9/future_work.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/appendix/appendix_tools.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/appendix/appendix_features.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/appendix/appendix_keeplaces.aux))
+(C:\Users\Elena\git\thesis\thesis1.aux
+(C:\Users\Elena\git\thesis\chapters/1/chapter_intro.aux)
+(C:\Users\Elena\git\thesis\chapters/3/methodology.aux)
+(C:\Users\Elena\git\thesis\chapters/2/chapter_related_work.aux)
+(C:\Users\Elena\git\thesis\chapters/4/old_framework.aux)
+(C:\Users\Elena\git\thesis\chapters/5/framework.aux)
+(C:\Users\Elena\git\thesis\chapters/12/evaluation.aux)
+(C:\Users\Elena\git\thesis\chapters/6/application.aux)
+(C:\Users\Elena\git\thesis\chapters/7/implications.aux)
+(C:\Users\Elena\git\thesis\chapters/9/future_work.aux)
+(C:\Users\Elena\git\thesis\chapters/appendix/appendix_tools.aux)
+(C:\Users\Elena\git\thesis\chapters/appendix/appendix_features.aux)
+(C:\Users\Elena\git\thesis\chapters/appendix/appendix_keeplaces.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
@@ -329,7 +329,7 @@ LaTeX Font Info:    ... okay on input line 5.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+(C:\Users\Elena\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count111
 \scratchdimen=\dimen125
@@ -342,8 +342,8 @@ LaTeX Font Info:    ... okay on input line 5.
 \MPnumerator=\count115
 \makeMPintoPDFobject=\count116
 \everyMPtoPDFconversion=\toks30
-) (C:\Users\elenavoyl\git\thesis\frontmatter/fm.tex
-(C:\Users\elenavoyl\git\thesis\frontmatter/tp.tex
+) (C:\Users\Elena\git\thesis\frontmatter/fm.tex
+(C:\Users\Elena\git\thesis\frontmatter/tp.tex
 LaTeX Font Info:    Try loading font information for U+msa on input line 18.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
@@ -367,23 +367,23 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 19.
 )
-(C:\Users\elenavoyl\git\thesis\frontmatter/sc.tex [1
+(C:\Users\Elena\git\thesis\frontmatter/sc.tex [1
 
 
 
 
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+{C:/Users/Elena/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 Underfull \hbox (badness 10000) in paragraph at lines 16--19
 
  []
 
-) [2] (C:\Users\elenavoyl\git\thesis\frontmatter/abs.tex
+) [2] (C:\Users\Elena\git\thesis\frontmatter/abs.tex
 Underfull \hbox (badness 10000) in paragraph at lines 4--7
 
  []
 
-) [3] (C:\Users\elenavoyl\git\thesis\thesis1.toc
+) [3] (C:\Users\Elena\git\thesis\thesis1.toc
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -392,10 +392,10 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [4] [5])
 \tf@toc=\write3
- [6] (C:\Users\elenavoyl\git\thesis\thesis1.lot)
+ [6] (C:\Users\Elena\git\thesis\thesis1.lot)
 \tf@lot=\write4
  [7]
-(C:\Users\elenavoyl\git\thesis\thesis1.lof
+(C:\Users\Elena\git\thesis\thesis1.lof
 Overfull \hbox (1.64648pt too wide) in paragraph at lines 10--10
  [][] []\OT1/cmr/m/n/12 Information Dis-cov-ery and Cu-ra-tion Ac-tiv-i-ties, A
 c-tions, and Cor- 
@@ -403,12 +403,12 @@ c-tions, and Cor-
 
 )
 \tf@lof=\write5
- [8]) (C:\Users\elenavoyl\git\thesis\chapters/1/chapter_intro.tex
+ [8]) (C:\Users\Elena\git\thesis\chapters/1/chapter_intro.tex
 Chapter 1.
 [1
 
 
-] [2]) [3] (C:\Users\elenavoyl\git\thesis\chapters/3/methodology.tex
+] [2]) [3] (C:\Users\Elena\git\thesis\chapters/3/methodology.tex
 Chapter 2.
 <images/Methodology.png, id=43, 485.56406pt x 264.99pt>
 File: images/Methodology.png Graphic file (type png)
@@ -420,19 +420,19 @@ Package pdftex.def Info: images/Methodology.png used on input line 8.
 
 
 
-] [5 <C:/Users/elenavoyl/git/thesis/images/Methodology.png>] [6]
+] [5 <C:/Users/Elena/git/thesis/images/Methodology.png>] [6]
 Overfull \hbox (15.91763pt too wide) in paragraph at lines 50--97
 [][] 
  []
 
-[7] [8]) [9] (C:\Users\elenavoyl\git\thesis\chapters/2/chapter_related_work.tex
+[7] [8]) [9] (C:\Users\Elena\git\thesis\chapters/2/chapter_related_work.tex
 Chapter 3.
 [10
 
 
 
 ] [11] [12] [13] [14] [15]) [16]
-(C:\Users\elenavoyl\git\thesis\chapters/4/old_framework.tex
+(C:\Users\Elena\git\thesis\chapters/4/old_framework.tex
 Chapter 4.
 [17
 
@@ -443,7 +443,7 @@ Overfull \hbox (3.51765pt too wide) in paragraph at lines 49--89
  [][] 
  []
 
-) [21] [22] (C:\Users\elenavoyl\git\thesis\chapters/5/framework.tex
+) [21] [22] (C:\Users\Elena\git\thesis\chapters/5/framework.tex
 Chapter 5.
 [23
 
@@ -455,7 +455,7 @@ File: images/framework_overview.png Graphic file (type png)
 <use images/framework_overview.png>
 Package pdftex.def Info: images/framework_overview.png used on input line 18.
 (pdftex.def)             Requested size: 433.62001pt x 340.09361pt.
- [24 <C:/Users/elenavoyl/git/thesis/images/framework_overview.png>]
+ [24 <C:/Users/Elena/git/thesis/images/framework_overview.png>]
 Overfull \hbox (5.84578pt too wide) in paragraph at lines 24--24
 []\OT1/cmr/bx/n/17.28 Motives Be-hind In-for-ma-tion Dis-cov-ery and Cu-
  []
@@ -468,54 +468,45 @@ Package pdftex.def Info: images/motives.png used on input line 30.
 (pdftex.def)             Requested size: 241.65222pt x 104.64066pt.
  [25
 
- <C:/Users/elenavoyl/git/thesis/images/motives.png>] [26] <images/enablers.png,
- id=125, 238.64156pt x 105.39375pt>
+ <C:/Users/Elena/git/thesis/images/motives.png>]
+[26] [27] <images/enablers.png, id=128, 238.64156pt x 105.39375pt>
 File: images/enablers.png Graphic file (type png)
 
 <use images/enablers.png>
 Package pdftex.def Info: images/enablers.png used on input line 74.
 (pdftex.def)             Requested size: 238.64096pt x 105.39348pt.
- [27]
+
 <images/framework_enablers.png, id=129, 394.47375pt x 489.32813pt>
 File: images/framework_enablers.png Graphic file (type png)
 
 <use images/framework_enablers.png>
 Package pdftex.def Info: images/framework_enablers.png used on input line 86.
 (pdftex.def)             Requested size: 433.62001pt x 537.88927pt.
- [28 <C:/Users/elenavoyl/git/thesis/images/enablers.png>] [29 <C:/Users/elenavo
-yl/git/thesis/images/framework_enablers.png>] [30
+ [28 <C:/Users/Elena/git/thesis/images/enablers.png>] [29 <C:/Users/Elena/git/t
+hesis/images/framework_enablers.png>]
+[30
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 131--131
-[]|\OT1/cmr/m/n/12 Integrated op-por-tunis-tic
- []
-
-
-Overfull \hbox (25.19997pt too wide) in paragraph at lines 114--143
+Overfull \hbox (25.19997pt too wide) in paragraph at lines 115--144
 [][] 
  []
 
 [31] [32]
-Overfull \hbox (20.5261pt too wide) in paragraph at lines 159--159
+Overfull \hbox (20.5261pt too wide) in paragraph at lines 160--160
 []\OT1/cmr/bx/n/14.4 Exploration in Dis-cov-ery: Ex-am-in-ing In-for-ma-tion Pa
 tches 
  []
 
 
-Overfull \hbox (3.51764pt too wide) in paragraph at lines 174--198
+Overfull \hbox (3.51764pt too wide) in paragraph at lines 175--199
 [][] 
  []
 
 [33] [34] [35
 
 ] [36]
-Underfull \hbox (badness 2027) in paragraph at lines 248--248
+Underfull \hbox (badness 2027) in paragraph at lines 249--249
 []|\OT1/cmr/m/n/12 Collection-based cat-e-go-
- []
-
-
-Underfull \hbox (badness 1616) in paragraph at lines 251--251
-[]|\OT1/cmr/m/n/12 Internal preser-va-tion of
  []
 
 
@@ -524,7 +515,12 @@ Underfull \hbox (badness 1616) in paragraph at lines 252--252
  []
 
 
-Overfull \hbox (3.51765pt too wide) in paragraph at lines 242--269
+Underfull \hbox (badness 1616) in paragraph at lines 253--253
+[]|\OT1/cmr/m/n/12 Internal preser-va-tion of
+ []
+
+
+Overfull \hbox (3.51765pt too wide) in paragraph at lines 243--270
 [][] 
  []
 
@@ -534,73 +530,38 @@ Overfull \hbox (3.51765pt too wide) in paragraph at lines 242--269
 File: images/enhancement.png Graphic file (type png)
 
 <use images/enhancement.png>
-Package pdftex.def Info: images/enhancement.png used on input line 291.
+Package pdftex.def Info: images/enhancement.png used on input line 292.
 (pdftex.def)             Requested size: 316.18047pt x 111.41597pt.
  [39
 
- <C:/Users/elenavoyl/git/thesis/images/enhancement.png>]
-Underfull \hbox (badness 5189) in paragraph at lines 311--311
-[]|\OT1/cmr/m/n/12 Support, au-toma-tion, and
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 325--325
-[]|\OT1/cmr/m/n/12 Personalized op-por-tunis-tic
- []
-
-
-Underfull \hbox (badness 1558) in paragraph at lines 330--330
-[]|\OT1/cmr/m/n/12 Application ac-tiv-ity up-date
- []
-
-
-Overfull \hbox (3.52426pt too wide) in paragraph at lines 309--335
+ <C:/Users/Elena/git/thesis/images/enhancement.png>]
+Overfull \hbox (3.52426pt too wide) in paragraph at lines 311--337
 [][] 
  []
 
 [40]
-Underfull \hbox (badness 5519) in paragraph at lines 358--358
+Underfull \hbox (badness 5519) in paragraph at lines 360--360
 []|\OT1/cmr/m/n/12 Personalized tex-tual pre-
  []
 
 
-Underfull \hbox (badness 3590) in paragraph at lines 367--367
+Underfull \hbox (badness 3590) in paragraph at lines 369--369
 \OT1/cmr/m/n/12 in-for-ma-tion within a re-
  []
 
 
-Overfull \hbox (3.51764pt too wide) in paragraph at lines 351--371
+Overfull \hbox (3.51764pt too wide) in paragraph at lines 353--373
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 381--381
-[]|\OT1/cmr/m/n/12 Cognitive sup-port,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 381--381
-\OT1/cmr/m/n/12 per-son-al-iza-tion, and
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 394--394
-[]|\OT1/cmr/m/n/12 Automated aug-men-ta-
- []
-
-
-Underfull \hbox (badness 2302) in paragraph at lines 403--403
-[]|\OT1/cmr/m/n/12 Suggesting ar-ti-facts for
- []
-
-
-Overfull \hbox (3.51765pt too wide) in paragraph at lines 379--408
+Overfull \hbox (3.51765pt too wide) in paragraph at lines 381--410
 [][] 
  []
 
 [41
 
-] [42] [43]) [44] (C:\Users\elenavoyl\git\thesis\chapters/12/evaluation.tex
+] [42] [43]) [44] (C:\Users\Elena\git\thesis\chapters/12/evaluation.tex
 Chapter 6.
 
 Overfull \hbox (1.28242pt too wide) in paragraph at lines 11--12
@@ -613,7 +574,7 @@ onal, ref-er-en-tial, or system-
 
 
 ] [46] [47] [48] [49] [50] [51]) [52]
-(C:\Users\elenavoyl\git\thesis\chapters/6/application.tex
+(C:\Users\Elena\git\thesis\chapters/6/application.tex
 Chapter 7.
 [53
 
@@ -625,8 +586,8 @@ File: images/keeplaces.png Graphic file (type png)
 <use images/keeplaces.png>
 Package pdftex.def Info: images/keeplaces.png used on input line 50.
 (pdftex.def)             Requested size: 433.62001pt x 194.23402pt.
- [56 <C:/Users/elenavoyl/git/thesis/images/keeplaces.png>]) [57] (C:\Users\elen
-avoyl\git\thesis\chapters/7/implications.tex
+ [56 <C:/Users/Elena/git/thesis/images/keeplaces.png>]) [57] (C:\Users\Elena\gi
+t\thesis\chapters/7/implications.tex
 Chapter 8.
 
 Overfull \hbox (5.9083pt too wide) in paragraph at lines 10--11
@@ -638,21 +599,21 @@ Overfull \hbox (5.9083pt too wide) in paragraph at lines 10--11
 
 
 
-]) [59] (C:\Users\elenavoyl\git\thesis\chapters/9/future_work.tex
+]) [59] (C:\Users\Elena\git\thesis\chapters/9/future_work.tex
 Chapter 9.
 [60
 
 
 
-]) [61] (C:\Users\elenavoyl\git\thesis\thesis1.bbl [62
+]) [61] (C:\Users\Elena\git\thesis\thesis1.bbl [62
 
 
 ] [63]
 Missing character: There is no â in font cmti12!
 Missing character: There is no € in font cmti12!
 Missing character: There is no ” in font cmti12!
- [64] [65]
-[66]) [67] (C:\Users\elenavoyl\git\thesis\chapters/appendix/appendix_tools.tex
+ [64] [65] [66])
+[67] (C:\Users\Elena\git\thesis\chapters/appendix/appendix_tools.tex
 Appendix A.
 
 Underfull \hbox (badness 10000) in paragraph at lines 16--17
@@ -778,7 +739,7 @@ Overfull \hbox (20.25807pt too wide) in alignment at lines 92--101
 
 
 ] [69] [70]) [71]
-(C:\Users\elenavoyl\git\thesis\chapters/appendix/appendix_features.tex
+(C:\Users\Elena\git\thesis\chapters/appendix/appendix_features.tex
 Appendix B.
 <images/search.png, id=276, 611.28375pt x 54.9553pt>
 File: images/search.png Graphic file (type png)
@@ -843,8 +804,8 @@ Package pdftex.def Info: images/opportunistic.png used on input line 59.
 
 
 
- <C:/Users/elenavoyl/git/thesis/images/search.png> <C:/Users/elenavoyl/git/thes
-is/images/integrated_search.png>]
+ <C:/Users/Elena/git/thesis/images/search.png> <C:/Users/Elena/git/thesis/image
+s/integrated_search.png>]
 <images/integrated_opportunistic.png, id=290, 213.79875pt x 30.1125pt>
 File: images/integrated_opportunistic.png Graphic file (type png)
 
@@ -872,15 +833,15 @@ File: images/news.png Graphic file (type png)
 <use images/news.png>
 Package pdftex.def Info: images/news.png used on input line 81.
 (pdftex.def)             Requested size: 273.17755pt x 149.62811pt.
- [73 <C:/Users/elenavoyl/git/thesis/images/categories.png> <C:/Users/elenavoyl/
-git/thesis/images/facets.png>] [74 <C:/Users/elenavoyl/git/thesis/images/filter
-s.png> <C:/Users/elenavoyl/git/thesis/images/tags.png> <C:/Users/elenavoyl/git/
-thesis/images/resource.png> <C:/Users/elenavoyl/git/thesis/images/integrated_re
-ference.png>] [75 <C:/Users/elenavoyl/git/thesis/images/opportunistic.png> <C:/
-Users/elenavoyl/git/thesis/images/integrated_opportunistic.png> <C:/Users/elena
-voyl/git/thesis/images/static_display.png>] [76 <C:/Users/elenavoyl/git/thesis/
-images/featured.png> <C:/Users/elenavoyl/git/thesis/images/news.png>] <images/v
-isual_preview.png, id=317, 581.92406pt x 368.1253pt>
+ [73 <C:/Users/Elena/git/thesis/images/categories.png> <C:/Users/Elena/git/thes
+is/images/facets.png>] [74 <C:/Users/Elena/git/thesis/images/filters.png> <C:/U
+sers/Elena/git/thesis/images/tags.png> <C:/Users/Elena/git/thesis/images/resour
+ce.png> <C:/Users/Elena/git/thesis/images/integrated_reference.png>] [75 <C:/Us
+ers/Elena/git/thesis/images/opportunistic.png> <C:/Users/Elena/git/thesis/image
+s/integrated_opportunistic.png> <C:/Users/Elena/git/thesis/images/static_displa
+y.png>] [76 <C:/Users/Elena/git/thesis/images/featured.png> <C:/Users/Elena/git
+/thesis/images/news.png>]
+<images/visual_preview.png, id=317, 581.92406pt x 368.1253pt>
 File: images/visual_preview.png Graphic file (type png)
 
 <use images/visual_preview.png>
@@ -935,20 +896,20 @@ Package pdftex.def Info: images/semantic_multiple.png used on input line 137.
 (pdftex.def)             Requested size: 234.1556pt x 157.93668pt.
  [77
 
- <C:/Users/elenavoyl/git/thesis/images/visual_preview.png> <C:/Users/elenavoyl/
-git/thesis/images/textual_preview.png>]
+ <C:/Users/Elena/git/thesis/images/visual_preview.png> <C:/Users/Elena/git/thes
+is/images/textual_preview.png>]
 <images/semantic_single.png, id=331, 855.195pt x 444.15938pt>
 File: images/semantic_single.png Graphic file (type png)
 
 <use images/semantic_single.png>
 Package pdftex.def Info: images/semantic_single.png used on input line 142.
 (pdftex.def)             Requested size: 390.25536pt x 202.68245pt.
- [78 <C:/Users/elenavoyl/git/thesis/images/visual_cue.png> <C:/Users/elenavoyl/
-git/thesis/images/textual_cue.png> <C:/Users/elenavoyl/git/thesis/images/list.p
-ng>] [79 <C:/Users/elenavoyl/git/thesis/images/grid.png> <C:/Users/elenavoyl/gi
-t/thesis/images/gallery.png>] [80 <C:/Users/elenavoyl/git/thesis/images/semanti
-c_multiple.png> <C:/Users/elenavoyl/git/thesis/images/semantic_single.png>]
-<images/collection.png, id=348, 752.8125pt x 231.86626pt>
+ [78 <C:/Users/Elena/git/thesis/images/visual_cue.png> <C:/Users/Elena/git/thes
+is/images/textual_cue.png> <C:/Users/Elena/git/thesis/images/list.png>] [79 <C:
+/Users/Elena/git/thesis/images/grid.png> <C:/Users/Elena/git/thesis/images/gall
+ery.png>] [80 <C:/Users/Elena/git/thesis/images/semantic_multiple.png> <C:/User
+s/Elena/git/thesis/images/semantic_single.png>] <images/collection.png, id=348,
+ 752.8125pt x 231.86626pt>
 File: images/collection.png Graphic file (type png)
 
 <use images/collection.png>
@@ -1004,9 +965,9 @@ Package pdftex.def Info: images/adding.png used on input line 199.
 
 [81
 
- <C:/Users/elenavoyl/git/thesis/images/collection.png> <C:/Users/elenavoyl/git/
-thesis/images/tagging.png> <C:/Users/elenavoyl/git/thesis/images/internal_inter
-nal.png>] <images/internal_sharing.png, id=362, 175.40532pt x 58.71938pt>
+ <C:/Users/Elena/git/thesis/images/collection.png> <C:/Users/Elena/git/thesis/i
+mages/tagging.png> <C:/Users/Elena/git/thesis/images/internal_internal.png>] <i
+mages/internal_sharing.png, id=362, 175.40532pt x 58.71938pt>
 File: images/internal_sharing.png Graphic file (type png)
 
 <use images/internal_sharing.png>
@@ -1038,15 +999,14 @@ File: images/artifact.png Graphic file (type png)
 <use images/artifact.png>
 Package pdftex.def Info: images/artifact.png used on input line 223.
 (pdftex.def)             Requested size: 117.07779pt x 47.24167pt.
- [82 <C:/Users/elenavoyl/git/thesis/images/internal_external.png> <C:/Users/ele
-navoyl/git/thesis/images/external_internal.png> <C:/Users/elenavoyl/git/thesis/
-images/annotation.png>] [83 <C:/Users/elenavoyl/git/thesis/images/EVALUATION.pn
-g> <C:/Users/elenavoyl/git/thesis/images/adding.png> <C:/Users/elenavoyl/git/th
-esis/images/internal_sharing.png> <C:/Users/elenavoyl/git/thesis/images/externa
-l_sharing.png>]) [84 <C:/Users/elenavoyl/git/thesis/images/user.png> <C:/Users/
-elenavoyl/git/thesis/images/site.png> <C:/Users/elenavoyl/git/thesis/images/art
-ifact.png>]
-(C:\Users\elenavoyl\git\thesis\chapters/appendix/appendix_keeplaces.tex
+ [82 <C:/Users/Elena/git/thesis/images/internal_external.png> <C:/Users/Elena/g
+it/thesis/images/external_internal.png> <C:/Users/Elena/git/thesis/images/annot
+ation.png>] [83 <C:/Users/Elena/git/thesis/images/EVALUATION.png> <C:/Users/Ele
+na/git/thesis/images/adding.png> <C:/Users/Elena/git/thesis/images/internal_sha
+ring.png> <C:/Users/Elena/git/thesis/images/external_sharing.png>]) [84 <C:/Use
+rs/Elena/git/thesis/images/user.png> <C:/Users/Elena/git/thesis/images/site.png
+> <C:/Users/Elena/git/thesis/images/artifact.png>]
+(C:\Users\Elena\git\thesis\chapters/appendix/appendix_keeplaces.tex
 Appendix C.
 <images/kp_search.png, id=387, 211.54031pt x 33.87656pt>
 File: images/kp_search.png Graphic file (type png)
@@ -1100,24 +1060,24 @@ Package pdftex.def Info: images/kp_keep.png used on input line 37.
 
 
 
- <C:/Users/elenavoyl/git/thesis/images/kp_search.png> <C:/Users/elenavoyl/git/t
-hesis/images/kp_categories.png> <C:/Users/elenavoyl/git/thesis/images/kp_refere
-nce.png>] [86 <C:/Users/elenavoyl/git/thesis/images/kp_featured.png> <C:/Users/
-elenavoyl/git/thesis/images/kp_preview.png>]) [87 <C:/Users/elenavoyl/git/thesi
-s/images/kp_collection.png> <C:/Users/elenavoyl/git/thesis/images/kp_keep.png>]
- (C:\Users\elenavoyl\git\thesis\thesis1.aux
-(C:\Users\elenavoyl\git\thesis\chapters/1/chapter_intro.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/3/methodology.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/2/chapter_related_work.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/4/old_framework.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/5/framework.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/12/evaluation.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/6/application.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/7/implications.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/9/future_work.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/appendix/appendix_tools.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/appendix/appendix_features.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/appendix/appendix_keeplaces.aux)) )
+ <C:/Users/Elena/git/thesis/images/kp_search.png> <C:/Users/Elena/git/thesis/im
+ages/kp_categories.png> <C:/Users/Elena/git/thesis/images/kp_reference.png>] [8
+6 <C:/Users/Elena/git/thesis/images/kp_featured.png> <C:/Users/Elena/git/thesis
+/images/kp_preview.png>]) [87 <C:/Users/Elena/git/thesis/images/kp_collection.p
+ng> <C:/Users/Elena/git/thesis/images/kp_keep.png>]
+(C:\Users\Elena\git\thesis\thesis1.aux
+(C:\Users\Elena\git\thesis\chapters/1/chapter_intro.aux)
+(C:\Users\Elena\git\thesis\chapters/3/methodology.aux)
+(C:\Users\Elena\git\thesis\chapters/2/chapter_related_work.aux)
+(C:\Users\Elena\git\thesis\chapters/4/old_framework.aux)
+(C:\Users\Elena\git\thesis\chapters/5/framework.aux)
+(C:\Users\Elena\git\thesis\chapters/12/evaluation.aux)
+(C:\Users\Elena\git\thesis\chapters/6/application.aux)
+(C:\Users\Elena\git\thesis\chapters/7/implications.aux)
+(C:\Users\Elena\git\thesis\chapters/9/future_work.aux)
+(C:\Users\Elena\git\thesis\chapters/appendix/appendix_tools.aux)
+(C:\Users\Elena\git\thesis\chapters/appendix/appendix_features.aux)
+(C:\Users\Elena\git\thesis\chapters/appendix/appendix_keeplaces.aux)) )
 (\end occurred inside a group at level 2)
 
 ### simple group (level 2) entered at line 41 ({)
@@ -1125,7 +1085,7 @@ s/images/kp_collection.png> <C:/Users/elenavoyl/git/thesis/images/kp_keep.png>]
 ### bottom level 
 Here is how much of TeX's memory you used:
  3953 strings out of 493921
- 59174 string characters out of 3144865
+ 58754 string characters out of 3144876
  138648 words of memory out of 3000000
  6999 multiletter control sequences out of 15000+200000
  17171 words of font info for 66 fonts, out of 3000000 for 9000
@@ -1140,7 +1100,7 @@ mr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
 b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/
 Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis1.pdf (95 pages, 8161573 bytes).
+Output written on thesis1.pdf (95 pages, 8242530 bytes).
 PDF statistics:
  442 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
