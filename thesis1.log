@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.24)  20 MAR 2015 02:38
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.24)  20 MAR 2015 03:14
 entering extended mode
 **thesis1.tex
 (C:\Users\Elena\git\thesis\thesis1.tex
@@ -504,22 +504,22 @@ Package pdftex.def Info: images/methodology.pdf used on input line 8.
 
 ]
 
-Package caption Warning: \label without proper \caption on input line 49.
+Package caption Warning: \label without proper \caption on input line 47.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `table:tools' on page 5 undefined on input line 37.
+LaTeX Warning: Reference `table:tools' on page 5 undefined on input line 33.
 
 [5 <C:/Users/Elena/git/thesis/images/methodology.pdf>] [6]
 
-Package caption Warning: \label without proper \caption on input line 49.
+Package caption Warning: \label without proper \caption on input line 47.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `table:tools' on page 7 undefined on input line 47.
+LaTeX Warning: Reference `table:tools' on page 7 undefined on input line 43.
 
 
-Overfull \hbox (15.91763pt too wide) in paragraph at lines 54--101
+Overfull \hbox (15.91763pt too wide) in paragraph at lines 50--97
 [][] 
  []
 
@@ -533,7 +533,7 @@ Chapter 3.
 (C:\Users\Elena\git\thesis\chapters/4/old_framework.tex
 Chapter 4.
 
-Package caption Warning: \label without proper \caption on input line 49.
+Package caption Warning: \label without proper \caption on input line 47.
 See the caption package documentation for explanation.
 
 
@@ -593,20 +593,20 @@ Overfull \hbox (25.19997pt too wide) in paragraph at lines 119--148
  []
 
 [31] [32]
-Overfull \hbox (20.5261pt too wide) in paragraph at lines 164--164
+Overfull \hbox (20.5261pt too wide) in paragraph at lines 165--165
 []\OT1/cmr/bx/n/14.4 Exploration in Dis-cov-ery: Ex-am-in-ing In-for-ma-tion Pa
 tches 
  []
 
-
-Overfull \hbox (3.51764pt too wide) in paragraph at lines 179--203
+[33]
+Overfull \hbox (3.51764pt too wide) in paragraph at lines 178--202
 [][] 
  []
 
-[33] [34] [35
+[34] [35
 
 ] [36]
-Overfull \hbox (3.51765pt too wide) in paragraph at lines 247--274
+Overfull \hbox (3.51765pt too wide) in paragraph at lines 246--273
 [][] 
  []
 
@@ -616,22 +616,22 @@ Overfull \hbox (3.51765pt too wide) in paragraph at lines 247--274
 File: images/enhancement.pdf Graphic file (type pdf)
 
 <use images/enhancement.pdf>
-Package pdftex.def Info: images/enhancement.pdf used on input line 296.
+Package pdftex.def Info: images/enhancement.pdf used on input line 295.
 (pdftex.def)             Requested size: 433.62001pt x 151.99188pt.
  [39
 
  <C:/Users/Elena/git/thesis/images/enhancement.pdf>]
-Overfull \hbox (3.52426pt too wide) in paragraph at lines 314--340
+Overfull \hbox (3.52426pt too wide) in paragraph at lines 313--339
 [][] 
  []
 
 [40]
-Overfull \hbox (3.51764pt too wide) in paragraph at lines 356--377
+Overfull \hbox (3.51764pt too wide) in paragraph at lines 355--376
 [][] 
  []
 
 
-Overfull \hbox (3.51765pt too wide) in paragraph at lines 385--414
+Overfull \hbox (3.51765pt too wide) in paragraph at lines 384--413
 [][] 
  []
 
@@ -1157,9 +1157,6 @@ ng> <C:/Users/Elena/git/thesis/images/kp_keep.png>]
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  )
 (\end occurred inside a group at level 2)
 
@@ -1167,11 +1164,11 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 ### simple group (level 1) entered at line 6 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 5966 strings out of 493921
- 91212 string characters out of 3144876
+ 5967 strings out of 493921
+ 91228 string characters out of 3144876
  181410 words of memory out of 3000000
- 8972 multiletter control sequences out of 15000+200000
- 17171 words of font info for 66 fonts, out of 3000000 for 9000
+ 8973 multiletter control sequences out of 15000+200000
+ 17530 words of font info for 67 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  68i,12n,98p,1590b,459s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
@@ -1183,7 +1180,7 @@ mr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
 b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/
 Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis1.pdf (95 pages, 8442643 bytes).
+Output written on thesis1.pdf (95 pages, 8443815 bytes).
 PDF statistics:
  466 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

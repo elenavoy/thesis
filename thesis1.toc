@@ -36,7 +36,7 @@
 \contentsline {subsubsection}{Descriptional Navigation}{29}
 \contentsline {subsubsection}{Referential Navigation}{31}
 \contentsline {subsubsection}{Opportunistic Navigation}{31}
-\contentsline {subsubsection}{System-regulated Navigation}{31}
+\contentsline {subsubsection}{System-regulated Navigation}{32}
 \contentsline {subsection}{\numberline {5.2.2}Exploration in Discovery: Examining Information Patches}{33}
 \contentsline {subsection}{\numberline {5.2.3}Curation}{35}
 \contentsline {subsubsection}{Management}{35}
