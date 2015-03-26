@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.9)  26 MAR 2015 10:50
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.9)  26 MAR 2015 10:58
 entering extended mode
 **thesis1.tex
 (C:\Users\elenavoyl\git\thesis\thesis1.tex
@@ -502,23 +502,7 @@ Package pdftex.def Info: images/methodology.pdf used on input line 8.
 
 
 
-]
-
-Package caption Warning: \label without proper \caption on input line 47.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `table:tools' on page 5 undefined on input line 33.
-
-[5 <C:/Users/elenavoyl/git/thesis/images/methodology.pdf>] [6]
-
-Package caption Warning: \label without proper \caption on input line 47.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `table:tools' on page 7 undefined on input line 43.
-
-
+] [5 <C:/Users/elenavoyl/git/thesis/images/methodology.pdf>] [6]
 Overfull \hbox (15.91763pt too wide) in paragraph at lines 50--97
 [][] 
  []
@@ -532,13 +516,6 @@ Chapter 3.
 ] [11] [12] [13] [14] [15]) [16]
 (C:\Users\elenavoyl\git\thesis\chapters/4/old_framework.tex
 Chapter 4.
-
-Package caption Warning: \label without proper \caption on input line 47.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `table:tools' on page 17 undefined on input line 3.
-
 [17
 
 
@@ -1154,11 +1131,7 @@ s/images/kp_collection.png> <C:/Users/elenavoyl/git/thesis/images/kp_keep.png>]
 (C:\Users\elenavoyl\git\thesis\chapters/9/future_work.aux)
 (C:\Users\elenavoyl\git\thesis\chapters/appendix/appendix_tools.aux)
 (C:\Users\elenavoyl\git\thesis\chapters/appendix/appendix_features.aux)
-(C:\Users\elenavoyl\git\thesis\chapters/appendix/appendix_keeplaces.aux))
-
-LaTeX Warning: There were undefined references.
-
- )
+(C:\Users\elenavoyl\git\thesis\chapters/appendix/appendix_keeplaces.aux)) )
 (\end occurred inside a group at level 2)
 
 ### simple group (level 2) entered at line 41 ({)
@@ -1167,7 +1140,7 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  5967 strings out of 493921
  91648 string characters out of 3144865
- 181410 words of memory out of 3000000
+ 181380 words of memory out of 3000000
  8973 multiletter control sequences out of 15000+200000
  17530 words of font info for 67 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
@@ -1181,7 +1154,7 @@ mr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
 b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/
 Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis1.pdf (95 pages, 8479071 bytes).
+Output written on thesis1.pdf (95 pages, 8478776 bytes).
 PDF statistics:
  466 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
